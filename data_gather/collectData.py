@@ -10,4 +10,3 @@ features = data['features']
 records = [feature['attributes'] for feature in features]
 df = pd.DataFrame(records)
 print(len(df.columns))
-d
