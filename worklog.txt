@@ -1,0 +1,8 @@
+#######################
+Worklog
+#######################
+
+July 15, 2023
+Goal: Gather all raw data from api endpoint and format into a DataFrame
+Achieved: 
+

@@ -1,0 +1,1323 @@
+OBJECTID,EVENT_UNIQUE_ID,OCC_DATE,OCC_YEAR,OCC_MONTH,OCC_DAY,OCC_DOW,OCC_DOY,DIVISION,HOMICIDE_TYPE,HOOD_158,NEIGHBOURHOOD_158,HOOD_140,NEIGHBOURHOOD_140,LONG_WGS84,LAT_WGS84
+1,GO-2004111878,2004.01.03,2004,January,3,Saturday,3,D53,Other,98,Rosedale-Moore Park,98,Rosedale-Moore Park (98),-79.3928506,43.68501978
+2,GO-2004125755,2004.01.08,2004,January,8,Thursday,8,D42,Shooting,142,Woburn North,137,Woburn (137),-79.23388715,43.78174054
+3,GO-2004136086,2004.01.08,2004,January,8,Thursday,8,D42,Shooting,146,Malvern East,132,Malvern (132),-79.20689374,43.81084933
+4,GO-2004148623,2004.01.25,2004,January,25,Sunday,25,D13,Shooting,171,Junction-Wallace Emerson,93,Dovercourt-Wallace Emerson-Junction (93),-79.4343959,43.67046556
+5,GO-2004148619,2004.01.25,2004,January,25,Sunday,25,D42,Shooting,144,Morningside Heights,131,Rouge (131),-79.20386233,43.82353541
+6,GO-2004152518,2004.02.20,2004,February,20,Friday,51,D31,Stabbing,154,Oakdale-Beverley Heights,26,Downsview-Roding-CFB (26),-79.50863063,43.72090918
+7,GO-2004152518,2004.02.20,2004,February,20,Friday,51,D31,Stabbing,154,Oakdale-Beverley Heights,26,Downsview-Roding-CFB (26),-79.50863063,43.72090918
+8,GO-2004172092,2004.02.21,2004,February,21,Saturday,52,D31,Shooting,154,Oakdale-Beverley Heights,26,Downsview-Roding-CFB (26),-79.50897606,43.72235792
+9,GO-2004133635,2004.02.21,2004,February,21,Saturday,52,D23,Other,2,Mount Olive-Silverstone-Jamestown,2,Mount Olive-Silverstone-Jamestown (2),-79.59286375,43.74310677
+10,GO-2004218803,2004.03.03,2004,March,3,Wednesday,63,D42,Shooting,144,Morningside Heights,131,Rouge (131),-79.2275972,43.81625981
+11,GO-2004218585,2004.03.03,2004,March,3,Wednesday,63,D42,Shooting,129,Agincourt North,129,Agincourt North (129),-79.26650286,43.80802063
+12,GO-2004301868,2004.03.03,2004,March,3,Wednesday,63,D54,Shooting,58,Old East York,58,Old East York (58),-79.32933713,43.69737643
+13,GO-2004200779,2004.03.04,2004,March,4,Thursday,64,D41,Shooting,120,Clairlea-Birchmount,120,Clairlea-Birchmount (120),-79.28672612,43.70007819
+14,GO-2004229133,2004.03.13,2004,March,13,Saturday,73,D41,Stabbing,142,Woburn North,137,Woburn (137),-79.24251743,43.76707544
+15,GO-2004219659,2004.03.18,2004,March,18,Thursday,78,D53,Other,39,Bedford Park-Nortown,39,Bedford Park-Nortown (39),-79.42748485,43.70973239
+16,GO-2004219687,2004.03.24,2004,March,24,Wednesday,84,D42,Other,141,Golfdale-Cedarbrae-Woburn,137,Woburn (137),-79.22532108,43.75981655
+17,GO-2004256410,2004.04.01,2004,April,1,Thursday,92,D51,Other,73,Moss Park,73,Moss Park (73),-79.37135298,43.65906716
+18,GO-2004250857,2004.04.13,2004,April,13,Tuesday,104,D23,Shooting,5,Elms-Old Rexdale,5,Elms-Old Rexdale (5),-79.55056133,43.72509069
+19,GO-2004350484,2004.05.01,2004,May,1,Saturday,122,D23,Shooting,2,Mount Olive-Silverstone-Jamestown,2,Mount Olive-Silverstone-Jamestown (2),-79.57928375,43.73523489
+20,GO-2004311851,2004.05.15,2004,May,15,Saturday,136,D31,Shooting,24,Black Creek,24,Black Creek (24),-79.51875893,43.76915718
+21,GO-2004311870,2004.05.19,2004,May,19,Wednesday,140,D22,Stabbing,20,Alderwood,20,Alderwood (20),-79.54413998,43.59430558
+22,GO-2004374908,2004.05.20,2004,May,20,Thursday,141,D13,Other,31,Yorkdale-Glen Park,31,Yorkdale-Glen Park (31),-79.45703965,43.71015855
+23,GO-2004374867,2004.05.21,2004,May,21,Friday,142,D51,Shooting,72,Regent Park,72,Regent Park (72),-79.36299801,43.66008107
+24,GO-2004408720,2004.05.21,2004,May,21,Friday,142,D23,Other,3,Thistletown-Beaumond Heights,3,Thistletown-Beaumond Heights (3),-79.57908532,43.73713165
+25,GO-2004308782,2004.05.22,2004,May,22,Saturday,143,D31,Shooting,29,Maple Leaf,29,Maple Leaf (29),-79.47898028,43.71406783
+26,GO-2004418221,2004.05.25,2004,May,25,Tuesday,146,D11,Other,86,Roncesvalles,86,Roncesvalles (86),-79.43797411,43.642272
+27,GO-2004456650,2004.06.01,2004,June,1,Tuesday,153,D51,Other,73,Moss Park,73,Moss Park (73),-79.37445106,43.66019618
+28,GO-2004455137,2004.06.04,2004,June,4,Friday,156,D14,Shooting,85,South Parkdale,85,South Parkdale (85),-79.42812551,43.63597506
+29,GO-2004456829,2004.06.18,2004,June,18,Friday,170,D51,Stabbing,73,Moss Park,73,Moss Park (73),-79.36900509,43.65461429
+30,GO-2004510813,2004.06.19,2004,June,19,Saturday,171,D31,Shooting,23,Pelmo Park-Humberlea,23,Pelmo Park-Humberlea (23),-79.53517668,43.71119696
+31,GO-2004564223,2004.07.01,2004,July,1,Thursday,183,D31,Shooting,24,Black Creek,24,Black Creek (24),-79.52266531,43.77213497
+32,GO-2004565547,2004.07.05,2004,July,5,Monday,187,D41,Stabbing,121,Oakridge,121,Oakridge (121),-79.27579757,43.69953446
+33,GO-2004565561,2004.07.07,2004,July,7,Wednesday,189,D22,Stabbing,16,Stonegate-Queensway,16,Stonegate-Queensway (16),-79.48524733,43.63014616
+34,GO-2004564251,2004.07.08,2004,July,8,Thursday,190,D31,Stabbing,28,Rustic,28,Rustic (28),-79.50534135,43.70840838
+35,GO-2004565588,2004.07.09,2004,July,9,Friday,191,D32,Stabbing,151,Yonge-Doris,51,Willowdale East (51),-79.41266712,43.7683879
+36,GO-2004986698,2004.07.12,2004,July,12,Monday,194,D42,Other,146,Malvern East,132,Malvern (132),-79.23605587,43.79187153
+37,GO-2004592201,2004.07.21,2004,July,21,Wednesday,203,D33,Shooting,48,Hillcrest Village,48,Hillcrest Village (48),-79.35633594,43.80085341
+38,GO-2004593866,2004.07.23,2004,July,23,Friday,205,D11,Other,90,Junction Area,90,Junction Area (90),-79.46764916,43.66324515
+39,GO-2004594159,2004.07.24,2004,July,24,Saturday,206,D51,Shooting,73,Moss Park,73,Moss Park (73),-79.36561755,43.65091268
+40,GO-2004607864,2004.08.05,2004,August,5,Thursday,218,D11,Other,171,Junction-Wallace Emerson,93,Dovercourt-Wallace Emerson-Junction (93),-79.45339168,43.66331406
+41,GO-2004616055,2004.08.18,2004,August,18,Wednesday,231,D31,Stabbing,28,Rustic,28,Rustic (28),-79.50383466,43.70287184
+42,GO-2004605174,2004.08.19,2004,August,19,Thursday,232,D13,Stabbing,108,Briar Hill-Belgravia,108,Briar Hill-Belgravia (108),-79.44110533,43.70224717
+43,GO-2004592255,2004.08.30,2004,August,30,Monday,243,D42,Shooting,134,Highland Creek,134,Highland Creek (134),-79.15777869,43.7938428
+44,GO-2004635798,2004.08.30,2004,August,30,Monday,243,D51,Other,73,Moss Park,73,Moss Park (73),-79.37271244,43.6523424
+45,GO-2004642839,2004.08.31,2004,August,31,Tuesday,244,D31,Stabbing,22,Humbermede,22,Humbermede (22),-79.54569487,43.75136344
+46,GO-2004642110,2004.09.05,2004,September,5,Sunday,249,D23,Shooting,6,Kingsview Village-The Westway,6,Kingsview Village-The Westway (6),-79.56143908,43.70063331
+47,GO-2004650681,2004.09.21,2004,September,21,Tuesday,265,D23,Shooting,1,West Humber-Clairville,1,West Humber-Clairville (1),-79.61427066,43.7321828
+48,GO-2004633558,2004.09.22,2004,September,22,Wednesday,266,D11,Other,27,York University Heights,27,York University Heights (27),-79.4907815,43.7454545
+49,GO-2004676448,2004.10.08,2004,October,8,Friday,282,D55,Other,70,South Riverdale,70,South Riverdale (70),-79.33727318,43.66055705
+50,GO-2004683174,2004.10.15,2004,October,15,Friday,289,D31,Shooting,28,Rustic,28,Rustic (28),-79.50054845,43.71126133
+51,GO-2004643900,2004.10.21,2004,October,21,Thursday,295,D11,Other,88,High Park North,88,High Park North (88),-79.47286749,43.65187285
+52,GO-2004696852,2004.10.27,2004,October,27,Wednesday,301,D53,Other,99,Mount Pleasant East,99,Mount Pleasant East (99),-79.37858096,43.70101372
+53,GO-2004697185,2004.11.12,2004,November,12,Friday,317,D13,Other,92,Corso Italia-Davenport,92,Corso Italia-Davenport (92),-79.44952146,43.67511536
+54,GO-2004734705,2004.12.01,2004,December,1,Wednesday,336,D14,Stabbing,172,Dovercourt Village,93,Dovercourt-Wallace Emerson-Junction (93),-79.42871686,43.66929822
+55,GO-2004734705,2004.12.01,2004,December,1,Wednesday,336,D14,Stabbing,172,Dovercourt Village,93,Dovercourt-Wallace Emerson-Junction (93),-79.42871686,43.66929822
+56,GO-2004735933,2004.12.02,2004,December,2,Thursday,337,D42,Other,133,Centennial Scarborough,133,Centennial Scarborough (133),-79.1692872,43.78200685
+57,GO-2004734029,2004.12.03,2004,December,3,Friday,338,D54,Stabbing,58,Old East York,58,Old East York (58),-79.32814143,43.69607463
+58,GO-2004735980,2004.12.11,2004,December,11,Saturday,346,D33,Stabbing,40,St.Andrew-Windfields,40,St.Andrew-Windfields (40),-79.38496786,43.75214384
+59,GO-2004730198,2004.12.11,2004,December,11,Saturday,346,D14,Stabbing,79,University,79,University (79),-79.4010302,43.65781019
+60,GO-2004775505,2004.12.12,2004,December,12,Sunday,347,D54,Stabbing,54,O'Connor-Parkview,54,O'Connor-Parkview (54),-79.30898729,43.70867374
+61,GO-2004736004,2004.12.19,2004,December,19,Sunday,354,D51,Shooting,168,Downtown Yonge East,75,Church-Yonge Corridor (75),-79.3788698,43.66066473
+62,GO-2004811677,2004.12.19,2004,December,19,Sunday,354,D41,Shooting,124,Kennedy Park,124,Kennedy Park (124),-79.25651332,43.73074067
+63,GO-2004730003,2004.12.20,2004,December,20,Monday,355,D54,Shooting,44,Flemingdon Park,44,Flemingdon Park (44),-79.32777746,43.71261455
+64,GO-2004860547,2004.12.31,2004,December,31,Friday,366,D42,Stabbing,123,Cliffcrest,123,Cliffcrest (123),-79.23591377,43.73537465
+65,GO-2005879569,2005.01.14,2005,January,14,Friday,14,D42,Stabbing,130,Milliken,130,Milliken (130),-79.2652407,43.82737369
+66,GO-2005910043,2005.01.18,2005,January,18,Tuesday,18,D14,Stabbing,172,Dovercourt Village,93,Dovercourt-Wallace Emerson-Junction (93),-79.42405096,43.66597439
+67,GO-2005920738,2005.01.21,2005,January,21,Friday,21,D14,Shooting,162,West Queen West,82,Niagara (82),-79.40732427,43.64257868
+68,GO-2005920738,2005.01.21,2005,January,21,Friday,21,D14,Shooting,162,West Queen West,82,Niagara (82),-79.40732427,43.64257868
+69,GO-20051003568,2005.01.24,2005,January,24,Monday,24,D42,Other,116,Steeles,116,Steeles (116),-79.33214583,43.80720598
+70,GO-2005812174,2005.01.26,2005,January,26,Wednesday,26,D31,Other,24,Black Creek,24,Black Creek (24),-79.52142353,43.77320183
+71,GO-2005733656,2005.02.11,2005,February,11,Friday,42,D12,Other,91,Weston-Pelham Park,91,Weston-Pellam Park (91),-79.45579075,43.67033026
+72,GO-2005951634,2005.02.11,2005,February,11,Friday,42,D33,Shooting,126,Dorset Park,126,Dorset Park (126),-79.2822541,43.76941531
+73,GO-2005736672,2005.02.12,2005,February,12,Saturday,43,D23,Shooting,2,Mount Olive-Silverstone-Jamestown,2,Mount Olive-Silverstone-Jamestown (2),-79.5875824,43.75464813
+74,GO-2005768554,2005.02.15,2005,February,15,Tuesday,46,D41,Shooting,126,Dorset Park,126,Dorset Park (126),-79.2822541,43.76941531
+75,GO-2005918414,2005.02.15,2005,February,15,Tuesday,46,D51,Shooting,74,North St.James Town,74,North St.James Town (74),-79.37377428,43.66728915
+76,GO-2005929672,2005.02.18,2005,February,18,Friday,49,D22,Other,160,Mimico-Queensway,17,Mimico (includes Humber Bay Shores) (17),-79.4918694,43.61327817
+77,GO-2005969241,2005.02.28,2005,February,28,Monday,59,D32,Shooting,36,Newtonbrook West,36,Newtonbrook West (36),-79.4460503,43.78591163
+78,GO-2005953786,2005.03.05,2005,March,5,Saturday,64,D33,Shooting,42,Banbury-Don Mills,42,Banbury-Don Mills (42),-79.35630182,43.74097582
+79,GO-2005745939,2005.03.11,2005,March,11,Friday,70,D22,Stabbing,16,Stonegate-Queensway,16,Stonegate-Queensway (16),-79.49823058,43.62391333
+80,GO-2005758352,2005.03.25,2005,March,25,Friday,84,D51,Shooting,167,Church-Wellesley,75,Church-Yonge Corridor (75),-79.37937119,43.66186954
+81,GO-2005884190,2005.04.13,2005,April,13,Wednesday,103,D41,Shooting,122,Birchcliffe-Cliffside,122,Birchcliffe-Cliffside (122),-79.28125575,43.68530647
+82,GO-20051052948,2005.04.18,2005,April,18,Monday,108,D11,Shooting,85,South Parkdale,85,South Parkdale (85),-79.43603377,43.63717019
+83,GO-20051006774,2005.04.19,2005,April,19,Tuesday,109,D52,Other,165,Harbourfront-CityPlace,77,Waterfront Communities-The Island (77),-79.38444074,43.64230121
+84,GO-2005739652,2005.04.24,2005,April,24,Sunday,114,D31,Shooting,21,Humber Summit,21,Humber Summit (21),-79.55297972,43.75143328
+85,GO-2005736140,2005.05.04,2005,May,4,Wednesday,124,D42,Stabbing,129,Agincourt North,129,Agincourt North (129),-79.28169871,43.80845778
+86,GO-2005739574,2005.05.05,2005,May,5,Thursday,125,D14,Shooting,171,Junction-Wallace Emerson,93,Dovercourt-Wallace Emerson-Junction (93),-79.43536217,43.65987759
+87,GO-2005737037,2005.05.05,2005,May,5,Thursday,125,D31,Stabbing,25,Glenfield-Jane Heights,25,Glenfield-Jane Heights (25),-79.51390331,43.75463836
+88,GO-2005756176,2005.05.08,2005,May,8,Sunday,128,D54,Shooting,66,Danforth,66,Danforth (66),-79.34177509,43.67956123
+89,GO-20051001532,2005.05.14,2005,May,14,Saturday,134,D51,Shooting,167,Church-Wellesley,75,Church-Yonge Corridor (75),-79.38152129,43.66845367
+90,GO-2005863844,2005.05.15,2005,May,15,Sunday,135,D41,Shooting,128,Agincourt South-Malvern West,128,Agincourt South-Malvern West (128),-79.24524616,43.78324832
+91,GO-2005988453,2005.05.18,2005,May,18,Wednesday,138,D42,Shooting,136,West Hill,136,West Hill (136),-79.19065218,43.75870273
+92,GO-2005781084,2005.05.27,2005,May,27,Friday,147,D31,Stabbing,25,Glenfield-Jane Heights,25,Glenfield-Jane Heights (25),-79.5096773,43.73966652
+93,GO-2005760646,2005.06.12,2005,June,12,Sunday,163,D55,Shooting,62,East End-Danforth,62,East End-Danforth (62),-79.29491704,43.68971268
+94,GO-20051000509,2005.06.24,2005,June,24,Friday,175,D31,Shooting,24,Black Creek,24,Black Creek (24),-79.52186721,43.76676342
+95,GO-2005834756,2005.06.25,2005,June,25,Saturday,176,D32,Stabbing,32,Englemount-Lawrence,32,Englemount-Lawrence (32),-79.44132042,43.72081612
+96,GO-20051086009,2005.06.29,2005,June,29,Wednesday,180,D14,Shooting,172,Dovercourt Village,93,Dovercourt-Wallace Emerson-Junction (93),-79.43840457,43.66695635
+97,GO-2005884293,2005.07.06,2005,July,6,Wednesday,187,D23,Shooting,22,Humbermede,22,Humbermede (22),-79.56827627,43.74631397
+98,GO-20051150352,2005.07.15,2005,July,15,Friday,196,D42,Other,136,West Hill,136,West Hill (136),-79.19167772,43.76981817
+99,GO-2005863854,2005.07.17,2005,July,17,Sunday,198,D41,Other,121,Oakridge,121,Oakridge (121),-79.27256053,43.69468894
+100,GO-20051059962,2005.07.19,2005,July,19,Tuesday,200,D12,Shooting,111,Rockcliffe-Smythe,111,Rockcliffe-Smythe (111),-79.48213503,43.68062582
+101,GO-20051070618,2005.07.20,2005,July,20,Wednesday,201,D33,Other,149,Parkwoods-O'Connor Hills,45,Parkwoods-Donalda (45),-79.3258448,43.74336318
+102,GO-20051135001,2005.07.30,2005,July,30,Saturday,211,D31,Shooting,32,Englemount-Lawrence,32,Englemount-Lawrence (32),-79.44101856,43.72012088
+103,GO-20051033503,2005.07.30,2005,July,30,Saturday,211,D42,Shooting,148,East L'Amoreaux,117,L'Amoreaux (117),-79.31576263,43.79676688
+104,GO-20051148137,2005.07.31,2005,July,31,Sunday,212,D52,Shooting,168,Downtown Yonge East,75,Church-Yonge Corridor (75),-79.38108203,43.65831636
+105,GO-20051041793,2005.08.03,2005,August,3,Wednesday,215,D23,Shooting,2,Mount Olive-Silverstone-Jamestown,2,Mount Olive-Silverstone-Jamestown (2),-79.58321011,43.73298162
+106,GO-20051102449,2005.08.05,2005,August,5,Friday,217,D42,Shooting,147,L'Amoreaux West,117,L'Amoreaux (117),-79.33312856,43.7981694
+107,GO-20051068304,2005.08.07,2005,August,7,Sunday,219,D51,Shooting,71,Cabbagetown-South St.James Town,71,Cabbagetown-South St.James Town (71),-79.37551634,43.66573486
+108,GO-20051068304,2005.08.07,2005,August,7,Sunday,219,D51,Shooting,71,Cabbagetown-South St.James Town,71,Cabbagetown-South St.James Town (71),-79.37551634,43.66573486
+109,GO-2005985817,2005.08.13,2005,August,13,Saturday,225,D23,Shooting,8,Humber Heights-Westmount,8,Humber Heights-Westmount (8),-79.52058531,43.69581381
+110,GO-20051156816,2005.08.15,2005,August,15,Monday,227,D51,Shooting,71,Cabbagetown-South St.James Town,71,Cabbagetown-South St.James Town (71),-79.37468029,43.66708833
+111,GO-20051072514,2005.08.16,2005,August,16,Tuesday,228,D54,Shooting,44,Flemingdon Park,44,Flemingdon Park (44),-79.33495372,43.71872428
+112,GO-2005117846,2005.08.18,2005,August,18,Thursday,230,D41,Other,156,Bendale-Glen Andrew,127,Bendale (127),-79.26662183,43.75811664
+113,GO-20051183577,2005.08.20,2005,August,20,Saturday,232,D22,Other,18,New Toronto,18,New Toronto (18),-79.50728385,43.6025305
+114,GO-20051189864,2005.08.25,2005,August,25,Thursday,237,D42,Shooting,139,Scarborough Village,139,Scarborough Village (139),-79.22055842,43.74282882
+115,GO-2005761120,2005.08.30,2005,August,30,Tuesday,242,D31,Shooting,25,Glenfield-Jane Heights,25,Glenfield-Jane Heights (25),-79.50952213,43.73912094
+116,GO-20051178414,2005.08.31,2005,August,31,Wednesday,243,D51,Other,73,Moss Park,73,Moss Park (73),-79.37011896,43.65615654
+117,GO-20051389771,2005.09.06,2005,September,6,Tuesday,249,D33,Stabbing,42,Banbury-Don Mills,42,Banbury-Don Mills (42),-79.34365243,43.74026784
+118,GO-20051101797,2005.09.08,2005,September,8,Thursday,251,D31,Shooting,28,Rustic,28,Rustic (28),-79.50130898,43.70498182
+119,GO-2005739598,2005.09.09,2005,September,9,Friday,252,D14,Shooting,163,Fort York-Liberty Village,82,Niagara (82),-79.40009206,43.63558179
+120,GO-20051096519,2005.09.10,2005,September,10,Saturday,253,D31,Shooting,24,Black Creek,24,Black Creek (24),-79.51476374,43.76720514
+121,GO-20051203047,2005.09.13,2005,September,13,Tuesday,256,D31,Shooting,25,Glenfield-Jane Heights,25,Glenfield-Jane Heights (25),-79.5163405,43.75188656
+122,GO-20051139553,2005.09.16,2005,September,16,Friday,259,D14,Shooting,85,South Parkdale,85,South Parkdale (85),-79.4342743,43.63630227
+123,GO-20051156513,2005.09.16,2005,September,16,Friday,259,D23,Shooting,5,Elms-Old Rexdale,5,Elms-Old Rexdale (5),-79.54936006,43.72728306
+124,GO-20051156513,2005.09.16,2005,September,16,Friday,259,D23,Shooting,5,Elms-Old Rexdale,5,Elms-Old Rexdale (5),-79.54936006,43.72728306
+125,GO-20051156513,2005.09.16,2005,September,16,Friday,259,D23,Shooting,5,Elms-Old Rexdale,5,Elms-Old Rexdale (5),-79.54936006,43.72728306
+126,GO-20051158528,2005.09.19,2005,September,19,Monday,262,D32,Stabbing,33,Clanton Park,33,Clanton Park (33),-79.44008175,43.73610312
+127,GO-20051228892,2005.09.22,2005,September,22,Thursday,265,D54,Other,58,Old East York,58,Old East York (58),-79.33526113,43.69453922
+128,GO-20051141576,2005.10.01,2005,October,1,Saturday,274,D42,Stabbing,136,West Hill,136,West Hill (136),-79.16262795,43.77038864
+129,GO-20051325246,2005.10.22,2005,October,22,Saturday,295,D23,Shooting,2,Mount Olive-Silverstone-Jamestown,2,Mount Olive-Silverstone-Jamestown (2),-79.5885304,43.73868832
+130,GO-20051265274,2005.10.23,2005,October,23,Sunday,296,D23,Shooting,2,Mount Olive-Silverstone-Jamestown,2,Mount Olive-Silverstone-Jamestown (2),-79.5916995,43.73676687
+131,GO-20051265274,2005.10.23,2005,October,23,Sunday,296,D23,Shooting,2,Mount Olive-Silverstone-Jamestown,2,Mount Olive-Silverstone-Jamestown (2),-79.5916995,43.73676687
+132,GO-20051317338,2005.11.01,2005,November,1,Tuesday,305,D42,Shooting,147,L'Amoreaux West,117,L'Amoreaux (117),-79.33312856,43.7981694
+133,GO-20051293148,2005.11.02,2005,November,2,Wednesday,306,D54,Other,54,O'Connor-Parkview,54,O'Connor-Parkview (54),-79.30157306,43.71529984
+134,GO-20051283750,2005.11.05,2005,November,5,Saturday,309,D14,Other,85,South Parkdale,85,South Parkdale (85),-79.43387291,43.63932014
+135,GO-20051345445,2005.11.09,2005,November,9,Wednesday,313,D13,Shooting,108,Briar Hill-Belgravia,108,Briar Hill-Belgravia (108),-79.44278975,43.69729598
+136,GO-20051356083,2005.11.12,2005,November,12,Saturday,316,D32,Stabbing,153,Avondale,51,Willowdale East (51),-79.40656984,43.75649487
+137,GO-20051322417,2005.11.14,2005,November,14,Monday,318,D12,Shooting,91,Weston-Pelham Park,91,Weston-Pellam Park (91),-79.46362682,43.68071577
+138,GO-20051258191,2005.11.18,2005,November,18,Friday,322,D23,Shooting,2,Mount Olive-Silverstone-Jamestown,2,Mount Olive-Silverstone-Jamestown (2),-79.59230675,43.74237026
+139,GO-20051337264,2005.11.26,2005,November,26,Saturday,330,D41,Stabbing,126,Dorset Park,126,Dorset Park (126),-79.27737099,43.74557201
+140,GO-20051428567,2005.11.29,2005,November,29,Tuesday,333,D11,Shooting,171,Junction-Wallace Emerson,93,Dovercourt-Wallace Emerson-Junction (93),-79.44868158,43.65957074
+141,GO-20051440086,2005.12.01,2005,December,1,Thursday,335,D31,Shooting,NSA,NSA,NSA,NSA,-79.54382092,43.77294089
+142,GO-20051439907,2005.12.16,2005,December,16,Friday,350,D53,Other,102,Forest Hill North,102,Forest Hill North (102),-79.42685286,43.70709886
+143,GO-20051443414,2005.12.23,2005,December,23,Friday,357,D31,Shooting,25,Glenfield-Jane Heights,25,Glenfield-Jane Heights (25),-79.51668932,43.75185003
+144,GO-20051229258,2005.12.26,2005,December,26,Monday,360,D52,Shooting,64,Woodbine Corridor,64,Woodbine Corridor (64),-79.3176661,43.68462092
+145,GO-20061426456,2006.01.01,2006,January,1,Sunday,1,D13,Shooting,108,Briar Hill-Belgravia,108,Briar Hill-Belgravia (108),-79.44732917,43.6963527
+146,GO-20061557753,2006.01.26,2006,January,26,Thursday,26,D32,Other,39,Bedford Park-Nortown,39,Bedford Park-Nortown (39),-79.41491774,43.73517512
+147,GO-20061361475,2006.02.06,2006,February,6,Monday,37,D31,Shooting,25,Glenfield-Jane Heights,25,Glenfield-Jane Heights (25),-79.50047435,43.7449688
+148,GO-20061511490,2006.02.08,2006,February,8,Wednesday,39,D54,Stabbing,44,Flemingdon Park,44,Flemingdon Park (44),-79.33495372,43.71872428
+149,GO-20061624304,2006.02.09,2006,February,9,Thursday,40,D42,Stabbing,147,L'Amoreaux West,117,L'Amoreaux (117),-79.33038092,43.79669558
+150,GO-20061624304,2006.02.09,2006,February,9,Thursday,40,D42,Stabbing,147,L'Amoreaux West,117,L'Amoreaux (117),-79.33038092,43.79669558
+151,GO-20061624304,2006.02.09,2006,February,9,Thursday,40,D42,Stabbing,147,L'Amoreaux West,117,L'Amoreaux (117),-79.33038092,43.79669558
+152,GO-20061559867,2006.03.02,2006,March,2,Thursday,61,D54,Other,61,Taylor-Massey,61,Taylor-Massey (61),-79.29251472,43.69285848
+153,GO-20061597252,2006.03.04,2006,March,4,Saturday,63,D43,Other,134,Highland Creek,134,Highland Creek (134),-79.17438663,43.79271618
+154,GO-20061640987,2006.03.12,2006,March,12,Sunday,71,D31,Shooting,22,Humbermede,22,Humbermede (22),-79.54522323,43.7478746
+155,GO-20061591256,2006.03.14,2006,March,14,Tuesday,73,D43,Shooting,139,Scarborough Village,139,Scarborough Village (139),-79.21891018,43.74317589
+156,GO-20061479234,2006.03.20,2006,March,20,Monday,79,D51,Shooting,74,North St.James Town,74,North St.James Town (74),-79.37377428,43.66728915
+157,GO-20061570672,2006.03.27,2006,March,27,Monday,86,D12,Shooting,115,Mount Dennis,115,Mount Dennis (115),-79.49091301,43.68756517
+158,GO-20061671071,2006.03.27,2006,March,27,Monday,86,D31,Shooting,25,Glenfield-Jane Heights,25,Glenfield-Jane Heights (25),-79.50719152,43.74846695
+159,GO-20061578377,2006.04.07,2006,April,7,Friday,97,D31,Other,21,Humber Summit,21,Humber Summit (21),-79.54907202,43.75064251
+160,GO-20061673447,2006.04.20,2006,April,20,Thursday,110,D31,Stabbing,155,Downsview,26,Downsview-Roding-CFB (26),-79.47342875,43.7291415
+161,GO-20061636602,2006.04.26,2006,April,26,Wednesday,116,D33,Stabbing,47,Don Valley Village,47,Don Valley Village (47),-79.34431813,43.78096988
+162,GO-20061473434,2006.04.29,2006,April,29,Saturday,119,D54,Shooting,44,Flemingdon Park,44,Flemingdon Park (44),-79.32852697,43.7190244
+163,GO-20061686110,2006.04.29,2006,April,29,Saturday,119,D22,Stabbing,18,New Toronto,18,New Toronto (18),-79.50889593,43.60153166
+164,GO-20061439616,2006.05.02,2006,May,2,Tuesday,122,D54,Stabbing,66,Danforth,66,Danforth (66),-79.32322605,43.68389458
+165,GO-20061506152,2006.05.15,2006,May,15,Monday,135,D52,Stabbing,78,Kensington-Chinatown,78,Kensington-Chinatown (78),-79.39410303,43.65260321
+166,GO-20061714664,2006.05.17,2006,May,17,Wednesday,137,D54,Other,61,Taylor-Massey,61,Taylor-Massey (61),-79.29371928,43.6925816
+167,GO-20061465047,2006.05.26,2006,May,26,Friday,146,D13,Other,106,Humewood-Cedarvale,106,Humewood-Cedarvale (106),-79.42086651,43.68618824
+168,GO-20061630473,2006.05.28,2006,May,28,Sunday,148,D43,Shooting,141,Golfdale-Cedarbrae-Woburn,137,Woburn (137),-79.21567941,43.76056737
+169,GO-20061558823,2006.06.02,2006,June,2,Friday,153,D54,Other,66,Danforth,66,Danforth (66),-79.33355035,43.68165435
+170,GO-20061677509,2006.06.03,2006,June,3,Saturday,154,D31,Stabbing,155,Downsview,26,Downsview-Roding-CFB (26),-79.48599638,43.74286131
+171,GO-20061441432,2006.06.03,2006,June,3,Saturday,154,D12,Shooting,113,Weston,113,Weston (113),-79.50657838,43.6956364
+172,GO-20061433643,2006.06.12,2006,June,12,Monday,163,D31,Shooting,28,Rustic,28,Rustic (28),-79.50226868,43.71652663
+173,GO-20061269372,2006.06.13,2006,June,13,Tuesday,164,D12,Stabbing,115,Mount Dennis,115,Mount Dennis (115),-79.49091301,43.68756517
+174,GO-20061556233,2006.06.22,2006,June,22,Thursday,173,D31,Stabbing,154,Oakdale-Beverley Heights,26,Downsview-Roding-CFB (26),-79.50815463,43.71907117
+175,GO-20061523520,2006.06.23,2006,June,23,Friday,174,D42,Shooting,145,Malvern West,132,Malvern (132),-79.22448013,43.80250086
+176,GO-20061712933,2006.06.23,2006,June,23,Friday,174,D51,Other,167,Church-Wellesley,75,Church-Yonge Corridor (75),-79.38265705,43.66673432
+177,GO-20061614702,2006.06.26,2006,June,26,Monday,177,D51,Shooting,166,St Lawrence-East Bayfront-The Islands,77,Waterfront Communities-The Island (77),-79.3679004,43.64743567
+178,GO-20061463143,2006.07.02,2006,July,2,Sunday,183,D12,Shooting,90,Junction Area,90,Junction Area (90),-79.47190263,43.6772222
+179,GO-20061436777,2006.07.05,2006,July,5,Wednesday,186,D22,Shooting,20,Alderwood,20,Alderwood (20),-79.54485457,43.60084451
+180,GO-20061680741,2006.07.11,2006,July,11,Tuesday,192,D51,Shooting,168,Downtown Yonge East,75,Church-Yonge Corridor (75),-79.37606178,43.65545369
+181,GO-20061789165,2006.07.12,2006,July,12,Wednesday,193,D42,Shooting,144,Morningside Heights,131,Rouge (131),-79.2264549,43.82980644
+182,GO-20061482034,2006.07.12,2006,July,12,Wednesday,193,D12,Shooting,115,Mount Dennis,115,Mount Dennis (115),-79.49201672,43.68791663
+183,GO-20061786165,2006.07.12,2006,July,12,Wednesday,193,D42,Shooting,144,Morningside Heights,131,Rouge (131),-79.2264549,43.82980644
+184,GO-20061720929,2006.07.14,2006,July,14,Friday,195,D23,Stabbing,1,West Humber-Clairville,1,West Humber-Clairville (1),-79.59208407,43.73217463
+185,GO-20061753633,2006.07.15,2006,July,15,Saturday,196,D54,Stabbing,54,O'Connor-Parkview,54,O'Connor-Parkview (54),-79.31062202,43.71379814
+186,GO-20061436568,2006.07.17,2006,July,17,Monday,198,D52,Shooting,54,O'Connor-Parkview,54,O'Connor-Parkview (54),-79.31062202,43.71379814
+187,GO-20061436461,2006.07.27,2006,July,27,Thursday,208,D42,Other,146,Malvern East,132,Malvern (132),-79.21694931,43.80723324
+188,GO-20061684861,2006.08.05,2006,August,5,Saturday,217,D11,Other,85,South Parkdale,85,South Parkdale (85),-79.43660917,43.63872666
+189,GO-20061467979,2006.09.11,2006,September,11,Monday,254,D52,Stabbing,170,Yonge-Bay Corridor,76,Bay Street Corridor (76),-79.38359055,43.65830353
+190,GO-20061467979,2006.09.11,2006,September,11,Monday,254,D52,Stabbing,170,Yonge-Bay Corridor,76,Bay Street Corridor (76),-79.38359055,43.65830353
+191,GO-20061442534,2006.09.14,2006,September,14,Thursday,257,D42,Shooting,148,East L'Amoreaux,117,L'Amoreaux (117),-79.30397793,43.80171363
+192,GO-20061825448,2006.09.17,2006,September,17,Sunday,260,D43,Other,142,Woburn North,137,Woburn (137),-79.24036174,43.77045511
+193,GO-20061873074,2006.09.17,2006,September,17,Sunday,260,D14,Shooting,85,South Parkdale,85,South Parkdale (85),-79.42913198,43.63857659
+194,GO-20061859866,2006.09.17,2006,September,17,Sunday,260,D42,Stabbing,116,Steeles,116,Steeles (116),-79.32563718,43.80735835
+195,GO-20061696275,2006.09.21,2006,September,21,Thursday,264,D41,Other,122,Birchcliffe-Cliffside,122,Birchcliffe-Cliffside (122),-79.25645598,43.71016858
+196,GO-20061448580,2006.09.22,2006,September,22,Friday,265,D51,Other,167,Church-Wellesley,75,Church-Yonge Corridor (75),-79.38254178,43.66314727
+197,GO-20061710058,2006.09.25,2006,September,25,Monday,268,D31,Shooting,21,Humber Summit,21,Humber Summit (21),-79.56910076,43.75904905
+198,GO-20061904938,2006.10.06,2006,October,6,Friday,279,D22,Other,158,Islington,14,Islington-City Centre West (14),-79.56014355,43.64739045
+199,GO-20061905589,2006.10.09,2006,October,9,Monday,282,D54,Shooting,43,Victoria Village,43,Victoria Village (43),-79.30446524,43.71890074
+200,GO-20061855834,2006.10.11,2006,October,11,Wednesday,284,D51,Stabbing,71,Cabbagetown-South St.James Town,71,Cabbagetown-South St.James Town (71),-79.36352251,43.66623016
+201,GO-20061696286,2006.10.17,2006,October,17,Tuesday,290,D41,Other,119,Wexford/Maryvale,119,Wexford/Maryvale (119),-79.30048125,43.72793571
+202,GO-20061603174,2006.10.21,2006,October,21,Saturday,294,D43,Stabbing,134,Highland Creek,134,Highland Creek (134),-79.1943528,43.78927125
+203,GO-20061877732,2006.10.27,2006,October,27,Friday,300,D22,Other,16,Stonegate-Queensway,16,Stonegate-Queensway (16),-79.49626393,43.62772797
+204,GO-20061787320,2006.10.27,2006,October,27,Friday,300,D52,Shooting,164,Wellington Place,77,Waterfront Communities-The Island (77),-79.38735317,43.64881731
+205,GO-20061470621,2006.11.05,2006,November,5,Sunday,309,D54,Stabbing,43,Victoria Village,43,Victoria Village (43),-79.30225605,43.71598276
+206,GO-20061470621,2006.11.05,2006,November,5,Sunday,309,D54,Stabbing,43,Victoria Village,43,Victoria Village (43),-79.30225605,43.71598276
+207,GO-20061448992,2006.11.14,2006,November,14,Tuesday,318,D42,Shooting,145,Malvern West,132,Malvern (132),-79.22924026,43.80987415
+208,GO-20061945800,2006.11.25,2006,November,25,Saturday,329,D11,Other,87,High Park-Swansea,87,High Park-Swansea (87),-79.48447934,43.64932424
+209,GO-20061796411,2006.12.03,2006,December,3,Sunday,337,D14,Shooting,165,Harbourfront-CityPlace,77,Waterfront Communities-The Island (77),-79.39392521,43.64273279
+210,GO-20061462848,2006.12.03,2006,December,3,Sunday,337,D42,Other,144,Morningside Heights,131,Rouge (131),-79.19713229,43.79676331
+211,GO-20061451923,2006.12.20,2006,December,20,Wednesday,354,D51,Other,72,Regent Park,72,Regent Park (72),-79.35833029,43.66258988
+212,GO-20061501929,2006.12.25,2006,December,25,Monday,359,D14,Shooting,85,South Parkdale,85,South Parkdale (85),-79.42737114,43.63895429
+213,GO-20061490523,2006.12.26,2006,December,26,Tuesday,360,D23,Stabbing,4,Rexdale-Kipling,4,Rexdale-Kipling (4),-79.573471,43.72574435
+214,GO-20061932560,2006.12.27,2006,December,27,Wednesday,361,D31,Shooting,24,Black Creek,24,Black Creek (24),-79.51937902,43.76449275
+215,GO-20071875060,2007.01.01,2007,January,1,Monday,1,D42,Shooting,145,Malvern West,132,Malvern (132),-79.22821663,43.79998737
+216,GO-20071763040,2007.01.11,2007,January,11,Thursday,11,D54,Shooting,44,Flemingdon Park,44,Flemingdon Park (44),-79.32319658,43.71194428
+217,GO-20071441479,2007.01.11,2007,January,11,Thursday,11,D12,Other,113,Weston,113,Weston (113),-79.51457615,43.69952521
+218,GO-20071993783,2007.01.14,2007,January,14,Sunday,14,D42,Shooting,128,Agincourt South-Malvern West,128,Agincourt South-Malvern West (128),-79.26697259,43.78077751
+219,GO-20071492036,2007.01.20,2007,January,20,Saturday,20,D12,Stabbing,111,Rockcliffe-Smythe,111,Rockcliffe-Smythe (111),-79.47716257,43.67815359
+220,GO-20071925141,2007.02.04,2007,February,4,Sunday,35,D43,Shooting,123,Cliffcrest,123,Cliffcrest (123),-79.22790402,43.72243113
+221,GO-20073654724,2007.02.11,2007,February,11,Sunday,42,D51,Other,166,St Lawrence-East Bayfront-The Islands,77,Waterfront Communities-The Island (77),-79.3689964,43.6439325
+222,GO-20071896894,2007.02.14,2007,February,14,Wednesday,45,D31,Stabbing,154,Oakdale-Beverley Heights,26,Downsview-Roding-CFB (26),-79.51320032,43.72550965
+223,GO-20072425942,2007.02.22,2007,February,22,Thursday,53,D22,Stabbing,158,Islington,14,Islington-City Centre West (14),-79.5556868,43.64151474
+224,GO-20072061133,2007.03.09,2007,March,9,Friday,68,D41,Stabbing,120,Clairlea-Birchmount,120,Clairlea-Birchmount (120),-79.29146059,43.72699014
+225,GO-20072065992,2007.03.15,2007,March,15,Thursday,74,D31,Shooting,22,Humbermede,22,Humbermede (22),-79.54836887,43.7487717
+226,GO-20071564750,2007.03.17,2007,March,17,Saturday,76,D13,Shooting,107,Oakwood Village,107,Oakwood Village (107),-79.44084118,43.69264824
+227,GO-20071438873,2007.03.28,2007,March,28,Wednesday,87,D32,Other,151,Yonge-Doris,51,Willowdale East (51),-79.41492911,43.77990278
+228,GO-20072090220,2007.04.02,2007,April,2,Monday,92,D31,Stabbing,25,Glenfield-Jane Heights,25,Glenfield-Jane Heights (25),-79.51668932,43.75185003
+229,GO-20072072766,2007.04.04,2007,April,4,Wednesday,94,D51,Shooting,71,Cabbagetown-South St.James Town,71,Cabbagetown-South St.James Town (71),-79.36867061,43.66784239
+230,GO-20071447527,2007.04.05,2007,April,5,Thursday,95,D22,Shooting,2,Mount Olive-Silverstone-Jamestown,2,Mount Olive-Silverstone-Jamestown (2),-79.58664758,43.75268118
+231,GO-20071606685,2007.04.06,2007,April,6,Friday,96,D43,Other,142,Woburn North,137,Woburn (137),-79.22839199,43.76062488
+232,GO-20072086798,2007.04.09,2007,April,9,Monday,99,D32,Stabbing,34,Bathurst Manor,34,Bathurst Manor (34),-79.44053044,43.7551159
+233,GO-20071842715,2007.04.12,2007,April,12,Thursday,102,D43,Shooting,68,North Riverdale,68,North Riverdale (68),-79.35443287,43.66501487
+234,GO-20072003231,2007.04.13,2007,April,13,Friday,103,D41,Stabbing,124,Kennedy Park,124,Kennedy Park (124),-79.26328693,43.73332918
+235,GO-20072178693,2007.04.21,2007,April,21,Saturday,111,D31,Shooting,154,Oakdale-Beverley Heights,26,Downsview-Roding-CFB (26),-79.52767803,43.71668856
+236,GO-20072021610,2007.04.22,2007,April,22,Sunday,112,D54,Stabbing,67,Playter Estates-Danforth,67,Playter Estates-Danforth (67),-79.35074707,43.67778798
+237,GO-20071971014,2007.04.29,2007,April,29,Sunday,119,D51,Other,167,Church-Wellesley,75,Church-Yonge Corridor (75),-79.38678443,43.67022021
+238,GO-20072149719,2007.05.08,2007,May,8,Tuesday,128,D43,Other,135,Morningside,135,Morningside (135),-79.20497235,43.78259513
+239,GO-20072198590,2007.05.09,2007,May,9,Wednesday,129,D42,Shooting,143,West Rouge,131,Rouge (131),-79.17949528,43.80427292
+240,GO-20072226769,2007.05.14,2007,May,14,Monday,134,D23,Other,5,Elms-Old Rexdale,5,Elms-Old Rexdale (5),-79.55179877,43.72687392
+241,GO-20072163954,2007.05.18,2007,May,18,Friday,138,D53,Shooting,99,Mount Pleasant East,99,Mount Pleasant East (99),-79.38887553,43.70864782
+242,GO-20072151831,2007.05.20,2007,May,20,Sunday,140,D14,Shooting,78,Kensington-Chinatown,78,Kensington-Chinatown (78),-79.40130813,43.64966681
+243,GO-20072044021,2007.05.21,2007,May,21,Monday,141,D31,Shooting,22,Humbermede,22,Humbermede (22),-79.5401288,43.74178779
+244,GO-20071902458,2007.05.23,2007,May,23,Wednesday,143,D31,Shooting,42,Banbury-Don Mills,42,Banbury-Don Mills (42),-79.3495637,43.75179123
+245,GO-20072226684,2007.05.26,2007,May,26,Saturday,146,D55,Other,73,Moss Park,73,Moss Park (73),-79.3627368,43.65156237
+246,GO-20072055785,2007.05.30,2007,May,30,Wednesday,150,D14,Other,78,Kensington-Chinatown,78,Kensington-Chinatown (78),-79.39743417,43.65307402
+247,GO-20072243955,2007.06.05,2007,June,5,Tuesday,156,D33,Stabbing,150,Fenside-Parkwoods,45,Parkwoods-Donalda (45),-79.31870381,43.75991896
+248,GO-20072066379,2007.06.09,2007,June,9,Saturday,160,D23,Shooting,3,Thistletown-Beaumond Heights,3,Thistletown-Beaumond Heights (3),-79.57830605,43.73549837
+249,GO-20072127704,2007.06.17,2007,June,17,Sunday,168,D13,Other,109,Caledonia-Fairbank,109,Caledonia-Fairbank (109),-79.45926909,43.68927628
+250,GO-20072064605,2007.06.25,2007,June,25,Monday,176,D42,Stabbing,144,Morningside Heights,131,Rouge (131),-79.21791762,43.82286432
+251,GO-20072064605,2007.06.25,2007,June,25,Monday,176,D42,Stabbing,144,Morningside Heights,131,Rouge (131),-79.21791762,43.82286432
+252,GO-20072315548,2007.06.29,2007,June,29,Friday,180,D51,Stabbing,72,Regent Park,72,Regent Park (72),-79.36601253,43.65943484
+253,GO-20072304950,2007.07.03,2007,July,3,Tuesday,184,D32,Shooting,31,Yorkdale-Glen Park,31,Yorkdale-Glen Park (31),-79.44785913,43.72058451
+254,GO-20072122523,2007.07.04,2007,July,4,Wednesday,185,D42,Shooting,143,West Rouge,131,Rouge (131),-79.15384764,43.79764065
+255,GO-20072122523,2007.07.04,2007,July,4,Wednesday,185,D42,Shooting,143,West Rouge,131,Rouge (131),-79.15384764,43.79764065
+256,GO-20072126683,2007.07.07,2007,July,7,Saturday,188,D43,Stabbing,136,West Hill,136,West Hill (136),-79.19473833,43.76200812
+257,GO-20072043425,2007.07.17,2007,July,17,Tuesday,198,D43,Stabbing,142,Woburn North,137,Woburn (137),-79.23079765,43.7802622
+258,GO-20072226971,2007.07.21,2007,July,21,Saturday,202,D13,Shooting,107,Oakwood Village,107,Oakwood Village (107),-79.44029935,43.69233178
+259,GO-20072162156,2007.07.22,2007,July,22,Sunday,203,D31,Shooting,25,Glenfield-Jane Heights,25,Glenfield-Jane Heights (25),-79.50498273,43.74139537
+260,GO-20072096282,2007.07.22,2007,July,22,Sunday,203,D51,Shooting,74,North St.James Town,74,North St.James Town (74),-79.37510285,43.67049415
+261,GO-20072253925,2007.07.22,2007,July,22,Sunday,203,D52,Shooting,164,Wellington Place,77,Waterfront Communities-The Island (77),-79.38868029,43.64819386
+262,GO-20072314144,2007.07.28,2007,July,28,Saturday,209,D42,Shooting,144,Morningside Heights,131,Rouge (131),-79.21190638,43.8184359
+263,GO-20072133216,2007.07.28,2007,July,28,Saturday,209,D11,Other,90,Junction Area,90,Junction Area (90),-79.4645541,43.66539823
+264,GO-20072344083,2007.07.29,2007,July,29,Sunday,210,D43,Stabbing,138,Eglinton East,138,Eglinton East (138),-79.23835825,43.73884696
+265,GO-20072177286,2007.07.30,2007,July,30,Monday,211,D23,Shooting,1,West Humber-Clairville,1,West Humber-Clairville (1),-79.59353596,43.73376578
+266,GO-20072082431,2007.08.04,2007,August,4,Saturday,216,D51,Shooting,72,Regent Park,72,Regent Park (72),-79.36233057,43.66296537
+267,GO-20072187991,2007.08.09,2007,August,9,Thursday,221,D14,Stabbing,162,West Queen West,81,Trinity-Bellwoods (81),-79.41125629,43.64574245
+268,GO-20072426042,2007.08.16,2007,August,16,Thursday,228,D31,Shooting,24,Black Creek,24,Black Creek (24),-79.51928818,43.77026626
+269,GO-20072421599,2007.08.22,2007,August,22,Wednesday,234,D41,Other,123,Cliffcrest,123,Cliffcrest (123),-79.22911791,43.72797886
+270,GO-20072383826,2007.08.22,2007,August,22,Wednesday,234,D53,Stabbing,55,Thorncliffe Park,55,Thorncliffe Park (55),-79.34784325,43.70257059
+271,GO-20072077377,2007.08.26,2007,August,26,Sunday,238,D11,Shooting,121,Oakridge,121,Oakridge (121),-79.28351257,43.69406136
+272,GO-20072442324,2007.08.31,2007,August,31,Friday,243,D42,Other,129,Agincourt North,129,Agincourt North (129),-79.28339971,43.80508151
+273,GO-20072357094,2007.09.01,2007,September,1,Saturday,244,D41,Other,120,Clairlea-Birchmount,120,Clairlea-Birchmount (120),-79.28743475,43.70793163
+274,GO-20072479780,2007.09.07,2007,September,7,Friday,250,D13,Other,107,Oakwood Village,107,Oakwood Village (107),-79.44151246,43.68304622
+275,GO-20072265196,2007.09.11,2007,September,11,Tuesday,254,D41,Stabbing,126,Dorset Park,126,Dorset Park (126),-79.27978261,43.74851735
+276,GO-20072373579,2007.09.11,2007,September,11,Tuesday,254,D31,Other,28,Rustic,28,Rustic (28),-79.50482849,43.70663913
+277,GO-20072304687,2007.09.19,2007,September,19,Wednesday,262,D52,Shooting,168,Downtown Yonge East,75,Church-Yonge Corridor (75),-79.38248706,43.65990664
+278,GO-20072430194,2007.09.25,2007,September,25,Tuesday,268,D33,Other,150,Fenside-Parkwoods,45,Parkwoods-Donalda (45),-79.34464662,43.76463197
+279,GO-20072373602,2007.09.28,2007,September,28,Friday,271,D31,Shooting,25,Glenfield-Jane Heights,25,Glenfield-Jane Heights (25),-79.51707116,43.75484813
+280,GO-20072539175,2007.10.02,2007,October,2,Tuesday,275,D31,Stabbing,155,Downsview,26,Downsview-Roding-CFB (26),-79.48963037,43.73635529
+281,GO-20072432106,2007.10.06,2007,October,6,Saturday,279,D12,Shooting,111,Rockcliffe-Smythe,111,Rockcliffe-Smythe (111),-79.49093396,43.67124454
+282,GO-20072424127,2007.10.08,2007,October,8,Monday,281,D13,Shooting,94,Wychwood,94,Wychwood (94),-79.43128942,43.68052032
+283,GO-20071902459,2007.10.09,2007,October,9,Tuesday,282,D31,Shooting,25,Glenfield-Jane Heights,25,Glenfield-Jane Heights (25),-79.51138706,43.75012851
+284,GO-20072421605,2007.10.14,2007,October,14,Sunday,287,D41,Shooting,119,Wexford/Maryvale,119,Wexford/Maryvale (119),-79.31014981,43.75701776
+285,GO-20072538165,2007.10.18,2007,October,18,Thursday,291,D33,Other,48,Hillcrest Village,48,Hillcrest Village (48),-79.36037797,43.80950415
+286,GO-20072371208,2007.10.21,2007,October,21,Sunday,294,D55,Shooting,68,North Riverdale,68,North Riverdale (68),-79.35227629,43.66587776
+287,GO-20072404032,2007.10.27,2007,October,27,Saturday,300,D22,Shooting,159,Etobicoke City Centre,14,Islington-City Centre West (14),-79.53055002,43.64676715
+288,GO-20072345705,2007.11.03,2007,November,3,Saturday,307,D31,Stabbing,25,Glenfield-Jane Heights,25,Glenfield-Jane Heights (25),-79.51568116,43.74914154
+289,GO-20072403226,2007.11.06,2007,November,6,Tuesday,310,D51,Shooting,73,Moss Park,73,Moss Park (73),-79.36694949,43.65649381
+290,GO-20072424731,2007.11.23,2007,November,23,Friday,327,D54,Stabbing,54,O'Connor-Parkview,54,O'Connor-Parkview (54),-79.30895123,43.71051891
+291,GO-20072528917,2007.11.23,2007,November,23,Friday,327,D42,Shooting,118,Tam O'Shanter-Sullivan,118,Tam O'Shanter-Sullivan (118),-79.29934459,43.78358871
+292,GO-20072507368,2007.11.23,2007,November,23,Friday,327,D42,Shooting,145,Malvern West,132,Malvern (132),-79.23492819,43.79465607
+293,GO-20072345729,2007.11.25,2007,November,25,Sunday,329,D31,Shooting,24,Black Creek,24,Black Creek (24),-79.51476374,43.76720514
+294,GO-20072370103,2007.11.28,2007,November,28,Wednesday,332,D43,Shooting,135,Morningside,135,Morningside (135),-79.19621683,43.7866207
+295,GO-20073098346,2007.12.01,2007,December,1,Saturday,335,D43,Stabbing,156,Bendale-Glen Andrew,127,Bendale (127),-79.25388925,43.77519892
+296,GO-20072101272,2007.12.02,2007,December,2,Sunday,336,D42,Shooting,146,Malvern East,132,Malvern (132),-79.21243507,43.81207513
+297,GO-20072311686,2007.12.14,2007,December,14,Friday,348,D42,Shooting,144,Morningside Heights,131,Rouge (131),-79.21101573,43.8179017
+298,GO-20072428698,2007.12.23,2007,December,23,Sunday,357,D51,Shooting,72,Regent Park,72,Regent Park (72),-79.35950161,43.65829519
+299,GO-20072446147,2007.12.25,2007,December,25,Tuesday,359,D23,Stabbing,2,Mount Olive-Silverstone-Jamestown,2,Mount Olive-Silverstone-Jamestown (2),-79.58664758,43.75268118
+300,GO-20072446147,2007.12.25,2007,December,25,Tuesday,359,D23,Stabbing,2,Mount Olive-Silverstone-Jamestown,2,Mount Olive-Silverstone-Jamestown (2),-79.58664758,43.75268118
+301,GO-20082586541,2008.01.01,2008,January,1,Tuesday,1,D54,Stabbing,54,O'Connor-Parkview,54,O'Connor-Parkview (54),-79.31700399,43.70893849
+302,GO-20082601995,2008.01.12,2008,January,12,Saturday,12,D51,Shooting,167,Church-Wellesley,75,Church-Yonge Corridor (75),-79.38580431,43.66919161
+303,GO-20082532076,2008.01.17,2008,January,17,Thursday,17,D55,Shooting,70,South Riverdale,70,South Riverdale (70),-79.34945465,43.66614488
+304,GO-20082605959,2008.01.22,2008,January,22,Tuesday,22,D31,Shooting,154,Oakdale-Beverley Heights,26,Downsview-Roding-CFB (26),-79.50960346,43.72488761
+305,GO-20082520381,2008.02.01,2008,February,1,Friday,32,D43,Shooting,138,Eglinton East,138,Eglinton East (138),-79.24467607,43.74500868
+306,GO-20082520381,2008.02.01,2008,February,1,Friday,32,D43,Shooting,138,Eglinton East,138,Eglinton East (138),-79.24467607,43.74500868
+307,GO-20082428060,2008.02.17,2008,February,17,Sunday,48,D42,Shooting,145,Malvern West,132,Malvern (132),-79.23055871,43.81357225
+308,GO-20082377423,2008.02.22,2008,February,22,Friday,53,D43,Shooting,141,Golfdale-Cedarbrae-Woburn,137,Woburn (137),-79.21141302,43.76372326
+309,GO-20082604028,2008.02.23,2008,February,23,Saturday,54,D14,Other,81,Trinity-Bellwoods,81,Trinity-Bellwoods (81),-79.40976277,43.64839461
+310,GO-20082615345,2008.02.25,2008,February,25,Monday,56,D55,Shooting,62,East End-Danforth,62,East End-Danforth (62),-79.30619872,43.68551301
+311,GO-20082651936,2008.02.28,2008,February,28,Thursday,59,D32,Other,33,Clanton Park,33,Clanton Park (33),-79.45674748,43.75165693
+312,GO-20082704738,2008.03.14,2008,March,14,Friday,74,D32,Shooting,31,Yorkdale-Glen Park,31,Yorkdale-Glen Park (31),-79.44662046,43.71891057
+313,GO-20082722663,2008.03.18,2008,March,18,Tuesday,78,D22,Stabbing,13,Etobicoke West Mall,13,Etobicoke West Mall (13),-79.57031397,43.65192911
+314,GO-20082371247,2008.03.18,2008,March,18,Tuesday,78,D55,Shooting,70,South Riverdale,70,South Riverdale (70),-79.34160386,43.6648381
+315,GO-20082586161,2008.04.17,2008,April,17,Thursday,108,D14,Stabbing,171,Junction-Wallace Emerson,93,Dovercourt-Wallace Emerson-Junction (93),-79.445856,43.66205844
+316,GO-20082743492,2008.04.30,2008,April,30,Wednesday,121,D12,Stabbing,90,Junction Area,90,Junction Area (90),-79.46501087,43.66799512
+317,GO-20082651181,2008.05.04,2008,May,4,Sunday,125,D43,Stabbing,139,Scarborough Village,139,Scarborough Village (139),-79.21831054,43.74529871
+318,GO-20082577122,2008.05.04,2008,May,4,Sunday,125,D43,Other,139,Scarborough Village,139,Scarborough Village (139),-79.21831054,43.74529871
+319,GO-20082783886,2008.05.17,2008,May,17,Saturday,138,D33,Stabbing,42,Banbury-Don Mills,42,Banbury-Don Mills (42),-79.33518906,43.73125591
+320,GO-20082783886,2008.05.17,2008,May,17,Saturday,138,D33,Other,42,Banbury-Don Mills,42,Banbury-Don Mills (42),-79.33518906,43.73125591
+321,GO-20082853575,2008.05.28,2008,May,28,Wednesday,149,D42,Shooting,146,Malvern East,132,Malvern (132),-79.2139296,43.81054222
+322,GO-20082855091,2008.05.28,2008,May,28,Wednesday,149,D42,Shooting,118,Tam O'Shanter-Sullivan,118,Tam O'Shanter-Sullivan (118),-79.29450547,43.78471825
+323,GO-20082597314,2008.05.28,2008,May,28,Wednesday,149,D23,Other,1,West Humber-Clairville,1,West Humber-Clairville (1),-79.59261152,43.71652537
+324,GO-20082709711,2008.05.30,2008,May,30,Friday,151,D54,Shooting,43,Victoria Village,43,Victoria Village (43),-79.29928322,43.71666409
+325,GO-20082555616,2008.06.13,2008,June,13,Friday,165,D14,Shooting,162,West Queen West,82,Niagara (82),-79.40947594,43.64500705
+326,GO-20082555616,2008.06.13,2008,June,13,Friday,165,D14,Shooting,162,West Queen West,82,Niagara (82),-79.40947594,43.64500705
+327,GO-20082399394,2008.06.15,2008,June,15,Sunday,167,D12,Shooting,111,Rockcliffe-Smythe,111,Rockcliffe-Smythe (111),-79.49375172,43.67166625
+328,GO-20082368814,2008.06.22,2008,June,22,Sunday,174,D54,Other,61,Taylor-Massey,61,Taylor-Massey (61),-79.29731005,43.69651845
+329,GO-20082810109,2008.06.23,2008,June,23,Monday,175,D41,Other,120,Clairlea-Birchmount,120,Clairlea-Birchmount (120),-79.28672612,43.70007819
+330,GO-20082862776,2008.07.09,2008,July,9,Wednesday,191,D41,Shooting,119,Wexford/Maryvale,119,Wexford/Maryvale (119),-79.3126396,43.75035014
+331,GO-20082906096,2008.07.14,2008,July,14,Monday,196,D53,Stabbing,97,Yonge-St.Clair,97,Yonge-St.Clair (97),-79.39459979,43.6892109
+332,GO-20082517552,2008.07.17,2008,July,17,Thursday,199,D43,Shooting,135,Morningside,135,Morningside (135),-79.19542971,43.78482414
+333,GO-20082816710,2008.07.19,2008,July,19,Saturday,201,D42,Shooting,143,West Rouge,131,Rouge (131),-79.1527809,43.79788474
+334,GO-20082786692,2008.07.20,2008,July,20,Sunday,202,D22,Shooting,20,Alderwood,20,Alderwood (20),-79.54597594,43.60628309
+335,GO-20082786692,2008.07.20,2008,July,20,Sunday,202,D22,Shooting,20,Alderwood,20,Alderwood (20),-79.54597594,43.60628309
+336,GO-20082786692,2008.07.20,2008,July,20,Sunday,202,D22,Shooting,20,Alderwood,20,Alderwood (20),-79.54597594,43.60628309
+337,GO-20082773144,2008.07.26,2008,July,26,Saturday,208,D31,Shooting,23,Pelmo Park-Humberlea,23,Pelmo Park-Humberlea (23),-79.50901887,43.71507457
+338,GO-20082605554,2008.07.27,2008,July,27,Sunday,209,D12,Shooting,110,Keelesdale-Eglinton West,110,Keelesdale-Eglinton West (110),-79.47717774,43.68966339
+339,GO-20082869738,2008.08.02,2008,August,2,Saturday,215,D51,Stabbing,73,Moss Park,73,Moss Park (73),-79.36962756,43.65719355
+340,GO-20082761191,2008.08.03,2008,August,3,Sunday,216,D14,Other,86,Roncesvalles,86,Roncesvalles (86),-79.43619813,43.64458211
+341,GO-20082919665,2008.08.03,2008,August,3,Sunday,216,D55,Stabbing,64,Woodbine Corridor,64,Woodbine Corridor (64),-79.31323885,43.67017397
+342,GO-20082756711,2008.08.10,2008,August,10,Sunday,223,D42,Shooting,128,Agincourt South-Malvern West,128,Agincourt South-Malvern West (128),-79.25727837,43.7873864
+343,GO-20082986087,2008.08.22,2008,August,22,Friday,235,D51,Other,166,St Lawrence-East Bayfront-The Islands,77,Waterfront Communities-The Island (77),-79.35634011,43.64939258
+344,GO-20082891170,2008.08.24,2008,August,24,Sunday,237,D32,Shooting,35,Westminster-Branson,35,Westminster-Branson (35),-79.44043021,43.76339132
+345,GO-20082928965,2008.08.26,2008,August,26,Tuesday,239,D42,Shooting,145,Malvern West,132,Malvern (132),-79.22668422,43.80517658
+346,GO-20082373236,2008.08.28,2008,August,28,Thursday,241,D14,Other,78,Kensington-Chinatown,78,Kensington-Chinatown (78),-79.40062434,43.65219293
+347,GO-20082881742,2008.09.02,2008,September,2,Tuesday,246,D33,Stabbing,52,Bayview Village,52,Bayview Village (52),-79.37916899,43.7659413
+348,GO-20082406153,2008.09.08,2008,September,8,Monday,252,D12,Shooting,112,Beechborough-Greenbrook,112,Beechborough-Greenbrook (112),-79.46943137,43.69142079
+349,GO-20082386684,2008.09.08,2008,September,8,Monday,252,D31,Stabbing,21,Humber Summit,21,Humber Summit (21),-79.54237683,43.75208388
+350,GO-20082922744,2008.09.09,2008,September,9,Tuesday,253,D31,Shooting,29,Maple Leaf,29,Maple Leaf (29),-79.48131005,43.72272466
+351,GO-20082747960,2008.09.16,2008,September,16,Tuesday,260,D31,Shooting,24,Black Creek,24,Black Creek (24),-79.51881841,43.76191141
+352,GO-20082909162,2008.09.16,2008,September,16,Tuesday,260,D42,Stabbing,128,Agincourt South-Malvern West,128,Agincourt South-Malvern West (128),-79.28742463,43.78172808
+353,GO-20082954481,2008.09.22,2008,September,22,Monday,266,D31,Shooting,25,Glenfield-Jane Heights,25,Glenfield-Jane Heights (25),-79.5141865,43.75546702
+354,GO-20082875476,2008.09.24,2008,September,24,Wednesday,268,D31,Other,155,Downsview,26,Downsview-Roding-CFB (26),-79.49021952,43.7347056
+355,GO-20082395868,2008.10.03,2008,October,3,Friday,277,D22,Shooting,8,Humber Heights-Westmount,8,Humber Heights-Westmount (8),-79.5112268,43.68398595
+356,GO-20083044970,2008.10.09,2008,October,9,Thursday,283,D31,Shooting,154,Oakdale-Beverley Heights,26,Downsview-Roding-CFB (26),-79.51334606,43.72198096
+357,GO-20082386395,2008.10.11,2008,October,11,Saturday,285,D14,Other,163,Fort York-Liberty Village,82,Niagara (82),-79.39767911,43.63381308
+358,GO-20082897918,2008.10.13,2008,October,13,Monday,287,D42,Stabbing,143,West Rouge,131,Rouge (131),-79.16677803,43.80755073
+359,GO-20082897918,2008.10.13,2008,October,13,Monday,287,D42,Stabbing,143,West Rouge,131,Rouge (131),-79.16677803,43.80755073
+360,GO-20082823465,2008.10.14,2008,October,14,Tuesday,288,D43,Shooting,139,Scarborough Village,139,Scarborough Village (139),-79.2251593,43.74178661
+361,GO-20082440245,2008.10.25,2008,October,25,Saturday,299,D55,Shooting,70,South Riverdale,70,South Riverdale (70),-79.33022064,43.66323311
+362,GO-20083023273,2008.10.25,2008,October,25,Saturday,299,D32,Shooting,33,Clanton Park,33,Clanton Park (33),-79.44012098,43.75408705
+363,GO-20082863291,2008.11.18,2008,November,18,Tuesday,323,D43,Stabbing,135,Morningside,135,Morningside (135),-79.21794077,43.77080324
+364,GO-20082863291,2008.11.18,2008,November,18,Tuesday,323,D43,Stabbing,135,Morningside,135,Morningside (135),-79.21794077,43.77080324
+365,GO-20082863291,2008.11.18,2008,November,18,Tuesday,323,D43,Stabbing,135,Morningside,135,Morningside (135),-79.21794077,43.77080324
+366,GO-20082739826,2008.11.23,2008,November,23,Sunday,328,D22,Other,11,Eringate-Centennial-West Deane,11,Eringate-Centennial-West Deane (11),-79.57254805,43.65302118
+367,GO-20083049956,2008.11.26,2008,November,26,Wednesday,331,D33,Shooting,119,Wexford/Maryvale,119,Wexford/Maryvale (119),-79.30979027,43.74213787
+368,GO-20082439136,2008.12.03,2008,December,3,Wednesday,338,D22,Stabbing,18,New Toronto,18,New Toronto (18),-79.50889593,43.60153166
+369,GO-20082873166,2008.12.06,2008,December,6,Saturday,341,D12,Stabbing,112,Beechborough-Greenbrook,112,Beechborough-Greenbrook (112),-79.47093037,43.69659403
+370,GO-20083103211,2008.12.25,2008,December,25,Thursday,360,D41,Other,125,Ionview,125,Ionview (125),-79.27885239,43.73274756
+371,GO-20093148206,2009.01.03,2009,January,3,Saturday,3,D31,Shooting,21,Humber Summit,21,Humber Summit (21),-79.55297972,43.75143328
+372,GO-20093100835,2009.01.04,2009,January,4,Sunday,4,D33,Shooting,42,Banbury-Don Mills,42,Banbury-Don Mills (42),-79.35527126,43.74093449
+373,GO-20093118823,2009.01.06,2009,January,6,Tuesday,6,D54,Other,44,Flemingdon Park,44,Flemingdon Park (44),-79.3263503,43.7179651
+374,GO-20093167296,2009.01.16,2009,January,16,Friday,16,D12,Stabbing,91,Weston-Pelham Park,91,Weston-Pellam Park (91),-79.46069265,43.67068028
+375,GO-20093043662,2009.01.20,2009,January,20,Tuesday,20,D12,Shooting,110,Keelesdale-Eglinton West,110,Keelesdale-Eglinton West (110),-79.47435536,43.68851267
+376,GO-20093065148,2009.02.01,2009,February,1,Sunday,32,D12,Shooting,113,Weston,113,Weston (113),-79.51131176,43.69833654
+377,GO-20092874543,2009.02.10,2009,February,10,Tuesday,41,D41,Shooting,135,Morningside,135,Morningside (135),-79.20570344,43.78567994
+378,GO-20093219115,2009.02.22,2009,February,22,Sunday,53,D31,Shooting,24,Black Creek,24,Black Creek (24),-79.51166994,43.7660358
+379,GO-20092904889,2009.02.26,2009,February,26,Thursday,57,D12,Shooting,112,Beechborough-Greenbrook,112,Beechborough-Greenbrook (112),-79.47717774,43.68966339
+380,GO-20093082434,2009.02.28,2009,February,28,Saturday,59,D41,Shooting,126,Dorset Park,126,Dorset Park (126),-79.2762837,43.75322094
+381,GO-20093180676,2009.03.12,2009,March,12,Thursday,71,D31,Stabbing,24,Black Creek,24,Black Creek (24),-79.5288374,43.75877838
+382,GO-20093159164,2009.04.02,2009,April,2,Thursday,92,D41,Stabbing,124,Kennedy Park,124,Kennedy Park (124),-79.26315887,43.72687508
+383,GO-20093233433,2009.04.17,2009,April,17,Friday,107,D55,Stabbing,70,South Riverdale,70,South Riverdale (70),-79.33416873,43.66585365
+384,GO-20093104776,2009.04.21,2009,April,21,Tuesday,111,D12,Shooting,110,Keelesdale-Eglinton West,110,Keelesdale-Eglinton West (110),-79.47241599,43.6839916
+385,GO-20093185090,2009.04.22,2009,April,22,Wednesday,112,D12,Shooting,115,Mount Dennis,115,Mount Dennis (115),-79.49881935,43.68447022
+386,GO-20093103646,2009.05.01,2009,May,1,Friday,121,D11,Shooting,114,Lambton Baby Point,114,Lambton Baby Point (114),-79.50348382,43.66388386
+387,GO-20093201614,2009.05.05,2009,May,5,Tuesday,125,D14,Stabbing,84,Little Portugal,84,Little Portugal (84),-79.43700867,43.6499778
+388,GO-20093041325,2009.05.09,2009,May,9,Saturday,129,D55,Other,65,Greenwood-Coxwell,65,Greenwood-Coxwell (65),-79.32017878,43.66832626
+389,GO-20093059077,2009.05.11,2009,May,11,Monday,131,D12,Shooting,111,Rockcliffe-Smythe,111,Rockcliffe-Smythe (111),-79.50045498,43.66799787
+390,GO-20093330600,2009.05.20,2009,May,20,Wednesday,140,D55,Stabbing,70,South Riverdale,70,South Riverdale (70),-79.35111601,43.6590728
+391,GO-20093386271,2009.05.20,2009,May,20,Wednesday,140,D23,Stabbing,111,Rockcliffe-Smythe,111,Rockcliffe-Smythe (111),-79.48210977,43.68326902
+392,GO-20093386271,2009.05.20,2009,May,20,Wednesday,140,D12,Other,111,Rockcliffe-Smythe,111,Rockcliffe-Smythe (111),-79.48210977,43.68326902
+393,GO-20093250588,2009.06.15,2009,June,15,Monday,166,D12,Stabbing,6,Kingsview Village-The Westway,6,Kingsview Village-The Westway (6),-79.55405748,43.69533476
+394,GO-20093420102,2009.06.17,2009,June,17,Wednesday,168,D32,Other,31,Yorkdale-Glen Park,31,Yorkdale-Glen Park (31),-79.46762542,43.71572291
+395,GO-20093155134,2009.06.21,2009,June,21,Sunday,172,D51,Stabbing,70,South Riverdale,70,South Riverdale (70),-79.35232211,43.64537481
+396,GO-20093155134,2009.06.21,2009,June,21,Sunday,172,D51,Stabbing,70,South Riverdale,70,South Riverdale (70),-79.35232211,43.64537481
+397,GO-20093440867,2009.07.07,2009,July,7,Tuesday,188,D31,Other,25,Glenfield-Jane Heights,25,Glenfield-Jane Heights (25),-79.51115662,43.73645222
+398,GO-20093096999,2009.07.11,2009,July,11,Saturday,192,D41,Other,126,Dorset Park,126,Dorset Park (126),-79.28594715,43.77156796
+399,GO-20093501395,2009.07.19,2009,July,19,Sunday,200,D43,Shooting,143,West Rouge,131,Rouge (131),-79.12809343,43.79381064
+400,GO-20093139087,2009.07.20,2009,July,20,Monday,201,D42,Stabbing,118,Tam O'Shanter-Sullivan,118,Tam O'Shanter-Sullivan (118),-79.29878906,43.78369574
+401,GO-20093523913,2009.07.25,2009,July,25,Saturday,206,D14,Shooting,79,University,79,University (79),-79.40746945,43.66590841
+402,GO-20093505649,2009.08.01,2009,August,1,Saturday,213,D53,Shooting,95,Annex,95,Annex (95),-79.39543195,43.67189523
+403,GO-20093523721,2009.08.02,2009,August,2,Sunday,214,D23,Shooting,1,West Humber-Clairville,1,West Humber-Clairville (1),-79.60636821,43.75500794
+404,GO-20093363634,2009.08.04,2009,August,4,Tuesday,216,D51,Shooting,160,Mimico-Queensway,17,Mimico (includes Humber Bay Shores) (17),-79.49458357,43.61044737
+405,GO-20093348714,2009.08.05,2009,August,5,Wednesday,217,D41,Shooting,138,Eglinton East,138,Eglinton East (138),-79.25578146,43.73669759
+406,GO-20093515443,2009.08.10,2009,August,10,Monday,222,D23,Shooting,1,West Humber-Clairville,1,West Humber-Clairville (1),-79.59299502,43.73805153
+407,GO-20093523004,2009.08.16,2009,August,16,Sunday,228,D23,Shooting,2,Mount Olive-Silverstone-Jamestown,2,Mount Olive-Silverstone-Jamestown (2),-79.58816144,43.74630882
+408,GO-20093448946,2009.09.02,2009,September,2,Wednesday,245,D55,Shooting,69,Blake-Jones,69,Blake-Jones (69),-79.33818429,43.67244388
+409,GO-20093576028,2009.09.05,2009,September,5,Saturday,248,D51,Shooting,166,St Lawrence-East Bayfront-The Islands,77,Waterfront Communities-The Island (77),-79.36788884,43.65038854
+410,GO-20093269913,2009.09.07,2009,September,7,Monday,250,D33,Shooting,49,Bayview Woods-Steeles,49,Bayview Woods-Steeles (49),-79.36912046,43.79128873
+411,GO-20093575026,2009.09.12,2009,September,12,Saturday,255,D41,Other,124,Kennedy Park,124,Kennedy Park (124),-79.27266228,43.71755991
+412,GO-20093528405,2009.10.10,2009,October,10,Saturday,283,D14,Shooting,85,South Parkdale,85,South Parkdale (85),-79.43477789,43.63394606
+413,GO-20093464087,2009.10.18,2009,October,18,Sunday,291,D51,Other,168,Downtown Yonge East,75,Church-Yonge Corridor (75),-79.37724155,43.65066286
+414,GO-20093524643,2009.10.18,2009,October,18,Sunday,291,D31,Shooting,27,York University Heights,27,York University Heights (27),-79.48758849,43.74960108
+415,GO-20093425603,2009.10.30,2009,October,30,Friday,303,D13,Shooting,94,Wychwood,94,Wychwood (94),-79.43097982,43.67471654
+416,GO-20093588501,2009.11.02,2009,November,2,Monday,306,D54,Shooting,67,Playter Estates-Danforth,67,Playter Estates-Danforth (67),-79.34637501,43.67939976
+417,GO-20093454028,2009.11.03,2009,November,3,Tuesday,307,D31,Shooting,27,York University Heights,27,York University Heights (27),-79.49669119,43.7519315
+418,GO-20093586765,2009.11.04,2009,November,4,Wednesday,308,D53,Stabbing,95,Annex,95,Annex (95),-79.39914072,43.6726845
+419,GO-20093593532,2009.11.07,2009,November,7,Saturday,311,D55,Other,68,North Riverdale,68,North Riverdale (68),-79.35443287,43.66501487
+420,GO-20093411009,2009.11.07,2009,November,7,Saturday,311,D14,Stabbing,79,University,79,University (79),-79.40746945,43.66590841
+421,GO-20093425609,2009.11.11,2009,November,11,Wednesday,315,D13,Shooting,107,Oakwood Village,107,Oakwood Village (107),-79.43889937,43.69153429
+422,GO-20092776015,2009.11.17,2009,November,17,Tuesday,321,D23,Shooting,6,Kingsview Village-The Westway,6,Kingsview Village-The Westway (6),-79.55063328,43.68822195
+423,GO-20093358995,2009.11.22,2009,November,22,Sunday,326,D52,Shooting,169,Bay-Cloverhill,76,Bay Street Corridor (76),-79.38772035,43.66563871
+424,GO-20093577507,2009.11.22,2009,November,22,Sunday,326,D41,Shooting,156,Bendale-Glen Andrew,127,Bendale (127),-79.26649651,43.76893572
+425,GO-20093687835,2009.12.03,2009,December,3,Thursday,337,D31,Shooting,28,Rustic,28,Rustic (28),-79.50475341,43.71573472
+426,GO-20093574569,2009.12.05,2009,December,5,Saturday,339,D51,Other,74,North St.James Town,74,North St.James Town (74),-79.37377428,43.66728915
+427,GO-20093567900,2009.12.06,2009,December,6,Sunday,340,D31,Shooting,21,Humber Summit,21,Humber Summit (21),-79.5680594,43.75679841
+428,GO-20093574814,2009.12.07,2009,December,7,Monday,341,D31,Shooting,113,Weston,113,Weston (113),-79.52378628,43.7023662
+429,GO-20093565736,2009.12.09,2009,December,9,Wednesday,343,D31,Shooting,154,Oakdale-Beverley Heights,26,Downsview-Roding-CFB (26),-79.52304256,43.71769714
+430,GO-20093391807,2009.12.13,2009,December,13,Sunday,347,D11,Stabbing,89,Runnymede-Bloor West Village,89,Runnymede-Bloor West Village (89),-79.49860984,43.6655991
+431,GO-20093591551,2009.12.18,2009,December,18,Friday,352,D52,Other,78,Kensington-Chinatown,78,Kensington-Chinatown (78),-79.39727175,43.65765974
+432,GO-20093543317,2009.12.29,2009,December,29,Tuesday,363,D11,Shooting,90,Junction Area,90,Junction Area (90),-79.47895426,43.665557
+433,GO-20103593574,2010.01.02,2010,January,2,Saturday,2,D55,Other,68,North Riverdale,68,North Riverdale (68),-79.35443287,43.66501487
+434,GO-20103566324,2010.01.07,2010,January,7,Thursday,7,D42,Shooting,146,Malvern East,132,Malvern (132),-79.21120593,43.81185082
+435,GO-20103583884,2010.01.24,2010,January,24,Sunday,24,D14,Other,78,Kensington-Chinatown,78,Kensington-Chinatown (78),-79.39815971,43.65025578
+436,GO-20103281627,2010.01.27,2010,January,27,Wednesday,27,D41,Stabbing,119,Wexford/Maryvale,119,Wexford/Maryvale (119),-79.31708305,43.76201546
+437,GO-20103367693,2010.02.03,2010,February,3,Wednesday,34,D51,Stabbing,71,Cabbagetown-South St.James Town,71,Cabbagetown-South St.James Town (71),-79.37474228,43.66387067
+438,GO-20103713412,2010.02.07,2010,February,7,Sunday,38,D12,Shooting,30,Brookhaven-Amesbury,30,Brookhaven-Amesbury (30),-79.50260919,43.69841121
+439,GO-20103448094,2010.02.08,2010,February,8,Monday,39,D31,Shooting,28,Rustic,28,Rustic (28),-79.50475341,43.71573472
+440,GO-20103456178,2010.02.14,2010,February,14,Sunday,45,D43,Other,138,Eglinton East,138,Eglinton East (138),-79.23793293,43.73812864
+441,GO-20103593600,2010.02.15,2010,February,15,Monday,46,D55,Other,70,South Riverdale,70,South Riverdale (70),-79.30865488,43.66363618
+442,GO-2010357703,2010.03.11,2010,March,11,Thursday,70,D43,Shooting,136,West Hill,136,West Hill (136),-79.19946946,43.76544094
+443,GO-20103680160,2010.03.13,2010,March,13,Saturday,72,D41,Other,119,Wexford/Maryvale,119,Wexford/Maryvale (119),-79.31337147,43.76653881
+444,GO-20103657524,2010.04.04,2010,April,4,Sunday,94,D11,Other,87,High Park-Swansea,87,High Park-Swansea (87),-79.45343918,43.65502403
+445,GO-20103733844,2010.04.28,2010,April,28,Wednesday,118,D51,Other,73,Moss Park,73,Moss Park (73),-79.3689085,43.6550194
+446,GO-20103427476,2010.05.03,2010,May,3,Monday,123,D13,Shooting,107,Oakwood Village,107,Oakwood Village (107),-79.43377345,43.68489818
+447,GO-20103662181,2010.05.08,2010,May,8,Saturday,128,D14,Other,171,Junction-Wallace Emerson,93,Dovercourt-Wallace Emerson-Junction (93),-79.44173417,43.6661294
+448,GO-20103709341,2010.05.10,2010,May,10,Monday,130,D42,Stabbing,148,East L'Amoreaux,117,L'Amoreaux (117),-79.31231045,43.79748141
+449,GO-20103577964,2010.05.17,2010,May,17,Monday,137,D12,Shooting,112,Beechborough-Greenbrook,112,Beechborough-Greenbrook (112),-79.47039769,43.6912192
+450,GO-20103801763,2010.05.25,2010,May,25,Tuesday,145,D43,Other,135,Morningside,135,Morningside (135),-79.20678435,43.76679423
+451,GO-20103795155,2010.05.29,2010,May,29,Saturday,149,D31,Other,25,Glenfield-Jane Heights,25,Glenfield-Jane Heights (25),-79.51321728,43.73938318
+452,GO-20103568162,2010.05.29,2010,May,29,Saturday,149,D11,Stabbing,87,High Park-Swansea,87,High Park-Swansea (87),-79.4733784,43.64041918
+453,GO-20103746928,2010.05.31,2010,May,31,Monday,151,D12,Other,30,Brookhaven-Amesbury,30,Brookhaven-Amesbury (30),-79.50289019,43.69954711
+454,GO-20103711024,2010.06.12,2010,June,12,Saturday,163,D22,Other,18,New Toronto,18,New Toronto (18),-79.51184611,43.59932095
+455,GO-20103844704,2010.06.12,2010,June,12,Saturday,163,D13,Stabbing,96,Casa Loma,96,Casa Loma (96),-79.41585327,43.68004236
+456,GO-20103786264,2010.06.29,2010,June,29,Tuesday,180,D23,Stabbing,6,Kingsview Village-The Westway,6,Kingsview Village-The Westway (6),-79.55791477,43.69441511
+457,GO-20103773164,2010.06.30,2010,June,30,Wednesday,181,D12,Stabbing,111,Rockcliffe-Smythe,111,Rockcliffe-Smythe (111),-79.50593876,43.67609754
+458,GO-20103771858,2010.07.02,2010,July,2,Friday,183,D53,Stabbing,95,Annex,95,Annex (95),-79.40201685,43.66838325
+459,GO-20103776066,2010.07.02,2010,July,2,Friday,183,D31,Shooting,155,Downsview,26,Downsview-Roding-CFB (26),-79.4864487,43.74477134
+460,GO-20103757791,2010.07.06,2010,July,6,Tuesday,187,D41,Shooting,156,Bendale-Glen Andrew,127,Bendale (127),-79.26666209,43.75589342
+461,GO-20102896399,2010.07.09,2010,July,9,Friday,190,D41,Other,119,Wexford/Maryvale,119,Wexford/Maryvale (119),-79.30846122,43.73879313
+462,GO-20103360930,2010.07.10,2010,July,10,Saturday,191,D52,Shooting,78,Kensington-Chinatown,78,Kensington-Chinatown (78),-79.39778881,43.65225396
+463,GO-20103587228,2010.07.13,2010,July,13,Tuesday,194,D54,Shooting,44,Flemingdon Park,44,Flemingdon Park (44),-79.329651,43.71530504
+464,GO-20103831826,2010.07.14,2010,July,14,Wednesday,195,D41,Stabbing,156,Bendale-Glen Andrew,127,Bendale (127),-79.24675559,43.75525733
+465,GO-20103686077,2010.07.16,2010,July,16,Friday,197,D42,Shooting,128,Agincourt South-Malvern West,128,Agincourt South-Malvern West (128),-79.25912081,43.78740415
+466,GO-20103520868,2010.07.30,2010,July,30,Friday,211,D31,Shooting,25,Glenfield-Jane Heights,25,Glenfield-Jane Heights (25),-79.50688173,43.74031821
+467,GO-20103804848,2010.07.30,2010,July,30,Friday,211,D23,Shooting,1,West Humber-Clairville,1,West Humber-Clairville (1),-79.61180951,43.73168123
+468,GO-20103883110,2010.07.31,2010,July,31,Saturday,212,D54,Stabbing,44,Flemingdon Park,44,Flemingdon Park (44),-79.33495372,43.71872428
+469,GO-20103561930,2010.08.08,2010,August,8,Sunday,220,D51,Other,71,Cabbagetown-South St.James Town,71,Cabbagetown-South St.James Town (71),-79.36862857,43.66586894
+470,GO-20103577793,2010.08.14,2010,August,14,Saturday,226,D51,Shooting,74,North St.James Town,74,North St.James Town (74),-79.37510285,43.67049415
+471,GO-20103436989,2010.08.14,2010,August,14,Saturday,226,D22,Shooting,159,Etobicoke City Centre,14,Islington-City Centre West (14),-79.52721739,43.64382417
+472,GO-20103773675,2010.08.24,2010,August,24,Tuesday,236,D32,Shooting,32,Englemount-Lawrence,32,Englemount-Lawrence (32),-79.4401782,43.72417865
+473,GO-20103412926,2010.08.27,2010,August,27,Friday,239,D14,Stabbing,83,Dufferin Grove,83,Dufferin Grove (83),-79.44019034,43.6514257
+474,GO-20103793509,2010.08.29,2010,August,29,Sunday,241,D51,Other,90,Junction Area,90,Junction Area (90),-79.47335128,43.66716162
+475,GO-2010GO-2018104863,2010.09.06,2010,September,6,Monday,249,D52,Other,55,Thorncliffe Park,55,Thorncliffe Park (55),-79.34138354,43.70801163
+476,GO-20103528531,2010.09.10,2010,September,10,Friday,253,D43,Shooting,142,Woburn North,137,Woburn (137),-79.23201792,43.75931034
+477,GO-20103836758,2010.09.12,2010,September,12,Sunday,255,D31,Shooting,24,Black Creek,24,Black Creek (24),-79.51881841,43.76191141
+478,GO-20103912797,2010.09.12,2010,September,12,Sunday,255,D12,Other,30,Brookhaven-Amesbury,30,Brookhaven-Amesbury (30),-79.48897714,43.69770662
+479,GO-20103905801,2010.09.25,2010,September,25,Saturday,268,D23,Stabbing,8,Humber Heights-Westmount,8,Humber Heights-Westmount (8),-79.51314361,43.68684269
+480,GO-20103708472,2010.09.29,2010,September,29,Wednesday,272,D12,Shooting,113,Weston,113,Weston (113),-79.51457615,43.69952521
+481,GO-20103708472,2010.09.29,2010,September,29,Wednesday,272,D12,Shooting,113,Weston,113,Weston (113),-79.51457615,43.69952521
+482,GO-20103633942,2010.10.04,2010,October,4,Monday,277,D31,Shooting,24,Black Creek,24,Black Creek (24),-79.51546025,43.7578622
+483,GO-20103834477,2010.10.04,2010,October,4,Monday,277,D14,Shooting,85,South Parkdale,85,South Parkdale (85),-79.4335353,43.6343689
+484,GO-20103561941,2010.10.09,2010,October,9,Saturday,282,D51,Shooting,72,Regent Park,72,Regent Park (72),-79.35930155,43.66092803
+485,GO-20103561941,2010.10.09,2010,October,9,Saturday,282,D51,Shooting,72,Regent Park,72,Regent Park (72),-79.35930155,43.66092803
+486,GO-20103520082,2010.10.17,2010,October,17,Sunday,290,D41,Shooting,121,Oakridge,121,Oakridge (121),-79.27699095,43.70239059
+487,GO-20103772354,2010.10.25,2010,October,25,Monday,298,D51,Shooting,72,Regent Park,72,Regent Park (72),-79.36202254,43.65759676
+488,GO-20103355708,2010.10.27,2010,October,27,Wednesday,300,D55,Stabbing,70,South Riverdale,70,South Riverdale (70),-79.35374777,43.66366991
+489,GO-20103911901,2010.11.17,2010,November,17,Wednesday,321,D32,Shooting,37,Willowdale West,37,Willowdale West (37),-79.41457512,43.77169774
+490,GO-20103929126,2010.11.20,2010,November,20,Saturday,324,D33,Shooting,47,Don Valley Village,47,Don Valley Village (47),-79.35302642,43.78733884
+491,GO-20103988019,2010.11.22,2010,November,22,Monday,326,D31,Shooting,25,Glenfield-Jane Heights,25,Glenfield-Jane Heights (25),-79.50339745,43.7410703
+492,GO-20103904746,2010.11.24,2010,November,24,Wednesday,328,D43,Shooting,142,Woburn North,137,Woburn (137),-79.22963152,43.76038304
+493,GO-20103845292,2010.11.27,2010,November,27,Saturday,331,D52,Other,164,Wellington Place,77,Waterfront Communities-The Island (77),-79.39179086,43.64474235
+494,GO-20103878370,2010.11.29,2010,November,29,Monday,333,D51,Shooting,72,Regent Park,72,Regent Park (72),-79.35815883,43.66119182
+495,GO-20104003542,2010.12.02,2010,December,2,Thursday,336,D55,Other,62,East End-Danforth,62,East End-Danforth (62),-79.29935608,43.68356935
+496,GO-20104016091,2010.12.25,2010,December,25,Saturday,359,D12,Shooting,111,Rockcliffe-Smythe,111,Rockcliffe-Smythe (111),-79.49093396,43.67124454
+497,GO-2018104863,2010.12.29,2010,December,29,Wednesday,363,D52,Other,55,Thorncliffe Park,55,Thorncliffe Park (55),-79.34138354,43.70801163
+498,GO-20113922539,2011.01.01,2011,January,1,Saturday,1,D14,Stabbing,164,Wellington Place,77,Waterfront Communities-The Island (77),-79.39967303,43.64806136
+499,GO-20112885827,2011.01.05,2011,January,5,Wednesday,5,D41,Shooting,125,Ionview,125,Ionview (125),-79.27885239,43.73274756
+500,GO-20113737551,2011.01.06,2011,January,6,Thursday,6,D43,Other,136,West Hill,136,West Hill (136),-79.19473833,43.76200812
+501,GO-20114040426,2011.01.12,2011,January,12,Wednesday,12,D53,Other,95,Annex,95,Annex (95),-79.39660216,43.67471875
+502,GO-20114033175,2011.01.13,2011,January,13,Thursday,13,D13,Other,108,Briar Hill-Belgravia,108,Briar Hill-Belgravia (108),-79.43938277,43.70435722
+503,GO-20113832781,2011.01.23,2011,January,23,Sunday,23,D51,Other,71,Cabbagetown-South St.James Town,71,Cabbagetown-South St.James Town (71),-79.37834341,43.66627912
+504,GO-20113966773,2011.02.01,2011,February,1,Tuesday,32,D31,Shooting,21,Humber Summit,21,Humber Summit (21),-79.54751586,43.75097545
+505,GO-20113530271,2011.02.05,2011,February,5,Saturday,36,D31,Stabbing,27,York University Heights,27,York University Heights (27),-79.48758849,43.74960108
+506,GO-20114017505,2011.02.11,2011,February,11,Friday,42,D12,Shooting,112,Beechborough-Greenbrook,112,Beechborough-Greenbrook (112),-79.48177414,43.69245528
+507,GO-20113948450,2011.02.11,2011,February,11,Friday,42,D43,Shooting,141,Golfdale-Cedarbrae-Woburn,137,Woburn (137),-79.22119656,43.75959965
+508,GO-20114017400,2011.02.16,2011,February,16,Wednesday,47,D12,Shooting,113,Weston,113,Weston (113),-79.50945835,43.69729695
+509,GO-201139593058,2011.02.19,2011,February,19,Saturday,50,D42,Other,146,Malvern East,132,Malvern (132),-79.23004851,43.79207102
+510,GO-20113996966,2011.02.26,2011,February,26,Saturday,57,D42,Shooting,146,Malvern East,132,Malvern (132),-79.21766249,43.79811627
+511,GO-20114010034,2011.03.02,2011,March,2,Wednesday,61,D11,Shooting,114,Lambton Baby Point,114,Lambton Baby Point (114),-79.50149891,43.6648788
+512,GO-20114029641,2011.03.03,2011,March,3,Thursday,62,D14,Other,172,Dovercourt Village,93,Dovercourt-Wallace Emerson-Junction (93),-79.42785676,43.66721461
+513,GO-20113973677,2011.03.20,2011,March,20,Sunday,79,D23,Shooting,6,Kingsview Village-The Westway,6,Kingsview Village-The Westway (6),-79.55215271,43.69579012
+514,GO-20113914456,2011.03.21,2011,March,21,Monday,80,D11,Other,85,South Parkdale,85,South Parkdale (85),-79.43727066,43.63691985
+515,GO-20113736070,2011.03.28,2011,March,28,Monday,87,D55,Shooting,63,The Beaches,63,The Beaches (63),-79.31220745,43.6680252
+516,GO-20113981811,2011.03.28,2011,March,28,Monday,87,D41,Shooting,138,Eglinton East,138,Eglinton East (138),-79.25560589,43.73506836
+517,GO-20113942884,2011.04.06,2011,April,6,Wednesday,96,D54,Other,66,Danforth,66,Danforth (66),-79.32496173,43.68659327
+518,GO-20113985830,2011.04.15,2011,April,15,Friday,105,D31,Other,27,York University Heights,27,York University Heights (27),-79.50215269,43.76548697
+519,GO-20113832638,2011.04.30,2011,April,30,Saturday,120,D23,Shooting,4,Rexdale-Kipling,4,Rexdale-Kipling (4),-79.55968601,43.71331182
+520,GO-20113985926,2011.05.26,2011,May,26,Thursday,146,D42,Shooting,147,L'Amoreaux West,117,L'Amoreaux (117),-79.33140892,43.79310032
+521,GO-20114047557,2011.05.29,2011,May,29,Sunday,149,D23,Shooting,2,Mount Olive-Silverstone-Jamestown,2,Mount Olive-Silverstone-Jamestown (2),-79.59281898,43.7390724
+522,GO-20113582659,2011.06.16,2011,June,16,Thursday,167,D31,Shooting,25,Glenfield-Jane Heights,25,Glenfield-Jane Heights (25),-79.51648674,43.75250263
+523,GO-20114071110,2011.07.01,2011,July,1,Friday,182,D33,Stabbing,119,Wexford/Maryvale,119,Wexford/Maryvale (119),-79.30438332,43.72888607
+524,GO-20113984179,2011.07.22,2011,July,22,Friday,203,D43,Stabbing,139,Scarborough Village,139,Scarborough Village (139),-79.222105,43.74248146
+525,GO-20113429437,2011.07.29,2011,July,29,Friday,210,D22,Shooting,158,Islington,14,Islington-City Centre West (14),-79.56407654,43.65244967
+526,GO-20113794249,2011.07.29,2011,July,29,Friday,210,D12,Other,115,Mount Dennis,115,Mount Dennis (115),-79.49313857,43.68829879
+527,GO-20114119820,2011.07.31,2011,July,31,Sunday,212,D12,Shooting,115,Mount Dennis,115,Mount Dennis (115),-79.50820659,43.69111793
+528,GO-20113443263,2011.08.10,2011,August,10,Wednesday,222,D31,Stabbing,155,Downsview,26,Downsview-Roding-CFB (26),-79.48369812,43.72627466
+529,GO-20114082526,2011.08.20,2011,August,20,Saturday,232,D31,Shooting,155,Downsview,26,Downsview-Roding-CFB (26),-79.49322891,43.74276906
+530,GO-20114131492,2011.08.23,2011,August,23,Tuesday,235,D32,Shooting,33,Clanton Park,33,Clanton Park (33),-79.43644222,43.74121374
+531,GO-20113721549,2011.08.27,2011,August,27,Saturday,239,D11,Shooting,114,Lambton Baby Point,114,Lambton Baby Point (114),-79.50149891,43.6648788
+532,GO-20114137445,2011.09.11,2011,September,11,Sunday,254,D43,Other,142,Woburn North,137,Woburn (137),-79.24984992,43.77251938
+533,GO-20113156934,2011.09.17,2011,September,17,Saturday,260,D41,Shooting,120,Clairlea-Birchmount,120,Clairlea-Birchmount (120),-79.26812656,43.70699286
+534,GO-20114136529,2011.10.02,2011,October,2,Sunday,275,D14,Shooting,81,Trinity-Bellwoods,81,Trinity-Bellwoods (81),-79.41593537,43.64717829
+535,GO-20113405116,2011.10.07,2011,October,7,Friday,280,D14,Other,84,Little Portugal,84,Little Portugal (84),-79.42285012,43.64123192
+536,GO-20113887747,2011.10.09,2011,October,9,Sunday,282,D54,Shooting,43,Victoria Village,43,Victoria Village (43),-79.3014675,43.71725545
+537,GO-20114156058,2011.10.14,2011,October,14,Friday,287,D54,Shooting,61,Taylor-Massey,61,Taylor-Massey (61),-79.30060509,43.69437249
+538,GO-20114244358,2011.10.15,2011,October,15,Saturday,288,D31,Shooting,24,Black Creek,24,Black Creek (24),-79.5109335,43.76207861
+539,GO-20114140412,2011.10.17,2011,October,17,Monday,290,D41,Other,120,Clairlea-Birchmount,120,Clairlea-Birchmount (120),-79.26336655,43.71255529
+540,GO-20114219112,2011.10.21,2011,October,21,Friday,294,D22,Shooting,13,Etobicoke West Mall,13,Etobicoke West Mall (13),-79.57615823,43.64849529
+541,GO-20114188550,2011.10.28,2011,October,28,Friday,301,D31,Shooting,154,Oakdale-Beverley Heights,26,Downsview-Roding-CFB (26),-79.50860799,43.73003685
+542,GO-20114187348,2011.11.29,2011,November,29,Tuesday,333,D55,Shooting,70,South Riverdale,70,South Riverdale (70),-79.32291693,43.65234189
+543,GO-20114136582,2011.12.02,2011,December,2,Friday,336,D12,Other,28,Rustic,28,Rustic (28),-79.50383466,43.70287184
+544,GO-20114253053,2011.12.02,2011,December,2,Friday,336,D32,Stabbing,50,Newtonbrook East,50,Newtonbrook East (50),-79.40746297,43.78249232
+545,GO-20113034132,2011.12.03,2011,December,3,Saturday,337,D32,Stabbing,39,Bedford Park-Nortown,39,Bedford Park-Nortown (39),-79.42386384,43.73936866
+546,GO-20114191912,2011.12.26,2011,December,26,Monday,360,D51,Other,72,Regent Park,72,Regent Park (72),-79.35833029,43.66258988
+547,GO-20114266197,2011.12.30,2011,December,30,Friday,364,D43,Shooting,141,Golfdale-Cedarbrae-Woburn,137,Woburn (137),-79.20562524,43.76404365
+548,GO-20114355679,2011.12.31,2011,December,31,Saturday,365,D14,Stabbing,78,Kensington-Chinatown,78,Kensington-Chinatown (78),-79.39906324,43.65246372
+549,GO-20124194029,2012.01.01,2012,January,1,Sunday,1,D42,Shooting,120,Clairlea-Birchmount,120,Clairlea-Birchmount (120),-79.2827611,43.72793994
+550,GO-20123665859,2012.01.01,2012,January,1,Sunday,1,D14,Stabbing,163,Fort York-Liberty Village,82,Niagara (82),-79.41710695,43.63864386
+551,GO-201230000227,2012.01.01,2012,January,1,Sunday,1,D53,Other,56,Leaside-Bennington,56,Leaside-Bennington (56),-79.36575487,43.70613935
+552,GO-20124205598,2012.01.21,2012,January,21,Saturday,21,D43,Shooting,125,Ionview,125,Ionview (125),-79.27785608,43.72995598
+553,GO-20124042332,2012.01.24,2012,January,24,Tuesday,24,D42,Shooting,145,Malvern West,132,Malvern (132),-79.22092115,43.80557318
+554,GO-20124212793,2012.01.27,2012,January,27,Friday,27,D11,Shooting,83,Dufferin Grove,83,Dufferin Grove (83),-79.43609672,43.65447879
+555,GO-20124085703,2012.02.20,2012,February,20,Monday,51,D32,Shooting,38,Lansing-Westgate,38,Lansing-Westgate (38),-79.42542116,43.75746139
+556,GO-20124085703,2012.02.20,2012,February,20,Monday,51,D32,Shooting,38,Lansing-Westgate,38,Lansing-Westgate (38),-79.42542116,43.75746139
+557,GO-20124370907,2012.02.29,2012,February,29,Wednesday,60,D42,Other,147,L'Amoreaux West,117,L'Amoreaux (117),-79.31478528,43.78458889
+558,GO-20124334336,2012.03.11,2012,March,11,Sunday,71,D32,Other,151,Yonge-Doris,51,Willowdale East (51),-79.40934165,43.76624482
+559,GO-20124445252,2012.03.23,2012,March,23,Friday,83,D22,Stabbing,15,Kingsway South,15,Kingsway South (15),-79.51963926,43.64939582
+560,GO-20123755673,2012.04.12,2012,April,12,Thursday,103,D12,Shooting,111,Rockcliffe-Smythe,111,Rockcliffe-Smythe (111),-79.48762429,43.67275387
+561,GO-20124428014,2012.04.15,2012,April,15,Sunday,106,D41,Stabbing,119,Wexford/Maryvale,119,Wexford/Maryvale (119),-79.3058888,43.73254489
+562,GO-20124376058,2012.04.16,2012,April,16,Monday,107,D11,Other,88,High Park North,88,High Park North (88),-79.46524488,43.65753812
+563,GO-20124449577,2012.05.04,2012,May,4,Friday,125,D32,Shooting,32,Englemount-Lawrence,32,Englemount-Lawrence (32),-79.44141286,43.72315167
+564,GO-20124449281,2012.05.07,2012,May,7,Monday,128,D41,Other,121,Oakridge,121,Oakridge (121),-79.28038739,43.7032802
+565,GO-20124346812,2012.05.09,2012,May,9,Wednesday,130,D53,Shooting,100,Yonge-Eglinton,100,Yonge-Eglinton (100),-79.40331777,43.69792114
+566,GO-20124445741,2012.05.10,2012,May,10,Thursday,131,D11,Shooting,114,Lambton Baby Point,114,Lambton Baby Point (114),-79.50149891,43.6648788
+567,GO-20123363455,2012.05.14,2012,May,14,Monday,135,D51,Other,73,Moss Park,73,Moss Park (73),-79.37069017,43.65072604
+568,GO-20124438492,2012.05.31,2012,May,31,Thursday,152,D43,Shooting,133,Centennial Scarborough,133,Centennial Scarborough (133),-79.15463684,43.78519206
+569,GO-20124533105,2012.06.02,2012,June,2,Saturday,154,D52,Shooting,168,Downtown Yonge East,75,Church-Yonge Corridor (75),-79.37997035,43.65405661
+570,GO-20124533105,2012.06.02,2012,June,2,Saturday,154,D52,Shooting,168,Downtown Yonge East,75,Church-Yonge Corridor (75),-79.37997035,43.65405661
+571,GO-20124386217,2012.06.18,2012,June,18,Monday,170,D14,Shooting,80,Palmerston-Little Italy,80,Palmerston-Little Italy (80),-79.41832537,43.65523975
+572,GO-20124503011,2012.06.22,2012,June,22,Friday,174,D41,Shooting,126,Dorset Park,126,Dorset Park (126),-79.2822541,43.76941531
+573,GO-20124556249,2012.06.23,2012,June,23,Saturday,175,D32,Shooting,153,Avondale,51,Willowdale East (51),-79.40459573,43.75728355
+574,GO-20124471737,2012.07.02,2012,July,2,Monday,184,D53,Other,67,Playter Estates-Danforth,67,Playter Estates-Danforth (67),-79.35793703,43.67786922
+575,GO-20121799882,2012.07.03,2012,July,3,Tuesday,185,D22,Other,12,Markland Wood,12,Markland Wood (12),-79.58342916,43.63332451
+576,GO-20124578181,2012.07.05,2012,July,5,Thursday,187,D22,Shooting,158,Islington,14,Islington-City Centre West (14),-79.55834804,43.64906165
+577,GO-20124544154,2012.07.16,2012,July,16,Monday,198,D43,Shooting,136,West Hill,136,West Hill (136),-79.18487845,43.76486182
+578,GO-20124544154,2012.07.16,2012,July,16,Monday,198,D43,Shooting,136,West Hill,136,West Hill (136),-79.18487845,43.76486182
+579,GO-20124466647,2012.07.17,2012,July,17,Tuesday,199,D12,Shooting,115,Mount Dennis,115,Mount Dennis (115),-79.50572482,43.68740612
+580,GO-20124427513,2012.07.19,2012,July,19,Thursday,201,D32,Shooting,32,Englemount-Lawrence,32,Englemount-Lawrence (32),-79.44390583,43.71947958
+581,GO-20124528375,2012.07.22,2012,July,22,Sunday,204,D42,Other,128,Agincourt South-Malvern West,128,Agincourt South-Malvern West (128),-79.25497643,43.78121639
+582,GO-20124622186,2012.08.01,2012,August,1,Wednesday,214,D31,Shooting,24,Black Creek,24,Black Creek (24),-79.51476374,43.76720514
+583,GO-20124531897,2012.08.07,2012,August,7,Tuesday,220,D42,Other,146,Malvern East,132,Malvern (132),-79.21694931,43.80723324
+584,GO-20124613436,2012.08.24,2012,August,24,Friday,237,D55,Other,120,Clairlea-Birchmount,120,Clairlea-Birchmount (120),-79.2827611,43.72793994
+585,GO-20124563307,2012.09.08,2012,September,8,Saturday,252,D55,Shooting,62,East End-Danforth,62,East End-Danforth (62),-79.29802043,43.67887932
+586,GO-20124528016,2012.09.08,2012,September,8,Saturday,252,D42,Shooting,146,Malvern East,132,Malvern (132),-79.2061558,43.80924617
+587,GO-20124520488,2012.09.15,2012,September,15,Saturday,259,D13,Other,108,Briar Hill-Belgravia,108,Briar Hill-Belgravia (108),-79.44110533,43.70224717
+588,GO-20124453311,2012.09.16,2012,September,16,Sunday,260,D23,Shooting,25,Glenfield-Jane Heights,25,Glenfield-Jane Heights (25),-79.51512482,43.74708814
+589,GO-20124589405,2012.09.18,2012,September,18,Tuesday,262,D23,Shooting,2,Mount Olive-Silverstone-Jamestown,2,Mount Olive-Silverstone-Jamestown (2),-79.58380099,43.73447858
+590,GO-20124589405,2012.09.18,2012,September,18,Tuesday,262,D23,Shooting,2,Mount Olive-Silverstone-Jamestown,2,Mount Olive-Silverstone-Jamestown (2),-79.58380099,43.73447858
+591,GO-20124663461,2012.10.11,2012,October,11,Thursday,285,D31,Shooting,24,Black Creek,24,Black Creek (24),-79.51546025,43.7578622
+592,GO-20124615172,2012.10.17,2012,October,17,Wednesday,291,D43,Other,142,Woburn North,137,Woburn (137),-79.23648729,43.77543173
+593,GO-2018104863,2012.10.18,2012,October,18,Thursday,292,D51,Other,167,Church-Wellesley,75,Church-Yonge Corridor (75),-79.38071926,43.66355444
+594,GO-20124477212,2012.10.23,2012,October,23,Tuesday,297,D51,Stabbing,71,Cabbagetown-South St.James Town,71,Cabbagetown-South St.James Town (71),-79.37101139,43.66481354
+595,GO-20124703830,2012.10.28,2012,October,28,Sunday,302,D43,Shooting,135,Morningside,135,Morningside (135),-79.21355594,43.78588226
+596,GO-20124613667,2012.10.29,2012,October,29,Monday,303,D14,Stabbing,85,South Parkdale,85,South Parkdale (85),-79.43727066,43.63691985
+597,GO-20124697103,2012.10.29,2012,October,29,Monday,303,D32,Shooting,31,Yorkdale-Glen Park,31,Yorkdale-Glen Park (31),-79.44926911,43.7205075
+598,GO-20124754900,2012.10.30,2012,October,30,Tuesday,304,D12,Shooting,115,Mount Dennis,115,Mount Dennis (115),-79.49313857,43.68829879
+599,GO-20124695122,2012.11.11,2012,November,11,Sunday,316,D14,Shooting,79,University,79,University (79),-79.40651625,43.65671576
+600,GO-20124664511,2012.11.12,2012,November,12,Monday,317,D23,Other,2,Mount Olive-Silverstone-Jamestown,2,Mount Olive-Silverstone-Jamestown (2),-79.58104549,43.73634205
+601,GO-20124559977,2012.11.14,2012,November,14,Wednesday,319,D55,Other,64,Woodbine Corridor,64,Woodbine Corridor (64),-79.31429899,43.67967627
+602,GO-20124545660,2012.11.17,2012,November,17,Saturday,322,D54,Stabbing,44,Flemingdon Park,44,Flemingdon Park (44),-79.32470614,43.72369227
+603,GO-20121799887,2012.11.29,2012,November,29,Thursday,334,D22,Shooting,12,Markland Wood,12,Markland Wood (12),-79.58342916,43.63332451
+604,GO-20124672379,2012.12.02,2012,December,2,Sunday,337,D31,Shooting,155,Downsview,26,Downsview-Roding-CFB (26),-79.48377829,43.73377817
+605,GO-20124844185,2012.12.20,2012,December,20,Thursday,355,D51,Stabbing,74,North St.James Town,74,North St.James Town (74),-79.37377428,43.66728915
+606,GO-20134821260,2013.01.01,2013,January,1,Tuesday,1,D31,Stabbing,27,York University Heights,27,York University Heights (27),-79.49464569,43.77771185
+607,GO-20134842775,2013.01.18,2013,January,18,Friday,18,D51,Shooting,72,Regent Park,72,Regent Park (72),-79.35930155,43.66092803
+608,GO-20134724330,2013.01.19,2013,January,19,Saturday,19,D23,Other,7,Willowridge-Martingrove-Richview,7,Willowridge-Martingrove-Richview (7),-79.56843046,43.67570667
+609,GO-20134911563,2013.01.19,2013,January,19,Saturday,19,D14,Other,172,Dovercourt Village,93,Dovercourt-Wallace Emerson-Junction (93),-79.42379453,43.67026539
+610,GO-20134902220,2013.02.02,2013,February,2,Saturday,33,D33,Other,47,Don Valley Village,47,Don Valley Village (47),-79.356962,43.78700877
+611,GO-20134822914,2013.02.06,2013,February,6,Wednesday,37,D42,Other,116,Steeles,116,Steeles (116),-79.33347933,43.81572313
+612,GO-20134822914,2013.02.06,2013,February,6,Wednesday,37,D42,Other,116,Steeles,116,Steeles (116),-79.33347933,43.81572313
+613,GO-20134834800,2013.02.10,2013,February,10,Sunday,41,D14,Shooting,163,Fort York-Liberty Village,82,Niagara (82),-79.42492533,43.63268055
+614,GO-20134954079,2013.02.11,2013,February,11,Monday,42,D31,Shooting,25,Glenfield-Jane Heights,25,Glenfield-Jane Heights (25),-79.51668932,43.75185003
+615,GO-20134920035,2013.02.17,2013,February,17,Sunday,48,D23,Shooting,2,Mount Olive-Silverstone-Jamestown,2,Mount Olive-Silverstone-Jamestown (2),-79.58641341,43.73250129
+616,GO-20134913786,2013.02.24,2013,February,24,Sunday,55,D31,Shooting,21,Humber Summit,21,Humber Summit (21),-79.54230487,43.76844483
+617,GO-20134896103,2013.03.04,2013,March,4,Monday,63,D13,Stabbing,109,Caledonia-Fairbank,109,Caledonia-Fairbank (109),-79.45528339,43.69302054
+618,GO-20134847120,2013.03.06,2013,March,6,Wednesday,65,D23,Other,4,Rexdale-Kipling,4,Rexdale-Kipling (4),-79.57023125,43.72654299
+619,GO-20134968037,2013.03.13,2013,March,13,Wednesday,72,D41,Other,119,Wexford/Maryvale,119,Wexford/Maryvale (119),-79.30219988,43.74375425
+620,GO-20134779022,2013.03.21,2013,March,21,Thursday,80,D51,Shooting,71,Cabbagetown-South St.James Town,71,Cabbagetown-South St.James Town (71),-79.37115814,43.66398867
+621,GO-20134907315,2013.03.28,2013,March,28,Thursday,87,D14,Shooting,164,Wellington Place,77,Waterfront Communities-The Island (77),-79.40009344,43.64444779
+622,GO-20134902638,2013.03.30,2013,March,30,Saturday,89,D32,Shooting,31,Yorkdale-Glen Park,31,Yorkdale-Glen Park (31),-79.45707743,43.72474173
+623,GO-20134837042,2013.04.06,2013,April,6,Saturday,96,D51,Other,72,Regent Park,72,Regent Park (72),-79.35833029,43.66258988
+624,GO-20134948721,2013.04.25,2013,April,25,Thursday,115,D42,Shooting,144,Morningside Heights,131,Rouge (131),-79.21489387,43.81888639
+625,GO-20134924967,2013.04.25,2013,April,25,Thursday,115,D32,Stabbing,38,Lansing-Westgate,38,Lansing-Westgate (38),-79.42542116,43.75746139
+626,GO-20134913839,2013.04.29,2013,April,29,Monday,119,D31,Other,25,Glenfield-Jane Heights,25,Glenfield-Jane Heights (25),-79.51886989,43.73857428
+627,GO-20134929615,2013.04.30,2013,April,30,Tuesday,120,D41,Stabbing,122,Birchcliffe-Cliffside,122,Birchcliffe-Cliffside (122),-79.2637076,43.6920648
+628,GO-20134823588,2013.05.16,2013,May,16,Thursday,136,D54,Other,54,O'Connor-Parkview,54,O'Connor-Parkview (54),-79.30035407,43.71251187
+629,GO-20134832188,2013.05.19,2013,May,19,Sunday,139,D14,Shooting,81,Trinity-Bellwoods,81,Trinity-Bellwoods (81),-79.42138001,43.65095208
+630,GO-20134934653,2013.05.24,2013,May,24,Friday,144,D12,Other,111,Rockcliffe-Smythe,111,Rockcliffe-Smythe (111),-79.48213503,43.68062582
+631,GO-20135001151,2013.05.29,2013,May,29,Wednesday,149,D42,Shooting,144,Morningside Heights,131,Rouge (131),-79.21988185,43.82190316
+632,GO-20135067942,2013.06.03,2013,June,3,Monday,154,D42,Other,129,Agincourt North,129,Agincourt North (129),-79.28169871,43.80845778
+633,GO-20135000885,2013.06.16,2013,June,16,Sunday,167,D32,Shooting,151,Yonge-Doris,51,Willowdale East (51),-79.41092102,43.76969754
+634,GO-20135096311,2013.06.27,2013,June,27,Thursday,178,D54,Stabbing,57,Broadview North,57,Broadview North (57),-79.35721735,43.68291976
+635,GO-20134832295,2013.07.04,2013,July,4,Thursday,185,D32,Other,33,Clanton Park,33,Clanton Park (33),-79.45021402,43.75306122
+636,GO-20135147700,2013.07.09,2013,July,9,Tuesday,190,D51,Other,73,Moss Park,73,Moss Park (73),-79.37135298,43.65906716
+637,GO-20135020177,2013.07.13,2013,July,13,Saturday,194,D32,Other,50,Newtonbrook East,50,Newtonbrook East (50),-79.41632218,43.78290939
+638,GO-20134799559,2013.07.14,2013,July,14,Sunday,195,D14,Other,162,West Queen West,82,Niagara (82),-79.41004944,43.64418836
+639,GO-20135172838,2013.07.15,2013,July,15,Monday,196,D22,Stabbing,12,Markland Wood,12,Markland Wood (12),-79.58024946,43.64316898
+640,GO-20135172838,2013.07.15,2013,July,15,Monday,196,D22,Stabbing,12,Markland Wood,12,Markland Wood (12),-79.58024946,43.64316898
+641,GO-20135172838,2013.07.15,2013,July,15,Monday,196,D22,Stabbing,12,Markland Wood,12,Markland Wood (12),-79.58024946,43.64316898
+642,GO-20135159817,2013.07.28,2013,July,28,Sunday,209,D31,Shooting,25,Glenfield-Jane Heights,25,Glenfield-Jane Heights (25),-79.5163405,43.75188656
+643,GO-20135162653,2013.08.05,2013,August,5,Monday,217,D11,Shooting,87,High Park-Swansea,87,High Park-Swansea (87),-79.47105024,43.63825444
+644,GO-20135143553,2013.08.12,2013,August,12,Monday,224,D23,Shooting,5,Elms-Old Rexdale,5,Elms-Old Rexdale (5),-79.54563593,43.72131208
+645,GO-20135192957,2013.08.23,2013,August,23,Friday,235,D31,Shooting,25,Glenfield-Jane Heights,25,Glenfield-Jane Heights (25),-79.51044558,43.74922073
+646,GO-20135192957,2013.08.23,2013,August,23,Friday,235,D31,Shooting,25,Glenfield-Jane Heights,25,Glenfield-Jane Heights (25),-79.51044558,43.74922073
+647,GO-20135143282,2013.09.03,2013,September,3,Tuesday,246,D12,Shooting,113,Weston,113,Weston (113),-79.52831656,43.70453926
+648,GO-20135114771,2013.09.12,2013,September,12,Thursday,255,D33,Stabbing,48,Hillcrest Village,48,Hillcrest Village (48),-79.36494359,43.8043217
+649,GO-20135245469,2013.09.14,2013,September,14,Saturday,257,D54,Stabbing,66,Danforth,66,Danforth (66),-79.32394038,43.68329271
+650,GO-20135269597,2013.09.17,2013,September,17,Tuesday,260,D23,Shooting,7,Willowridge-Martingrove-Richview,7,Willowridge-Martingrove-Richview (7),-79.57040564,43.67633225
+651,GO-20135126688,2013.09.20,2013,September,20,Friday,263,D12,Stabbing,112,Beechborough-Greenbrook,112,Beechborough-Greenbrook (112),-79.46769229,43.69170989
+652,GO-20135260102,2013.09.23,2013,September,23,Monday,266,D51,Shooting,73,Moss Park,73,Moss Park (73),-79.36694949,43.65649381
+653,GO-20135237175,2013.10.06,2013,October,6,Sunday,279,D52,Stabbing,170,Yonge-Bay Corridor,76,Bay Street Corridor (76),-79.38464734,43.65043469
+654,GO-20135128923,2013.10.13,2013,October,13,Sunday,286,D12,Stabbing,113,Weston,113,Weston (113),-79.51950622,43.7025116
+655,GO-20135229819,2013.10.20,2013,October,20,Sunday,293,D52,Other,78,Kensington-Chinatown,78,Kensington-Chinatown (78),-79.39892256,43.65513184
+656,GO-20135070453,2013.11.01,2013,November,1,Friday,305,D51,Other,72,Regent Park,72,Regent Park (72),-79.36398868,43.65986349
+657,GO-2013939200,2013.11.09,2013,November,9,Saturday,313,D13,Other,94,Wychwood,94,Wychwood (94),-79.42196277,43.67271218
+658,GO-2013943773,2013.11.10,2013,November,10,Sunday,314,D55,Shooting,62,East End-Danforth,62,East End-Danforth (62),-79.29802043,43.67887932
+659,GO-20131032372,2013.11.24,2013,November,24,Sunday,328,D23,Shooting,2,Mount Olive-Silverstone-Jamestown,2,Mount Olive-Silverstone-Jamestown (2),-79.58424039,43.75115706
+660,GO-20131036741,2013.11.25,2013,November,25,Monday,329,D32,Stabbing,105,Lawrence Park North,105,Lawrence Park North (105),-79.39527051,43.73016164
+661,GO-20131225193,2013.12.26,2013,December,26,Thursday,360,D12,Other,23,Pelmo Park-Humberlea,23,Pelmo Park-Humberlea (23),-79.51009895,43.71150293
+662,GO-20131231259,2013.12.27,2013,December,27,Friday,361,D42,Other,130,Milliken,130,Milliken (130),-79.2721899,43.82426737
+663,GO-20141272537,2014.01.03,2014,January,3,Friday,3,D51,Other,74,North St.James Town,74,North St.James Town (74),-79.37377428,43.66728915
+664,GO-20141326860,2014.01.14,2014,January,14,Tuesday,14,D41,Other,126,Dorset Park,126,Dorset Park (126),-79.28975608,43.75950235
+665,GO-20141431240,2014.01.29,2014,January,29,Wednesday,29,D43,Other,141,Golfdale-Cedarbrae-Woburn,137,Woburn (137),-79.22181996,43.77033569
+666,GO-20141428622,2014.01.29,2014,January,29,Wednesday,29,D23,Shooting,8,Humber Heights-Westmount,8,Humber Heights-Westmount (8),-79.51734154,43.69460706
+667,GO-20141435425,2014.01.30,2014,January,30,Thursday,30,D51,Other,168,Downtown Yonge East,75,Church-Yonge Corridor (75),-79.37876594,43.65431577
+668,GO-20141381673,2014.02.02,2014,February,2,Sunday,33,D54,Stabbing,54,O'Connor-Parkview,54,O'Connor-Parkview (54),-79.29739077,43.70300354
+669,GO-20141462653,2014.02.03,2014,February,3,Monday,34,D41,Other,119,Wexford/Maryvale,119,Wexford/Maryvale (119),-79.30226258,43.76947238
+670,GO-20141470629,2014.02.04,2014,February,4,Tuesday,35,D32,Shooting,105,Lawrence Park North,105,Lawrence Park North (105),-79.40439249,43.73365868
+671,GO-20141500533,2014.02.09,2014,February,9,Sunday,40,D22,Shooting,20,Alderwood,20,Alderwood (20),-79.55299342,43.60886207
+672,GO-20141518863,2014.02.12,2014,February,12,Wednesday,43,D23,Stabbing,2,Mount Olive-Silverstone-Jamestown,2,Mount Olive-Silverstone-Jamestown (2),-79.5798746,43.7386479
+673,GO-20141663866,2014.03.08,2014,March,8,Saturday,67,D54,Shooting,44,Flemingdon Park,44,Flemingdon Park (44),-79.33636829,43.71837527
+674,GO-20141667340,2014.03.09,2014,March,9,Sunday,68,D22,Stabbing,159,Etobicoke City Centre,14,Islington-City Centre West (14),-79.52184695,43.63352851
+675,GO-20141668180,2014.03.12,2014,March,12,Wednesday,71,D55,Other,65,Greenwood-Coxwell,65,Greenwood-Coxwell (65),-79.33004679,43.68013102
+676,GO-20141703847,2014.03.15,2014,March,15,Saturday,74,D55,Stabbing,70,South Riverdale,70,South Riverdale (70),-79.35164308,43.66197339
+677,GO-20141703051,2014.03.15,2014,March,15,Saturday,74,D43,Stabbing,142,Woburn North,137,Woburn (137),-79.22963152,43.76038304
+678,GO-20141731923,2014.03.19,2014,March,19,Wednesday,78,D55,Shooting,62,East End-Danforth,62,East End-Danforth (62),-79.30921367,43.68567061
+679,GO-20141731923,2014.03.19,2014,March,19,Wednesday,78,D55,Shooting,62,East End-Danforth,62,East End-Danforth (62),-79.30921367,43.68567061
+680,GO-20141766614,2014.03.25,2014,March,25,Tuesday,84,D11,Shooting,91,Weston-Pelham Park,91,Weston-Pellam Park (91),-79.45236684,43.6684799
+681,GO-20141824235,2014.04.04,2014,April,4,Friday,94,D51,Shooting,71,Cabbagetown-South St.James Town,71,Cabbagetown-South St.James Town (71),-79.36805348,43.66445725
+682,GO-20141880069,2014.04.12,2014,April,12,Saturday,102,D42,Shooting,144,Morningside Heights,131,Rouge (131),-79.21301749,43.81908813
+683,GO-20142003751,2014.05.02,2014,May,2,Friday,122,D13,Shooting,107,Oakwood Village,107,Oakwood Village (107),-79.44530997,43.69675861
+684,GO-20142145283,2014.05.24,2014,May,24,Saturday,144,D55,Shooting,65,Greenwood-Coxwell,65,Greenwood-Coxwell (65),-79.3272439,43.67452992
+685,GO-20142242196,2014.06.10,2014,June,10,Tuesday,161,D42,Other,129,Agincourt North,129,Agincourt North (129),-79.29001497,43.80973176
+686,GO-20142439822,2014.07.06,2014,July,6,Sunday,187,D51,Shooting,73,Moss Park,73,Moss Park (73),-79.37397666,43.65851067
+687,GO-20142452482,2014.07.08,2014,July,8,Tuesday,189,D32,Shooting,31,Yorkdale-Glen Park,31,Yorkdale-Glen Park (31),-79.4472319,43.71885288
+688,GO-20142499434,2014.07.15,2014,July,15,Tuesday,196,D33,Other,147,L'Amoreaux West,117,L'Amoreaux (117),-79.32705448,43.78386791
+689,GO-20142665166,2014.08.09,2014,August,9,Saturday,221,D22,Stabbing,13,Etobicoke West Mall,13,Etobicoke West Mall (13),-79.56971993,43.65158597
+690,GO-20142728301,2014.08.18,2014,August,18,Monday,230,D12,Shooting,115,Mount Dennis,115,Mount Dennis (115),-79.49881935,43.68447022
+691,GO-20142777149,2014.08.26,2014,August,26,Tuesday,238,D14,Shooting,164,Wellington Place,77,Waterfront Communities-The Island (77),-79.39448378,43.64402406
+692,GO-20142804113,2014.08.30,2014,August,30,Saturday,242,D14,Other,172,Dovercourt Village,93,Dovercourt-Wallace Emerson-Junction (93),-79.4268547,43.66173038
+693,GO-20142849540,2014.09.05,2014,September,5,Friday,248,D51,Other,71,Cabbagetown-South St.James Town,71,Cabbagetown-South St.James Town (71),-79.36955832,43.66816846
+694,GO-20142870490,2014.09.08,2014,September,8,Monday,251,D12,Shooting,30,Brookhaven-Amesbury,28,Rustic (28),-79.50383466,43.70287184
+695,GO-20142870125,2014.09.08,2014,September,8,Monday,251,D54,Stabbing,62,East End-Danforth,62,East End-Danforth (62),-79.29676814,43.68929898
+696,GO-20142886898,2014.09.11,2014,September,11,Thursday,254,D32,Shooting,40,St.Andrew-Windfields,40,St.Andrew-Windfields (40),-79.39478612,43.76020936
+697,GO-20142891423,2014.09.11,2014,September,11,Thursday,254,D22,Other,159,Etobicoke City Centre,14,Islington-City Centre West (14),-79.53034496,43.64698477
+698,GO-20142905498,2014.09.14,2014,September,14,Sunday,257,D43,Shooting,141,Golfdale-Cedarbrae-Woburn,137,Woburn (137),-79.22532108,43.75981655
+699,GO-20142910832,2014.09.14,2014,September,14,Sunday,257,D33,Other,47,Don Valley Village,47,Don Valley Village (47),-79.35165385,43.78764304
+700,GO-20142929457,2014.09.17,2014,September,17,Wednesday,260,D31,Shooting,27,York University Heights,27,York University Heights (27),-79.50044567,43.7620719
+701,GO-20142966747,2014.09.23,2014,September,23,Tuesday,266,D23,Stabbing,2,Mount Olive-Silverstone-Jamestown,2,Mount Olive-Silverstone-Jamestown (2),-79.58437608,43.74798715
+702,GO-20142992607,2014.09.27,2014,September,27,Saturday,270,D54,Stabbing,66,Danforth,66,Danforth (66),-79.33134571,43.68170366
+703,GO-20143005270,2014.09.29,2014,September,29,Monday,272,D43,Shooting,139,Scarborough Village,139,Scarborough Village (139),-79.22055842,43.74282882
+704,GO-20143017592,2014.09.30,2014,September,30,Tuesday,273,D13,Stabbing,107,Oakwood Village,107,Oakwood Village (107),-79.44499706,43.69606482
+705,GO-20143045566,2014.10.05,2014,October,5,Sunday,278,D12,Shooting,90,Junction Area,90,Junction Area (90),-79.47407222,43.67889305
+706,GO-20143053896,2014.10.06,2014,October,6,Monday,279,D51,Shooting,72,Regent Park,72,Regent Park (72),-79.36374886,43.6572161
+707,GO-20143053009,2014.10.06,2014,October,6,Monday,279,D23,Shooting,6,Kingsview Village-The Westway,6,Kingsview Village-The Westway (6),-79.54575318,43.70117781
+708,GO-20143053009,2014.10.06,2014,October,6,Monday,279,D23,Shooting,6,Kingsview Village-The Westway,6,Kingsview Village-The Westway (6),-79.54575318,43.70117781
+709,GO-20143094406,2014.10.13,2014,October,13,Monday,286,D33,Other,47,Don Valley Village,47,Don Valley Village (47),-79.36115036,43.79073022
+710,GO-20143107536,2014.10.15,2014,October,15,Wednesday,288,D11,Other,171,Junction-Wallace Emerson,93,Dovercourt-Wallace Emerson-Junction (93),-79.43869632,43.66765464
+711,GO-20143208371,2014.10.30,2014,October,30,Thursday,303,D31,Shooting,155,Downsview,26,Downsview-Roding-CFB (26),-79.4864487,43.74477134
+712,GO-20143252379,2014.11.06,2014,November,6,Thursday,310,D12,Shooting,110,Keelesdale-Eglinton West,110,Keelesdale-Eglinton West (110),-79.47123748,43.69049658
+713,GO-20143310199,2014.11.16,2014,November,16,Sunday,320,D52,Shooting,170,Yonge-Bay Corridor,76,Bay Street Corridor (76),-79.38605643,43.65523438
+714,GO-20143392120,2014.11.29,2014,November,29,Saturday,333,D53,Stabbing,55,Thorncliffe Park,55,Thorncliffe Park (55),-79.34138354,43.70801163
+715,GO-20143392120,2014.11.29,2014,November,29,Saturday,333,D53,Stabbing,55,Thorncliffe Park,55,Thorncliffe Park (55),-79.34138354,43.70801163
+716,GO-20143392120,2014.11.29,2014,November,29,Saturday,333,D53,Stabbing,55,Thorncliffe Park,55,Thorncliffe Park (55),-79.34138354,43.70801163
+717,GO-20143420091,2014.12.01,2014,December,1,Monday,335,D51,Stabbing,74,North St.James Town,74,North St.James Town (74),-79.37377428,43.66728915
+718,GO-20143423102,2014.12.04,2014,December,4,Thursday,338,D41,Stabbing,157,Bendale South,127,Bendale (127),-79.25482218,43.74551749
+719,GO-20143455828,2014.12.09,2014,December,9,Tuesday,343,D11,Stabbing,88,High Park North,88,High Park North (88),-79.46821933,43.65632622
+720,GO-20143536404,2014.12.15,2014,December,15,Monday,349,D14,Other,84,Little Portugal,84,Little Portugal (84),-79.42493153,43.64335992
+721,GO-201555992,2015.01.10,2015,January,10,Saturday,10,D51,Stabbing,167,Church-Wellesley,75,Church-Yonge Corridor (75),-79.37671331,43.66241268
+722,GO-201594334,2015.01.16,2015,January,16,Friday,16,D23,Other,1,West Humber-Clairville,1,West Humber-Clairville (1),-79.59622148,43.74143135
+723,GO-201599853,2015.01.17,2015,January,17,Saturday,17,D32,Stabbing,50,Newtonbrook East,50,Newtonbrook East (50),-79.4126711,43.78133031
+724,GO-2015159448,2015.01.27,2015,January,27,Tuesday,27,D32,Shooting,31,Yorkdale-Glen Park,31,Yorkdale-Glen Park (31),-79.44926911,43.7205075
+725,GO-2015179790,2015.01.31,2015,January,31,Saturday,31,D14,Shooting,78,Kensington-Chinatown,78,Kensington-Chinatown (78),-79.40545063,43.65088291
+726,GO-2015205271,2015.02.04,2015,February,4,Wednesday,35,D41,Other,120,Clairlea-Birchmount,120,Clairlea-Birchmount (120),-79.26220606,43.71254894
+727,GO-2015346652,2015.02.28,2015,February,28,Saturday,59,D55,Shooting,64,Woodbine Corridor,64,Woodbine Corridor (64),-79.32088796,43.68393823
+728,GO-2015346652,2015.02.28,2015,February,28,Saturday,59,D55,Shooting,64,Woodbine Corridor,64,Woodbine Corridor (64),-79.32088796,43.68393823
+729,GO-2015453427,2015.03.17,2015,March,17,Tuesday,76,D23,Shooting,6,Kingsview Village-The Westway,6,Kingsview Village-The Westway (6),-79.54867241,43.7013181
+730,GO-2015457868,2015.03.18,2015,March,18,Wednesday,77,D22,Other,161,Humber Bay Shores,17,Mimico (includes Humber Bay Shores) (17),-79.48326397,43.6205055
+731,GO-2015473322,2015.03.21,2015,March,21,Saturday,80,D23,Stabbing,7,Willowridge-Martingrove-Richview,7,Willowridge-Martingrove-Richview (7),-79.57040564,43.67633225
+732,GO-2015531511,2015.03.30,2015,March,30,Monday,89,D23,Shooting,2,Mount Olive-Silverstone-Jamestown,2,Mount Olive-Silverstone-Jamestown (2),-79.58380099,43.73447858
+733,GO-2015586781,2015.04.09,2015,April,9,Thursday,99,D54,Other,61,Taylor-Massey,61,Taylor-Massey (61),-79.30335812,43.69515077
+734,GO-2015618195,2015.04.14,2015,April,14,Tuesday,104,D13,Other,92,Corso Italia-Davenport,92,Corso Italia-Davenport (92),-79.43957083,43.67825217
+735,GO-2015669864,2015.04.23,2015,April,23,Thursday,113,D41,Stabbing,122,Birchcliffe-Cliffside,122,Birchcliffe-Cliffside (122),-79.2637076,43.6920648
+736,GO-2015767516,2015.05.08,2015,May,8,Friday,128,D43,Stabbing,136,West Hill,136,West Hill (136),-79.18255246,43.76301925
+737,GO-2015819674,2015.05.17,2015,May,17,Sunday,137,D11,Other,171,Junction-Wallace Emerson,93,Dovercourt-Wallace Emerson-Junction (93),-79.45315724,43.66577996
+738,GO-2015831181,2015.05.19,2015,May,19,Tuesday,139,D54,Shooting,66,Danforth,66,Danforth (66),-79.32476486,43.68311087
+739,GO-2015843494,2015.05.20,2015,May,20,Wednesday,140,D11,Shooting,171,Junction-Wallace Emerson,93,Dovercourt-Wallace Emerson-Junction (93),-79.44774438,43.65977334
+740,GO-2015870230,2015.05.25,2015,May,25,Monday,145,D43,Stabbing,141,Golfdale-Cedarbrae-Woburn,137,Woburn (137),-79.2352639,43.75771567
+741,GO-2015922149,2015.05.30,2015,May,30,Saturday,150,D54,Stabbing,60,Woodbine-Lumsden,60,Woodbine-Lumsden (60),-79.31240543,43.68947229
+742,GO-2015916307,2015.06.01,2015,June,1,Monday,152,D43,Shooting,141,Golfdale-Cedarbrae-Woburn,137,Woburn (137),-79.2352639,43.75771567
+743,GO-2015926649,2015.06.03,2015,June,3,Wednesday,154,D51,Stabbing,168,Downtown Yonge East,75,Church-Yonge Corridor (75),-79.37775539,43.6519573
+744,GO-2015988808,2015.06.12,2015,June,12,Friday,163,D12,Other,111,Rockcliffe-Smythe,111,Rockcliffe-Smythe (111),-79.49415781,43.67258053
+745,GO-20151086599,2015.06.28,2015,June,28,Sunday,179,D14,Shooting,84,Little Portugal,84,Little Portugal (84),-79.42285012,43.64123192
+746,GO-20151086599,2015.06.28,2015,June,28,Sunday,179,D14,Shooting,84,Little Portugal,84,Little Portugal (84),-79.42285012,43.64123192
+747,GO-20151158745,2015.07.09,2015,July,9,Thursday,190,D23,Shooting,2,Mount Olive-Silverstone-Jamestown,2,Mount Olive-Silverstone-Jamestown (2),-79.58380099,43.73447858
+748,GO-20151178239,2015.07.10,2015,July,10,Friday,191,D13,Other,171,Junction-Wallace Emerson,93,Dovercourt-Wallace Emerson-Junction (93),-79.44851171,43.66858493
+749,GO-20151182401,2015.07.12,2015,July,12,Sunday,193,D43,Stabbing,123,Cliffcrest,123,Cliffcrest (123),-79.22679067,43.73001674
+750,GO-20151325557,2015.08.03,2015,August,3,Monday,215,D51,Stabbing,74,North St.James Town,74,North St.James Town (74),-79.37206804,43.67070052
+751,GO-20151330701,2015.08.04,2015,August,4,Tuesday,216,D14,Shooting,163,Fort York-Liberty Village,82,Niagara (82),-79.42262288,43.6327429
+752,GO-20151330701,2015.08.04,2015,August,4,Tuesday,216,D14,Shooting,163,Fort York-Liberty Village,82,Niagara (82),-79.42262288,43.6327429
+753,GO-20151352151,2015.08.07,2015,August,7,Friday,219,D12,Stabbing,91,Weston-Pelham Park,91,Weston-Pellam Park (91),-79.46369835,43.67587414
+754,GO-20151362027,2015.08.09,2015,August,9,Sunday,221,D52,Shooting,170,Yonge-Bay Corridor,76,Bay Street Corridor (76),-79.38163118,43.65442112
+755,GO-20151423810,2015.08.19,2015,August,19,Wednesday,231,D51,Shooting,73,Moss Park,73,Moss Park (73),-79.37021334,43.65848384
+756,GO-20151428790,2015.08.19,2015,August,19,Wednesday,231,D12,Shooting,28,Rustic,28,Rustic (28),-79.50411114,43.71413062
+757,GO-20151536584,2015.09.06,2015,September,6,Sunday,249,D12,Stabbing,111,Rockcliffe-Smythe,111,Rockcliffe-Smythe (111),-79.50085045,43.67797235
+758,GO-20151577444,2015.09.12,2015,September,12,Saturday,255,D43,Stabbing,136,West Hill,136,West Hill (136),-79.19643141,43.76614407
+759,GO-20151641806,2015.09.22,2015,September,22,Tuesday,265,D43,Stabbing,135,Morningside,135,Morningside (135),-79.21206073,43.78954218
+760,GO-20151692243,2015.10.01,2015,October,1,Thursday,274,D43,Shooting,134,Highland Creek,134,Highland Creek (134),-79.15459325,43.79357368
+761,GO-2018104863,2015.10.15,2015,October,15,Thursday,288,D43,Other,141,Golfdale-Cedarbrae-Woburn,137,Woburn (137),-79.22225749,43.7510204
+762,GO-20151791234,2015.10.17,2015,October,17,Saturday,290,D23,Shooting,1,West Humber-Clairville,1,West Humber-Clairville (1),-79.59556249,43.68675119
+763,GO-20151869657,2015.10.31,2015,October,31,Saturday,304,D51,Shooting,167,Church-Wellesley,75,Church-Yonge Corridor (75),-79.38410773,43.66846411
+764,GO-20151899333,2015.11.04,2015,November,4,Wednesday,308,D53,Shooting,56,Leaside-Bennington,56,Leaside-Bennington (56),-79.35531535,43.71661681
+765,GO-20151783770,2015.11.10,2015,November,10,Tuesday,314,D55,Other,64,Woodbine Corridor,64,Woodbine Corridor (64),-79.31190314,43.68036996
+766,GO-20151939320,2015.11.10,2015,November,10,Tuesday,314,D41,Other,120,Clairlea-Birchmount,120,Clairlea-Birchmount (120),-79.27361267,43.71325935
+767,GO-20151950148,2015.11.13,2015,November,13,Friday,317,D42,Stabbing,118,Tam O'Shanter-Sullivan,118,Tam O'Shanter-Sullivan (118),-79.31072707,43.77706418
+768,GO-20151947851,2015.11.13,2015,November,13,Friday,317,D51,Stabbing,74,North St.James Town,74,North St.James Town (74),-79.37377428,43.66728915
+769,GO-20151975144,2015.11.17,2015,November,17,Tuesday,321,D23,Shooting,1,West Humber-Clairville,1,West Humber-Clairville (1),-79.60383053,43.73115619
+770,GO-20152071129,2015.11.28,2015,November,28,Saturday,332,D41,Other,121,Oakridge,121,Oakridge (121),-79.28688645,43.69676167
+771,GO-20152050482,2015.11.30,2015,November,30,Monday,334,D23,Shooting,3,Thistletown-Beaumond Heights,3,Thistletown-Beaumond Heights (3),-79.58211226,43.74325749
+772,GO-20152123843,2015.12.11,2015,December,11,Friday,345,D52,Shooting,164,Wellington Place,77,Waterfront Communities-The Island (77),-79.39331907,43.64672612
+773,GO-20152125474,2015.12.11,2015,December,11,Friday,345,D33,Shooting,53,Henry Farm,53,Henry Farm (53),-79.33990974,43.77605294
+774,GO-20152123328,2015.12.11,2015,December,11,Friday,345,D52,Stabbing,170,Yonge-Bay Corridor,76,Bay Street Corridor (76),-79.3805775,43.64641459
+775,GO-2018104863,2015.12.14,2015,December,14,Monday,348,D52,Other,55,Thorncliffe Park,55,Thorncliffe Park (55),-79.34138354,43.70801163
+776,GO-20152151120,2015.12.15,2015,December,15,Tuesday,349,D51,Stabbing,168,Downtown Yonge East,75,Church-Yonge Corridor (75),-79.38157518,43.66008029
+777,GO-20152149617,2015.12.15,2015,December,15,Tuesday,349,D31,Shooting,21,Humber Summit,21,Humber Summit (21),-79.57207364,43.7559688
+778,GO-20152180756,2015.12.20,2015,December,20,Sunday,354,D13,Other,106,Humewood-Cedarvale,106,Humewood-Cedarvale (106),-79.42086651,43.68618824
+779,GO-20152229877,2015.12.30,2015,December,30,Wednesday,364,D53,Other,100,Yonge-Eglinton,100,Yonge-Eglinton (100),-79.39779022,43.7013855
+780,GO-201620700,2016.01.04,2016,January,4,Monday,4,D54,Shooting,61,Taylor-Massey,61,Taylor-Massey (61),-79.29129504,43.69313865
+781,GO-201698593,2016.01.17,2016,January,17,Sunday,17,D32,Other,50,Newtonbrook East,50,Newtonbrook East (50),-79.41048414,43.79652469
+782,GO-2016108786,2016.01.19,2016,January,19,Tuesday,19,D22,Shooting,18,New Toronto,18,New Toronto (18),-79.50864433,43.60000792
+783,GO-2016120610,2016.01.20,2016,January,20,Wednesday,20,D42,Shooting,147,L'Amoreaux West,117,L'Amoreaux (117),-79.33312856,43.7981694
+784,GO-2016119350,2016.01.20,2016,January,20,Wednesday,20,D22,Shooting,10,Princess-Rosethorn,10,Princess-Rosethorn (10),-79.54348963,43.67198913
+785,GO-2016139786,2016.01.24,2016,January,24,Sunday,24,D43,Shooting,156,Bendale-Glen Andrew,127,Bendale (127),-79.25364972,43.77167244
+786,GO-2016173014,2016.01.29,2016,January,29,Friday,29,D13,Shooting,31,Yorkdale-Glen Park,31,Yorkdale-Glen Park (31),-79.46580817,43.70823101
+787,GO-2016175803,2016.01.30,2016,January,30,Saturday,30,D23,Other,2,Mount Olive-Silverstone-Jamestown,2,Mount Olive-Silverstone-Jamestown (2),-79.58174802,43.73777365
+788,GO-2016181573,2016.01.31,2016,January,31,Sunday,31,D14,Shooting,78,Kensington-Chinatown,78,Kensington-Chinatown (78),-79.39922772,43.65584521
+789,GO-2016181573,2016.01.31,2016,January,31,Sunday,31,D14,Shooting,78,Kensington-Chinatown,78,Kensington-Chinatown (78),-79.39922772,43.65584521
+790,GO-2016204501,2016.02.03,2016,February,3,Wednesday,34,D22,Stabbing,13,Etobicoke West Mall,13,Etobicoke West Mall (13),-79.56971993,43.65158597
+791,GO-2016215657,2016.02.05,2016,February,5,Friday,36,D42,Other,146,Malvern East,132,Malvern (132),-79.21865095,43.80653086
+792,GO-2016215657,2016.02.05,2016,February,5,Friday,36,D42,Other,146,Malvern East,132,Malvern (132),-79.21865095,43.80653086
+793,GO-2016215657,2016.02.05,2016,February,5,Friday,36,D42,Other,146,Malvern East,132,Malvern (132),-79.21865095,43.80653086
+794,GO-2016215657,2016.02.05,2016,February,5,Friday,36,D42,Other,146,Malvern East,132,Malvern (132),-79.21865095,43.80653086
+795,GO-2016225259,2016.02.07,2016,February,7,Sunday,38,D54,Other,43,Victoria Village,43,Victoria Village (43),-79.30493587,43.71598062
+796,GO-2016235777,2016.02.09,2016,February,9,Tuesday,40,D12,Stabbing,30,Brookhaven-Amesbury,28,Rustic (28),-79.50383466,43.70287184
+797,GO-2016317425,2016.02.22,2016,February,22,Monday,53,D43,Other,139,Scarborough Village,139,Scarborough Village (139),-79.2123815,43.74459793
+798,GO-2016345475,2016.02.27,2016,February,27,Saturday,58,D41,Stabbing,120,Clairlea-Birchmount,120,Clairlea-Birchmount (120),-79.28991548,43.70753895
+799,GO-2016354140,2016.02.28,2016,February,28,Sunday,59,D23,Shooting,8,Humber Heights-Westmount,8,Humber Heights-Westmount (8),-79.51579787,43.69251216
+800,GO-2016359352,2016.02.29,2016,February,29,Monday,60,D11,Shooting,139,Scarborough Village,139,Scarborough Village (139),-79.21831054,43.74529871
+801,GO-2016265129,2016.03.04,2016,March,4,Friday,64,D52,Other,78,Kensington-Chinatown,78,Kensington-Chinatown (78),-79.39152705,43.65222071
+802,GO-2016481311,2016.03.20,2016,March,20,Sunday,80,D42,Shooting,148,East L'Amoreaux,117,L'Amoreaux (117),-79.30243373,43.79721282
+803,GO-2016491854,2016.03.22,2016,March,22,Tuesday,82,D12,Other,23,Pelmo Park-Humberlea,23,Pelmo Park-Humberlea (23),-79.51111224,43.71595384
+804,GO-2016500861,2016.03.23,2016,March,23,Wednesday,83,D55,Shooting,70,South Riverdale,70,South Riverdale (70),-79.3419651,43.66241027
+805,GO-2016556458,2016.04.02,2016,April,2,Saturday,93,D51,Shooting,72,Regent Park,72,Regent Park (72),-79.36343874,43.65582473
+806,GO-2016602150,2016.04.09,2016,April,9,Saturday,100,D31,Other,27,York University Heights,27,York University Heights (27),-79.49652055,43.74859199
+807,GO-2016630918,2016.04.13,2016,April,13,Wednesday,104,D53,Shooting,167,Church-Wellesley,75,Church-Yonge Corridor (75),-79.38678443,43.67022021
+808,GO-2016632371,2016.04.14,2016,April,14,Thursday,105,D22,Shooting,160,Mimico-Queensway,17,Mimico (includes Humber Bay Shores) (17),-79.49674637,43.61222964
+809,GO-2016652097,2016.04.17,2016,April,17,Sunday,108,D54,Shooting,66,Danforth,66,Danforth (66),-79.32476486,43.68311087
+810,GO-2016656231,2016.04.17,2016,April,17,Sunday,108,D12,Other,113,Weston,113,Weston (113),-79.52940286,43.70513523
+811,GO-2016666749,2016.04.19,2016,April,19,Tuesday,110,D51,Other,68,North Riverdale,68,North Riverdale (68),-79.35290747,43.66615451
+812,GO-2018104863,2016.04.22,2016,April,22,Friday,113,D53,Other,55,Thorncliffe Park,55,Thorncliffe Park (55),-79.34138354,43.70801163
+813,GO-2016734521,2016.04.29,2016,April,29,Friday,120,D41,Shooting,119,Wexford/Maryvale,119,Wexford/Maryvale (119),-79.31292493,43.75840854
+814,GO-2016734521,2016.04.29,2016,April,29,Friday,120,D41,Shooting,119,Wexford/Maryvale,119,Wexford/Maryvale (119),-79.31292493,43.75840854
+815,GO-2016838159,2016.05.15,2016,May,15,Sunday,136,D23,Shooting,2,Mount Olive-Silverstone-Jamestown,2,Mount Olive-Silverstone-Jamestown (2),-79.58941948,43.73201658
+816,GO-2016838159,2016.05.15,2016,May,15,Sunday,136,D23,Shooting,2,Mount Olive-Silverstone-Jamestown,2,Mount Olive-Silverstone-Jamestown (2),-79.58941948,43.73201658
+817,GO-2016851941,2016.05.18,2016,May,18,Wednesday,139,D51,Other,167,Church-Wellesley,75,Church-Yonge Corridor (75),-79.38234267,43.66680298
+818,GO-2016965196,2016.06.03,2016,June,3,Friday,155,D31,Shooting,22,Humbermede,22,Humbermede (22),-79.5403342,43.74271952
+819,GO-2016989870,2016.06.07,2016,June,7,Tuesday,159,D53,Shooting,174,South Eglinton-Davisville,104,Mount Pleasant West (104),-79.39663505,43.70655007
+820,GO-20161148938,2016.07.01,2016,July,1,Friday,183,D14,Shooting,78,Kensington-Chinatown,78,Kensington-Chinatown (78),-79.4038075,43.65725556
+821,GO-20161148938,2016.07.01,2016,July,1,Friday,183,D14,Shooting,78,Kensington-Chinatown,78,Kensington-Chinatown (78),-79.4038075,43.65725556
+822,GO-20161116247,2016.07.03,2016,July,3,Sunday,185,D11,Other,84,Little Portugal,84,Little Portugal (84),-79.43767134,43.64963962
+823,GO-20161229465,2016.07.13,2016,July,13,Wednesday,195,D31,Shooting,154,Oakdale-Beverley Heights,25,Glenfield-Jane Heights (25),-79.52013064,43.73780052
+824,GO-20161263080,2016.07.18,2016,July,18,Monday,200,D51,Other,168,Downtown Yonge East,75,Church-Yonge Corridor (75),-79.37256279,43.6503169
+825,GO-20161329227,2016.07.28,2016,July,28,Thursday,210,D41,Shooting,157,Bendale South,127,Bendale (127),-79.25807235,43.75296847
+826,GO-20161335085,2016.07.29,2016,July,29,Friday,211,D51,Stabbing,167,Church-Wellesley,75,Church-Yonge Corridor (75),-79.38192438,43.66952775
+827,GO-20161403032,2016.08.09,2016,August,9,Tuesday,222,D55,Other,69,Blake-Jones,69,Blake-Jones (69),-79.33443371,43.677263429999996
+828,GO-20161443064,2016.08.15,2016,August,15,Monday,228,D51,Other,73,Moss Park,73,Moss Park (73),-79.37345495,43.65729769
+829,GO-20161480338,2016.08.21,2016,August,21,Sunday,234,D14,Shooting,162,West Queen West,82,Niagara (82),-79.41270633,43.64190559
+830,GO-20161506128,2016.08.25,2016,August,25,Thursday,238,D43,Other,139,Scarborough Village,139,Scarborough Village (139),-79.22282061,43.73957577
+831,GO-20161506128,2016.08.25,2016,August,25,Thursday,238,D43,Other,139,Scarborough Village,139,Scarborough Village (139),-79.22282061,43.73957577
+832,GO-20161506128,2016.08.25,2016,August,25,Thursday,238,D43,Other,139,Scarborough Village,139,Scarborough Village (139),-79.22282061,43.73957577
+833,GO-20161520715,2016.08.27,2016,August,27,Saturday,240,D55,Shooting,70,South Riverdale,70,South Riverdale (70),-79.35289985,43.66048853
+834,GO-20161613172,2016.09.11,2016,September,11,Sunday,255,D14,Shooting,85,South Parkdale,85,South Parkdale (85),-79.4253333,43.63733981
+835,GO-20161625137,2016.09.13,2016,September,13,Tuesday,257,D31,Stabbing,27,York University Heights,27,York University Heights (27),-79.4997038,43.76779533
+836,GO-20161688118,2016.09.21,2016,September,21,Wednesday,265,D11,Other,91,Weston-Pelham Park,91,Weston-Pellam Park (91),-79.45736952,43.66972272
+837,GO-20161696689,2016.09.23,2016,September,23,Friday,267,D43,Stabbing,156,Bendale-Glen Andrew,127,Bendale (127),-79.25362418,43.7745768
+838,GO-20161743137,2016.09.30,2016,September,30,Friday,274,D23,Shooting,1,West Humber-Clairville,1,West Humber-Clairville (1),-79.61077713,43.7339786
+839,GO-20161838374,2016.10.16,2016,October,16,Sunday,290,D12,Shooting,113,Weston,113,Weston (113),-79.51778665,43.7005943
+840,GO-20161855287,2016.10.18,2016,October,18,Tuesday,292,D23,Shooting,1,West Humber-Clairville,1,West Humber-Clairville (1),-79.60015252,43.74702948
+841,GO-20161888229,2016.10.24,2016,October,24,Monday,298,D23,Shooting,6,Kingsview Village-The Westway,6,Kingsview Village-The Westway (6),-79.55637202,43.69952383
+842,GO-20161907779,2016.10.27,2016,October,27,Thursday,301,D43,Shooting,141,Golfdale-Cedarbrae-Woburn,135,Morningside (135),-79.20562524,43.76404365
+843,GO-20161966289,2016.11.05,2016,November,5,Saturday,310,D14,Other,81,Trinity-Bellwoods,81,Trinity-Bellwoods (81),-79.41242955,43.65500657
+844,GO-20162051533,2016.11.18,2016,November,18,Friday,323,D33,Shooting,43,Victoria Village,43,Victoria Village (43),-79.31351959,43.7260177
+845,GO-20162055725,2016.11.19,2016,November,19,Saturday,324,D31,Shooting,24,Black Creek,24,Black Creek (24),-79.51928818,43.77026626
+846,GO-20162106299,2016.11.27,2016,November,27,Sunday,332,D55,Shooting,70,South Riverdale,70,South Riverdale (70),-79.35294135,43.66176404
+847,GO-20162138470,2016.12.03,2016,December,3,Saturday,338,D32,Other,33,Clanton Park,33,Clanton Park (33),-79.44156413,43.75063275
+848,GO-20162148586,2016.12.04,2016,December,4,Sunday,339,D31,Stabbing,25,Glenfield-Jane Heights,25,Glenfield-Jane Heights (25),-79.52690232,43.75530636
+849,GO-20162172757,2016.12.07,2016,December,7,Wednesday,342,D54,Shooting,58,Old East York,58,Old East York (58),-79.34272812,43.69373257
+850,GO-20162210973,2016.12.14,2016,December,14,Wednesday,349,D43,Shooting,139,Scarborough Village,139,Scarborough Village (139),-79.21969005,43.74501403
+851,GO-20162229166,2016.12.16,2016,December,16,Friday,351,D14,Stabbing,83,Dufferin Grove,83,Dufferin Grove (83),-79.43167718,43.65273723
+852,GO-20162233489,2016.12.17,2016,December,17,Saturday,352,D12,Shooting,113,Weston,113,Weston (113),-79.5166557,43.69914436
+853,GO-20162242930,2016.12.18,2016,December,18,Sunday,353,D23,Shooting,6,Kingsview Village-The Westway,6,Kingsview Village-The Westway (6),-79.54924116,43.70256621
+854,GO-20162276833,2016.12.24,2016,December,24,Saturday,359,D51,Stabbing,73,Moss Park,73,Moss Park (73),-79.36962756,43.65719355
+855,GO-201743106,2017.01.08,2017,January,8,Sunday,8,D51,Shooting,73,Moss Park,73,Moss Park (73),-79.36793615,43.65484842
+856,GO-2017137133,2017.01.23,2017,January,23,Monday,23,D31,Shooting,21,Humber Summit,21,Humber Summit (21),-79.56921772,43.75622331
+857,GO-2017163412,2017.01.26,2017,January,26,Thursday,26,D22,Other,160,Mimico-Queensway,17,Mimico (includes Humber Bay Shores) (17),-79.51475467,43.60920598
+858,GO-2017189239,2017.01.30,2017,January,30,Monday,30,D51,Shooting,72,Regent Park,72,Regent Park (72),-79.36149468,43.66315235
+859,GO-2017186988,2017.01.30,2017,January,30,Monday,30,D51,Shooting,73,Moss Park,73,Moss Park (73),-79.37107514,43.65159849
+860,GO-2017202856,2017.02.01,2017,February,1,Wednesday,32,D31,Shooting,25,Glenfield-Jane Heights,25,Glenfield-Jane Heights (25),-79.51707116,43.75484813
+861,GO-2017222142,2017.02.05,2017,February,5,Sunday,36,D54,Shooting,66,Danforth,66,Danforth (66),-79.34237567,43.68291361
+862,GO-2017233897,2017.02.06,2017,February,6,Monday,37,D32,Other,37,Willowdale West,37,Willowdale West (37),-79.41557607,43.77488475
+863,GO-2017233559,2017.02.06,2017,February,6,Monday,37,D23,Shooting,5,Elms-Old Rexdale,5,Elms-Old Rexdale (5),-79.55128126,43.71671867
+864,GO-2017291986,2017.02.16,2017,February,16,Thursday,47,D54,Other,54,O'Connor-Parkview,54,O'Connor-Parkview (54),-79.29739077,43.70300354
+865,GO-2017352942,2017.02.25,2017,February,25,Saturday,56,D53,Shooting,55,Thorncliffe Park,55,Thorncliffe Park (55),-79.3415976,43.70449995
+866,GO-2017402242,2017.03.04,2017,March,4,Saturday,63,D55,Other,68,North Riverdale,68,North Riverdale (68),-79.35470378,43.66564013
+867,GO-2017468897,2017.03.16,2017,March,16,Thursday,75,D42,Shooting,144,Morningside Heights,131,Rouge (131),-79.18466338,43.81019542
+868,GO-2017486409,2017.03.18,2017,March,18,Saturday,77,D54,Shooting,61,Taylor-Massey,61,Taylor-Massey (61),-79.29545721,43.70167229
+869,GO-2017564412,2017.03.31,2017,March,31,Friday,90,D11,Shooting,8,Humber Heights-Westmount,8,Humber Heights-Westmount (8),-79.52085138,43.69093313
+870,GO-2017662074,2017.04.14,2017,April,14,Friday,104,D42,Shooting,147,L'Amoreaux West,117,L'Amoreaux (117),-79.33093157,43.79744705
+871,GO-2017674351,2017.04.14,2017,April,14,Friday,104,D55,Shooting,70,South Riverdale,70,South Riverdale (70),-79.34358759,43.66028167
+872,GO-2017703097,2017.04.21,2017,April,21,Friday,111,D13,Shooting,108,Briar Hill-Belgravia,108,Briar Hill-Belgravia (108),-79.45113725,43.69791059
+873,GO-2017904599,2017.05.22,2017,May,22,Monday,142,D55,Shooting,70,South Riverdale,70,South Riverdale (70),-79.34519196,43.66708884
+874,GO-2017904599,2017.05.22,2017,May,22,Monday,142,D55,Other,70,South Riverdale,70,South Riverdale (70),-79.34519196,43.66708884
+875,GO-20171007434,2017.06.07,2017,June,7,Wednesday,158,D12,Other,110,Keelesdale-Eglinton West,112,Beechborough-Greenbrook (112),-79.48287462,43.68836218
+876,GO-20171035511,2017.06.11,2017,June,11,Sunday,162,D31,Shooting,22,Humbermede,22,Humbermede (22),-79.5572796,43.74768039
+877,GO-20171118832,2017.06.23,2017,June,23,Friday,174,D11,Stabbing,171,Junction-Wallace Emerson,93,Dovercourt-Wallace Emerson-Junction (93),-79.44356096,43.66732192
+878,GO-20171184598,2017.07.02,2017,July,2,Sunday,183,D51,Shooting,72,Regent Park,72,Regent Park (72),-79.36476976,43.66044171
+879,GO-20171319697,2017.07.23,2017,July,23,Sunday,204,D42,Shooting,144,Morningside Heights,131,Rouge (131),-79.19919414,43.81330943
+880,GO-20171319697,2017.07.23,2017,July,23,Sunday,204,D42,Shooting,144,Morningside Heights,131,Rouge (131),-79.19919414,43.81330943
+881,GO-20171323827,2017.07.23,2017,July,23,Sunday,204,D42,Shooting,146,Malvern East,132,Malvern (132),-79.21028273,43.8101984
+882,GO-20171371751,2017.07.30,2017,July,30,Sunday,211,D32,Shooting,31,Yorkdale-Glen Park,31,Yorkdale-Glen Park (31),-79.45242612,43.71432126
+883,GO-20171378728,2017.07.31,2017,July,31,Monday,212,D51,Shooting,73,Moss Park,73,Moss Park (73),-79.36945603,43.65451911
+884,GO-20171377317,2017.07.31,2017,July,31,Monday,212,D54,Stabbing,57,Broadview North,57,Broadview North (57),-79.35366157,43.68950015
+885,GO-20171379055,2017.08.01,2017,August,1,Tuesday,213,D13,Shooting,106,Humewood-Cedarvale,106,Humewood-Cedarvale (106),-79.41996024,43.68720197
+886,GO-20171499040,2017.08.17,2017,August,17,Thursday,229,D31,Stabbing,27,York University Heights,27,York University Heights (27),-79.50487885,43.75995786
+887,GO-20171503946,2017.08.20,2017,August,20,Sunday,232,D14,Shooting,79,University,79,University (79),-79.40651625,43.65671576
+888,GO-20171516247,2017.08.22,2017,August,22,Tuesday,234,D31,Stabbing,25,Glenfield-Jane Heights,25,Glenfield-Jane Heights (25),-79.5178468,43.75019335
+889,GO-20171578601,2017.08.31,2017,August,31,Thursday,243,D31,Shooting,154,Oakdale-Beverley Heights,26,Downsview-Roding-CFB (26),-79.51334606,43.72198096
+890,GO-20171592166,2017.09.02,2017,September,2,Saturday,245,D23,Shooting,5,Elms-Old Rexdale,5,Elms-Old Rexdale (5),-79.54572369,43.7282297
+891,GO-20171593482,2017.09.06,2017,September,6,Wednesday,249,D43,Stabbing,138,Eglinton East,138,Eglinton East (138),-79.24552663,43.73944979
+892,GO-20171640198,2017.09.10,2017,September,10,Sunday,253,D41,Stabbing,122,Birchcliffe-Cliffside,122,Birchcliffe-Cliffside (122),-79.26446437,43.69816225
+893,GO-20171661261,2017.09.13,2017,September,13,Wednesday,256,D33,Stabbing,53,Henry Farm,53,Henry Farm (53),-79.34310796,43.76929319
+894,GO-20171663919,2017.09.14,2017,September,14,Thursday,257,D41,Shooting,126,Dorset Park,126,Dorset Park (126),-79.2855495,43.76889479
+895,GO-20171682920,2017.09.16,2017,September,16,Saturday,259,D52,Shooting,164,Wellington Place,77,Waterfront Communities-The Island (77),-79.38636582,43.64800312
+896,GO-20171677843,2017.09.16,2017,September,16,Saturday,259,D51,Shooting,72,Regent Park,72,Regent Park (72),-79.3603238,43.66342025
+897,GO-20171770154,2017.09.29,2017,September,29,Friday,272,D31,Shooting,154,Oakdale-Beverley Heights,26,Downsview-Roding-CFB (26),-79.51334606,43.72198096
+898,GO-20171778161,2017.10.01,2017,October,1,Sunday,274,D51,Shooting,70,South Riverdale,70,South Riverdale (70),-79.35494779,43.64121572
+899,GO-20171778161,2017.10.01,2017,October,1,Sunday,274,D51,Shooting,70,South Riverdale,70,South Riverdale (70),-79.35494779,43.64121572
+900,GO-20171798506,2017.10.04,2017,October,4,Wednesday,277,D23,Other,4,Rexdale-Kipling,4,Rexdale-Kipling (4),-79.56978664,43.72517504
+901,GO-20171807017,2017.10.05,2017,October,5,Thursday,278,D23,Shooting,6,Kingsview Village-The Westway,6,Kingsview Village-The Westway (6),-79.5473517,43.69461419
+902,GO-20171821632,2017.10.07,2017,October,7,Saturday,280,D54,Stabbing,60,Woodbine-Lumsden,60,Woodbine-Lumsden (60),-79.31594918,43.697519
+903,GO-20171828016,2017.10.08,2017,October,8,Sunday,281,D23,Shooting,6,Kingsview Village-The Westway,6,Kingsview Village-The Westway (6),-79.55184649,43.69788407
+904,GO-20171856631,2017.10.13,2017,October,13,Friday,286,D14,Other,172,Dovercourt Village,93,Dovercourt-Wallace Emerson-Junction (93),-79.42543719,43.66775429
+905,GO-20171864268,2017.10.14,2017,October,14,Saturday,287,D31,Shooting,21,Humber Summit,21,Humber Summit (21),-79.55297972,43.75143328
+906,GO-20171897265,2017.10.20,2017,October,20,Friday,293,D53,Stabbing,55,Thorncliffe Park,55,Thorncliffe Park (55),-79.3423868,43.70514285
+907,GO-20171954551,2017.10.28,2017,October,28,Saturday,301,D54,Stabbing,43,Victoria Village,43,Victoria Village (43),-79.30493587,43.71598062
+908,GO-20172057548,2017.11.13,2017,November,13,Monday,317,D51,Shooting,72,Regent Park,72,Regent Park (72),-79.36601253,43.65943484
+909,GO-20172060242,2017.11.14,2017,November,14,Tuesday,318,D12,Stabbing,113,Weston,113,Weston (113),-79.51940101,43.70103255
+910,GO-20173043943,2017.11.21,2017,November,21,Tuesday,325,D42,Shooting,144,Morningside Heights,131,Rouge (131),-79.20177439,43.81333623
+911,GO-20173095559,2017.11.29,2017,November,29,Wednesday,333,D51,Other,167,Church-Wellesley,75,Church-Yonge Corridor (75),-79.38140991,43.66682533
+912,GO-20173121720,2017.12.04,2017,December,4,Monday,338,D43,Shooting,139,Scarborough Village,139,Scarborough Village (139),-79.22322781,43.74045885
+913,GO-20173140530,2017.12.06,2017,December,6,Wednesday,340,D43,Other,133,Centennial Scarborough,133,Centennial Scarborough (133),-79.15053808,43.77645564
+914,GO-20173181653,2017.12.12,2017,December,12,Tuesday,346,D42,Other,146,Malvern East,132,Malvern (132),-79.21120593,43.81185082
+915,GO-20173201016,2017.12.15,2017,December,15,Friday,349,D33,Other,40,St.Andrew-Windfields,40,St.Andrew-Windfields (40),-79.38217918,43.75788343
+916,GO-20173201016,2017.12.15,2017,December,15,Friday,349,D33,Other,40,St.Andrew-Windfields,40,St.Andrew-Windfields (40),-79.38217918,43.75788343
+917,GO-20173205177,2017.12.16,2017,December,16,Saturday,350,D51,Shooting,166,St Lawrence-East Bayfront-The Islands,77,Waterfront Communities-The Island (77),-79.37078557,43.6478303
+918,GO-2018104863,2017.12.31,2017,December,31,Sunday,365,D53,Other,55,Thorncliffe Park,55,Thorncliffe Park (55),-79.34138354,43.70801163
+919,GO-2018104863,2017.12.31,2017,December,31,Sunday,365,D52,Other,55,Thorncliffe Park,55,Thorncliffe Park (55),-79.34138354,43.70801163
+920,GO-201817532,2018.01.03,2018,January,3,Wednesday,3,D23,Other,7,Willowridge-Martingrove-Richview,7,Willowridge-Martingrove-Richview (7),-79.56320142,43.68149133
+921,GO-201854152,2018.01.09,2018,January,9,Tuesday,9,D23,Shooting,8,Humber Heights-Westmount,8,Humber Heights-Westmount (8),-79.51701309,43.69402122
+922,GO-2018113424,2018.01.19,2018,January,19,Friday,19,D22,Shooting,11,Eringate-Centennial-West Deane,11,Eringate-Centennial-West Deane (11),-79.56841471,43.65939069
+923,GO-2018113424,2018.01.19,2018,January,19,Friday,19,D22,Shooting,11,Eringate-Centennial-West Deane,11,Eringate-Centennial-West Deane (11),-79.56841471,43.65939069
+924,GO-2018183793,2018.01.29,2018,January,29,Monday,29,D51,Stabbing,167,Church-Wellesley,75,Church-Yonge Corridor (75),-79.3837124,43.66451369
+925,GO-2018249547,2018.02.08,2018,February,8,Thursday,39,D33,Shooting,52,Bayview Village,52,Bayview Village (52),-79.38738585,43.78071974
+926,GO-2018289167,2018.02.15,2018,February,15,Thursday,46,D43,Shooting,133,Centennial Scarborough,133,Centennial Scarborough (133),-79.17244463,43.78218551
+927,GO-2018366454,2018.02.26,2018,February,26,Monday,57,D13,Other,96,Casa Loma,96,Casa Loma (96),-79.41708659,43.68009853
+928,GO-2018393677,2018.03.02,2018,March,2,Friday,61,D31,Shooting,24,Black Creek,24,Black Creek (24),-79.52040116,43.76882055
+929,GO-2018413955,2018.03.06,2018,March,6,Tuesday,65,D33,Stabbing,150,Fenside-Parkwoods,45,Parkwoods-Donalda (45),-79.34510081,43.76309465
+930,GO-2018444497,2018.03.10,2018,March,10,Saturday,69,D23,Shooting,2,Mount Olive-Silverstone-Jamestown,2,Mount Olive-Silverstone-Jamestown (2),-79.58793358,43.74529478
+931,GO-2018484039,2018.03.16,2018,March,16,Friday,75,D23,Shooting,8,Humber Heights-Westmount,8,Humber Heights-Westmount (8),-79.51658143,43.69382045
+932,GO-2018489653,2018.03.17,2018,March,17,Saturday,76,D32,Shooting,31,Yorkdale-Glen Park,31,Yorkdale-Glen Park (31),-79.45551267,43.71763393
+933,GO-2018489653,2018.03.17,2018,March,17,Saturday,76,D32,Shooting,31,Yorkdale-Glen Park,31,Yorkdale-Glen Park (31),-79.45551267,43.71763393
+934,GO-2018619032,2018.04.06,2018,April,6,Friday,96,D41,Shooting,119,Wexford/Maryvale,119,Wexford/Maryvale (119),-79.31816076,43.76450904
+935,GO-2018661938,2018.04.08,2018,April,8,Sunday,98,D41,Other,119,Wexford/Maryvale,119,Wexford/Maryvale (119),-79.30798068,43.74434917
+936,GO-2018639035,2018.04.10,2018,April,10,Tuesday,100,D54,Stabbing,58,Old East York,58,Old East York (58),-79.34322242,43.69502347
+937,GO-2018711594,2018.04.21,2018,April,21,Saturday,111,D41,Stabbing,124,Kennedy Park,124,Kennedy Park (124),-79.25202762,43.72726556
+938,GO-2018725711,2018.04.23,2018,April,23,Monday,113,D32,Other,153,Avondale,51,Willowdale East (51),-79.41055633,43.75994133
+939,GO-2018725711,2018.04.23,2018,April,23,Monday,113,D32,Other,153,Avondale,51,Willowdale East (51),-79.41055633,43.75994133
+940,GO-2018725711,2018.04.23,2018,April,23,Monday,113,D32,Other,153,Avondale,51,Willowdale East (51),-79.41055633,43.75994133
+941,GO-2018725711,2018.04.23,2018,April,23,Monday,113,D32,Other,153,Avondale,51,Willowdale East (51),-79.41055633,43.75994133
+942,GO-2018725711,2018.04.23,2018,April,23,Monday,113,D32,Other,153,Avondale,51,Willowdale East (51),-79.41055633,43.75994133
+943,GO-2018725711,2018.04.23,2018,April,23,Monday,113,D32,Other,153,Avondale,51,Willowdale East (51),-79.41055633,43.75994133
+944,GO-2018725711,2018.04.23,2018,April,23,Monday,113,D32,Other,153,Avondale,51,Willowdale East (51),-79.41055633,43.75994133
+945,GO-2018725711,2018.04.23,2018,April,23,Monday,113,D32,Other,153,Avondale,51,Willowdale East (51),-79.41055633,43.75994133
+946,GO-2018725711,2018.04.23,2018,April,23,Monday,113,D32,Other,153,Avondale,51,Willowdale East (51),-79.41055633,43.75994133
+947,GO-2018725711,2018.04.23,2018,April,23,Monday,113,D32,Other,153,Avondale,51,Willowdale East (51),-79.41055633,43.75994133
+948,GO-2018725711,2018.04.23,2018,April,23,Monday,113,D32,Other,153,Avondale,51,Willowdale East (51),-79.41055633,43.75994133
+949,GO-2018813479,2018.05.06,2018,May,6,Sunday,126,D41,Stabbing,122,Birchcliffe-Cliffside,122,Birchcliffe-Cliffside (122),-79.27874539,43.67476696
+950,GO-2018821806,2018.05.07,2018,May,7,Monday,127,D22,Shooting,10,Princess-Rosethorn,10,Princess-Rosethorn (10),-79.55016382,43.67338801
+951,GO-2018907125,2018.05.20,2018,May,20,Sunday,140,D43,Shooting,135,Morningside,135,Morningside (135),-79.21618849,43.77541579
+952,GO-2018911506,2018.05.20,2018,May,20,Sunday,140,D52,Shooting,170,Yonge-Bay Corridor,76,Bay Street Corridor (76),-79.3785333,43.64838124
+953,GO-2018929488,2018.05.23,2018,May,23,Wednesday,143,D14,Stabbing,95,Annex,95,Annex (95),-79.40530147,43.67030253
+954,GO-2018945776,2018.05.25,2018,May,25,Friday,145,D55,Stabbing,62,East End-Danforth,62,East End-Danforth (62),-79.30117787,43.67812042
+955,GO-2018946587,2018.05.25,2018,May,25,Friday,145,D54,Other,57,Broadview North,57,Broadview North (57),-79.35131725,43.69197817
+956,GO-2018965463,2018.05.28,2018,May,28,Monday,148,D53,Shooting,95,Annex,95,Annex (95),-79.39019615,43.6713507
+957,GO-2018958547,2018.05.28,2018,May,28,Monday,148,D42,Shooting,145,Malvern West,132,Malvern (132),-79.22422601,43.80448757
+958,GO-2018979942,2018.05.30,2018,May,30,Wednesday,150,D52,Shooting,168,Downtown Yonge East,75,Church-Yonge Corridor (75),-79.3803111,43.65645381
+959,GO-20181021340,2018.06.05,2018,June,5,Tuesday,156,D22,Shooting,18,New Toronto,18,New Toronto (18),-79.50939452,43.60258044
+960,GO-20181046556,2018.06.09,2018,June,9,Saturday,160,D11,Stabbing,84,Little Portugal,84,Little Portugal (84),-79.43290963,43.64781072
+961,GO-20181066328,2018.06.09,2018,June,9,Saturday,160,D14,Other,162,West Queen West,82,Niagara (82),-79.4096014,43.64529131
+962,GO-20181075301,2018.06.13,2018,June,13,Wednesday,164,D11,Other,86,Roncesvalles,86,Roncesvalles (86),-79.4355444,43.64466444
+963,GO-20181091522,2018.06.16,2018,June,16,Saturday,167,D41,Stabbing,123,Cliffcrest,123,Cliffcrest (123),-79.24917359,43.71918512
+964,GO-20181106259,2018.06.18,2018,June,18,Monday,169,D53,Other,98,Rosedale-Moore Park,98,Rosedale-Moore Park (98),-79.38581958,43.6715705
+965,GO-20181142174,2018.06.23,2018,June,23,Saturday,174,D23,Stabbing,2,Mount Olive-Silverstone-Jamestown,2,Mount Olive-Silverstone-Jamestown (2),-79.58883698,43.73572901
+966,GO-20181146367,2018.06.24,2018,June,24,Sunday,175,D32,Shooting,32,Englemount-Lawrence,32,Englemount-Lawrence (32),-79.44354801,43.71877318
+967,GO-20181146418,2018.06.24,2018,June,24,Sunday,175,D23,Shooting,3,Thistletown-Beaumond Heights,3,Thistletown-Beaumond Heights (3),-79.57586447,43.73829098
+968,GO-20181146418,2018.06.24,2018,June,24,Sunday,175,D23,Shooting,3,Thistletown-Beaumond Heights,3,Thistletown-Beaumond Heights (3),-79.57586447,43.73829098
+969,GO-20181152121,2018.06.25,2018,June,25,Monday,176,D51,Shooting,73,Moss Park,73,Moss Park (73),-79.37135298,43.65906716
+970,GO-20181191880,2018.06.30,2018,June,30,Saturday,181,D52,Shooting,78,Kensington-Chinatown,78,Kensington-Chinatown (78),-79.39369866,43.64934497
+971,GO-20181191880,2018.06.30,2018,June,30,Saturday,181,D52,Shooting,78,Kensington-Chinatown,78,Kensington-Chinatown (78),-79.39369866,43.64934497
+972,GO-20181198918,2018.07.01,2018,July,1,Sunday,182,D14,Shooting,78,Kensington-Chinatown,78,Kensington-Chinatown (78),-79.40233235,43.65522887
+973,GO-20181194072,2018.07.01,2018,July,1,Sunday,182,D54,Stabbing,65,Greenwood-Coxwell,65,Greenwood-Coxwell (65),-79.33237918,43.68147804
+974,GO-20181221507,2018.07.05,2018,July,5,Thursday,186,D41,Other,120,Clairlea-Birchmount,120,Clairlea-Birchmount (120),-79.28855913,43.70437453
+975,GO-20181240749,2018.07.08,2018,July,8,Sunday,189,D31,Shooting,24,Black Creek,24,Black Creek (24),-79.51522778,43.76814882
+976,GO-20181245963,2018.07.09,2018,July,9,Monday,190,D31,Shooting,24,Black Creek,24,Black Creek (24),-79.51622058,43.77012645
+977,GO-20181329654,2018.07.21,2018,July,21,Saturday,202,D55,Stabbing,70,South Riverdale,70,South Riverdale (70),-79.34770514,43.65685048
+978,GO-20181341286,2018.07.23,2018,July,23,Monday,204,D54,Shooting,67,Playter Estates-Danforth,67,Playter Estates-Danforth (67),-79.35147435,43.67804611
+979,GO-20181341286,2018.07.23,2018,July,23,Monday,204,D54,Shooting,67,Playter Estates-Danforth,67,Playter Estates-Danforth (67),-79.35147435,43.67804611
+980,GO-20181358001,2018.07.25,2018,July,25,Wednesday,206,D31,Shooting,21,Humber Summit,21,Humber Summit (21),-79.56886444,43.75470343
+981,GO-20181494077,2018.08.13,2018,August,13,Monday,225,D22,Other,18,New Toronto,18,New Toronto (18),-79.50889593,43.60153166
+982,GO-20181508181,2018.08.15,2018,August,15,Wednesday,227,D23,Shooting,2,Mount Olive-Silverstone-Jamestown,2,Mount Olive-Silverstone-Jamestown (2),-79.58904119,43.73438057
+983,GO-20181526723,2018.08.18,2018,August,18,Saturday,230,D23,Stabbing,6,Kingsview Village-The Westway,6,Kingsview Village-The Westway (6),-79.55446079,43.69378502
+984,GO-20181527703,2018.08.18,2018,August,18,Saturday,230,D22,Stabbing,159,Etobicoke City Centre,14,Islington-City Centre West (14),-79.55689984,43.61011982
+985,GO-20181527703,2018.08.18,2018,August,18,Saturday,230,D22,Stabbing,159,Etobicoke City Centre,14,Islington-City Centre West (14),-79.55689984,43.61011982
+986,GO-20181528994,2018.08.19,2018,August,19,Sunday,231,D51,Shooting,73,Moss Park,73,Moss Park (73),-79.36502244,43.65244309
+987,GO-20181548479,2018.08.22,2018,August,22,Wednesday,234,D54,Shooting,66,Danforth,66,Danforth (66),-79.34072784,43.68011784
+988,GO-20181549969,2018.08.22,2018,August,22,Wednesday,234,D12,Shooting,115,Mount Dennis,115,Mount Dennis (115),-79.50088739,43.69129537
+989,GO-20181562384,2018.08.24,2018,August,24,Friday,236,D12,Stabbing,113,Weston,113,Weston (113),-79.51619757,43.70015197
+990,GO-20181564549,2018.08.24,2018,August,24,Friday,236,D42,Other,145,Malvern West,132,Malvern (132),-79.24282227,43.81178167
+991,GO-20181599566,2018.08.29,2018,August,29,Wednesday,241,D51,Other,72,Regent Park,72,Regent Park (72),-79.35783269,43.66197474
+992,GO-20181609974,2018.08.31,2018,August,31,Friday,243,D41,Shooting,120,Clairlea-Birchmount,120,Clairlea-Birchmount (120),-79.27554407,43.70150708
+993,GO-20181622696,2018.09.02,2018,September,2,Sunday,245,D42,Shooting,146,Malvern East,132,Malvern (132),-79.2101661,43.80913851
+994,GO-20181626502,2018.09.02,2018,September,2,Sunday,245,D14,Shooting,163,Fort York-Liberty Village,82,Niagara (82),-79.40328612,43.63573062
+995,GO-20181665625,2018.09.08,2018,September,8,Saturday,251,D12,Shooting,91,Weston-Pelham Park,91,Weston-Pellam Park (91),-79.46317052,43.67400504
+996,GO-20181668023,2018.09.08,2018,September,8,Saturday,251,D11,Other,86,Roncesvalles,86,Roncesvalles (86),-79.4355444,43.64466444
+997,GO-20181684842,2018.09.11,2018,September,11,Tuesday,254,D23,Stabbing,7,Willowridge-Martingrove-Richview,7,Willowridge-Martingrove-Richview (7),-79.56858671,43.68430231
+998,GO-20181706301,2018.09.14,2018,September,14,Friday,257,D43,Shooting,138,Eglinton East,138,Eglinton East (138),-79.23205255,43.74303221
+999,GO-20181733104,2018.09.18,2018,September,18,Tuesday,261,D42,Shooting,128,Agincourt South-Malvern West,128,Agincourt South-Malvern West (128),-79.26222842,43.78820307
+1000,GO-20181739446,2018.09.19,2018,September,19,Wednesday,262,D32,Stabbing,50,Newtonbrook East,50,Newtonbrook East (50),-79.41781984,43.78897168
+1001,GO-20181772173,2018.09.24,2018,September,24,Monday,267,D33,Shooting,53,Henry Farm,53,Henry Farm (53),-79.34454404,43.77234248
+1002,GO-20181777456,2018.09.25,2018,September,25,Tuesday,268,D51,Shooting,72,Regent Park,72,Regent Park (72),-79.36299801,43.66008107
+1003,GO-20181823974,2018.10.02,2018,October,2,Tuesday,275,D31,Shooting,27,York University Heights,27,York University Heights (27),-79.49464569,43.77771185
+1004,GO-20181827810,2018.10.03,2018,October,3,Wednesday,276,D42,Shooting,118,Tam O'Shanter-Sullivan,118,Tam O'Shanter-Sullivan (118),-79.29878906,43.78369574
+1005,GO-20181839683,2018.10.04,2018,October,4,Thursday,277,D55,Other,70,South Riverdale,70,South Riverdale (70),-79.34744387,43.65941362
+1006,GO-20181879521,2018.10.11,2018,October,11,Thursday,284,D31,Shooting,155,Downsview,26,Downsview-Roding-CFB (26),-79.48909235,43.73485655
+1007,GO-20181887731,2018.10.12,2018,October,12,Friday,285,D51,Other,168,Downtown Yonge East,75,Church-Yonge Corridor (75),-79.37669888,43.65695754
+1008,GO-20181923388,2018.10.18,2018,October,18,Thursday,291,D41,Other,120,Clairlea-Birchmount,120,Clairlea-Birchmount (120),-79.28629162,43.69907019
+1009,GO-20181939006,2018.10.20,2018,October,20,Saturday,293,D41,Stabbing,124,Kennedy Park,124,Kennedy Park (124),-79.2645509,43.73276465
+1010,GO-20182096419,2018.11.14,2018,November,14,Wednesday,318,D31,Shooting,23,Pelmo Park-Humberlea,23,Pelmo Park-Humberlea (23),-79.53043714,43.71946574
+1011,GO-20182113063,2018.11.16,2018,November,16,Friday,320,D51,Other,73,Moss Park,73,Moss Park (73),-79.36900509,43.65461429
+1012,GO-20182124586,2018.11.18,2018,November,18,Sunday,322,D43,Shooting,136,West Hill,136,West Hill (136),-79.188074,43.76726367
+1013,GO-20182242344,2018.12.06,2018,December,6,Thursday,340,D51,Stabbing,73,Moss Park,73,Moss Park (73),-79.37445106,43.66019618
+1014,GO-20182280579,2018.12.12,2018,December,12,Wednesday,346,D23,Shooting,6,Kingsview Village-The Westway,6,Kingsview Village-The Westway (6),-79.54867241,43.7013181
+1015,GO-20182315055,2018.12.18,2018,December,18,Tuesday,352,D31,Shooting,24,Black Creek,24,Black Creek (24),-79.51777127,43.75900983
+1016,GO-20182320758,2018.12.19,2018,December,19,Wednesday,353,D14,Shooting,164,Wellington Place,77,Waterfront Communities-The Island (77),-79.39764343,43.64494841
+1017,GO-20182339244,2018.12.21,2018,December,21,Friday,355,D23,Shooting,2,Mount Olive-Silverstone-Jamestown,2,Mount Olive-Silverstone-Jamestown (2),-79.58390504,43.75109662
+1018,GO-201930365,2019.01.06,2019,January,6,Sunday,6,D41,Stabbing,124,Kennedy Park,124,Kennedy Park (124),-79.25202762,43.72726556
+1019,GO-201945560,2019.01.08,2019,January,8,Tuesday,8,D41,Stabbing,120,Clairlea-Birchmount,120,Clairlea-Birchmount (120),-79.26980481,43.71107522
+1020,GO-201954928,2019.01.09,2019,January,9,Wednesday,9,D23,Shooting,4,Rexdale-Kipling,4,Rexdale-Kipling (4),-79.55993471,43.7228443
+1021,GO-201969065,2019.01.12,2019,January,12,Saturday,12,D41,Shooting,126,Dorset Park,126,Dorset Park (126),-79.28734498,43.769808
+1022,GO-2019146683,2019.01.24,2019,January,24,Thursday,24,D12,Stabbing,111,Rockcliffe-Smythe,111,Rockcliffe-Smythe (111),-79.48624276,43.66985519
+1023,GO-2019244561,2019.02.08,2019,February,8,Friday,39,D51,Shooting,72,Regent Park,72,Regent Park (72),-79.36343874,43.65582473
+1024,GO-2019258675,2019.02.10,2019,February,10,Sunday,41,D22,Shooting,161,Humber Bay Shores,17,Mimico (includes Humber Bay Shores) (17),-79.47999573,43.62398387
+1025,GO-2019272774,2019.02.12,2019,February,12,Tuesday,43,D43,Shooting,136,West Hill,136,West Hill (136),-79.19489042,43.76648973
+1026,GO-2019281405,2019.02.13,2019,February,13,Wednesday,44,D23,Shooting,4,Rexdale-Kipling,4,Rexdale-Kipling (4),-79.55597987,43.71694142
+1027,GO-2019349242,2019.02.24,2019,February,24,Sunday,55,D23,Shooting,2,Mount Olive-Silverstone-Jamestown,2,Mount Olive-Silverstone-Jamestown (2),-79.58037067,43.73495345
+1028,GO-2019400418,2019.03.04,2019,March,4,Monday,63,D53,Other,173,North Toronto,104,Mount Pleasant West (104),-79.39122325,43.71112256
+1029,GO-2019424256,2019.03.08,2019,March,8,Friday,67,D53,Shooting,100,Yonge-Eglinton,100,Yonge-Eglinton (100),-79.40851244,43.70459226
+1030,GO-2019449448,2019.03.11,2019,March,11,Monday,70,D31,Shooting,155,Downsview,26,Downsview-Roding-CFB (26),-79.48591156,43.73846571
+1031,GO-2019456465,2019.03.13,2019,March,13,Wednesday,72,D11,Other,91,Weston-Pelham Park,91,Weston-Pellam Park (91),-79.45784714,43.66902892
+1032,GO-2019494501,2019.03.18,2019,March,18,Monday,77,D23,Other,7,Willowridge-Martingrove-Richview,7,Willowridge-Martingrove-Richview (7),-79.55425841,43.67835333
+1033,GO-2019499554,2019.03.19,2019,March,19,Tuesday,78,D11,Shooting,171,Junction-Wallace Emerson,93,Dovercourt-Wallace Emerson-Junction (93),-79.45097831,43.65841855
+1034,GO-2019598298,2019.04.03,2019,April,3,Wednesday,93,D42,Other,118,Tam O'Shanter-Sullivan,118,Tam O'Shanter-Sullivan (118),-79.29007776,43.7872446
+1035,GO-2019649220,2019.04.10,2019,April,10,Wednesday,100,D52,Stabbing,170,Yonge-Bay Corridor,76,Bay Street Corridor (76),-79.38027515,43.64864446
+1036,GO-2019677551,2019.04.15,2019,April,15,Monday,105,D12,Stabbing,110,Keelesdale-Eglinton West,110,Keelesdale-Eglinton West (110),-79.47791829,43.68864374
+1037,GO-2019716384,2019.04.21,2019,April,21,Sunday,111,D13,Shooting,107,Oakwood Village,107,Oakwood Village (107),-79.43868791,43.69144147
+1038,GO-2019766762,2019.04.28,2019,April,28,Sunday,118,D22,Other,11,Eringate-Centennial-West Deane,11,Eringate-Centennial-West Deane (11),-79.57937504,43.65579681
+1039,GO-2019767371,2019.04.28,2019,April,28,Sunday,118,D43,Shooting,135,Morningside,135,Morningside (135),-79.21300106,43.7746506
+1040,GO-2019785029,2019.05.01,2019,May,1,Wednesday,121,D23,Shooting,1,West Humber-Clairville,1,West Humber-Clairville (1),-79.59036741,43.73400519
+1041,GO-2019798063,2019.05.03,2019,May,3,Friday,123,D31,Shooting,21,Humber Summit,21,Humber Summit (21),-79.56606207,43.76058053
+1042,GO-2019819986,2019.05.05,2019,May,5,Sunday,125,D43,Stabbing,140,Guildwood,140,Guildwood (140),-79.19874013,43.74629326
+1043,GO-2019928762,2019.05.21,2019,May,21,Tuesday,141,D14,Other,172,Dovercourt Village,93,Dovercourt-Wallace Emerson-Junction (93),-79.43171706,43.66404776
+1044,GO-20191039892,2019.06.06,2019,June,6,Thursday,157,D51,Other,73,Moss Park,73,Moss Park (73),-79.3732509,43.65372288
+1045,GO-20191052988,2019.06.08,2019,June,8,Saturday,159,D52,Stabbing,169,Bay-Cloverhill,76,Bay Street Corridor (76),-79.38706363,43.66853314
+1046,GO-20191191914,2019.06.27,2019,June,27,Thursday,178,D33,Stabbing,150,Fenside-Parkwoods,45,Parkwoods-Donalda (45),-79.32040859,43.76076972
+1047,GO-20191198026,2019.06.27,2019,June,27,Thursday,178,D43,Shooting,136,West Hill,136,West Hill (136),-79.18487845,43.76486182
+1048,GO-20191206091,2019.06.29,2019,June,29,Saturday,180,D12,Shooting,115,Mount Dennis,115,Mount Dennis (115),-79.50288268,43.68869925
+1049,GO-20191206091,2019.06.29,2019,June,29,Saturday,180,D12,Shooting,115,Mount Dennis,115,Mount Dennis (115),-79.50288268,43.68869925
+1050,GO-20191213308,2019.06.30,2019,June,30,Sunday,181,D52,Shooting,164,Wellington Place,77,Waterfront Communities-The Island (77),-79.39331907,43.64672612
+1051,GO-20191226977,2019.07.01,2019,July,1,Monday,182,D51,Other,73,Moss Park,73,Moss Park (73),-79.36900509,43.65461429
+1052,GO-20191344279,2019.07.18,2019,July,18,Thursday,199,D14,Other,172,Dovercourt Village,93,Dovercourt-Wallace Emerson-Junction (93),-79.43166872,43.66065503
+1053,GO-20191445359,2019.08.02,2019,August,2,Friday,214,D12,Shooting,28,Rustic,28,Rustic (28),-79.50475341,43.71573472
+1054,GO-20191492032,2019.08.07,2019,August,7,Wednesday,219,D13,Stabbing,94,Wychwood,94,Wychwood (94),-79.42769755,43.68129368
+1055,GO-20191506357,2019.08.09,2019,August,9,Friday,221,D54,Shooting,43,Victoria Village,43,Victoria Village (43),-79.3014675,43.71725545
+1056,GO-20191558069,2019.08.16,2019,August,16,Friday,228,D11,Shooting,86,Roncesvalles,86,Roncesvalles (86),-79.44947279,43.64906113
+1057,GO-20191581564,2019.08.19,2019,August,19,Monday,231,D12,Shooting,23,Pelmo Park-Humberlea,23,Pelmo Park-Humberlea (23),-79.53368757,43.71359821
+1058,GO-20191595863,2019.08.21,2019,August,21,Wednesday,233,D12,Shooting,115,Mount Dennis,115,Mount Dennis (115),-79.50277324,43.69204473
+1059,GO-20191619393,2019.08.25,2019,August,25,Sunday,237,D31,Shooting,21,Humber Summit,21,Humber Summit (21),-79.55805406,43.75999292
+1060,GO-20191683554,2019.09.03,2019,September,3,Tuesday,246,D43,Other,156,Bendale-Glen Andrew,127,Bendale (127),-79.25161131,43.75491691
+1061,GO-20191695351,2019.09.04,2019,September,4,Wednesday,247,D31,Other,154,Oakdale-Beverley Heights,26,Downsview-Roding-CFB (26),-79.5062639,43.72123703
+1062,GO-20191745744,2019.09.11,2019,September,11,Wednesday,254,D43,Stabbing,134,Highland Creek,134,Highland Creek (134),-79.17474205,43.79062475
+1063,GO-20191782132,2019.09.16,2019,September,16,Monday,259,D13,Shooting,31,Yorkdale-Glen Park,31,Yorkdale-Glen Park (31),-79.45317635,43.70697651
+1064,GO-20191806337,2019.09.19,2019,September,19,Thursday,262,D42,Shooting,130,Milliken,130,Milliken (130),-79.26040624,43.82071024
+1065,GO-20191828916,2019.09.22,2019,September,22,Sunday,265,D41,Other,126,Dorset Park,126,Dorset Park (126),-79.28892292,43.7719364
+1066,GO-20191840069,2019.09.24,2019,September,24,Tuesday,267,D22,Shooting,13,Etobicoke West Mall,13,Etobicoke West Mall (13),-79.56800516,43.65127463
+1067,GO-20191843578,2019.09.24,2019,September,24,Tuesday,267,D51,Other,167,Church-Wellesley,75,Church-Yonge Corridor (75),-79.38468439,43.66776637
+1068,GO-20191878460,2019.09.29,2019,September,29,Sunday,272,D23,Shooting,2,Mount Olive-Silverstone-Jamestown,2,Mount Olive-Silverstone-Jamestown (2),-79.58855795,43.7566777
+1069,GO-20191894014,2019.10.01,2019,October,1,Tuesday,274,D31,Shooting,25,Glenfield-Jane Heights,25,Glenfield-Jane Heights (25),-79.51248285,43.74773351
+1070,GO-20191894014,2019.10.01,2019,October,1,Tuesday,274,D31,Shooting,25,Glenfield-Jane Heights,25,Glenfield-Jane Heights (25),-79.51248285,43.74773351
+1071,GO-20191901852,2019.10.02,2019,October,2,Wednesday,275,D52,Stabbing,170,Yonge-Bay Corridor,76,Bay Street Corridor (76),-79.38480322,43.64765595
+1072,GO-20191930830,2019.10.07,2019,October,7,Monday,280,D54,Other,60,Woodbine-Lumsden,60,Woodbine-Lumsden (60),-79.316265,43.69821722
+1073,GO-20191981086,2019.10.14,2019,October,14,Monday,287,D23,Shooting,2,Mount Olive-Silverstone-Jamestown,2,Mount Olive-Silverstone-Jamestown (2),-79.5875915,43.73688119
+1074,GO-20192006688,2019.10.17,2019,October,17,Thursday,290,D33,Shooting,48,Hillcrest Village,48,Hillcrest Village (48),-79.35845383,43.81105889
+1075,GO-20192021028,2019.10.19,2019,October,19,Saturday,292,D11,Shooting,87,High Park-Swansea,87,High Park-Swansea (87),-79.47105024,43.63825444
+1076,GO-20192067798,2019.10.26,2019,October,26,Saturday,299,D53,Other,174,South Eglinton-Davisville,104,Mount Pleasant West (104),-79.39087649,43.69948683
+1077,GO-20192106976,2019.10.31,2019,October,31,Thursday,304,D53,Stabbing,95,Annex,95,Annex (95),-79.40301402,43.66769223
+1078,GO-20192131648,2019.11.04,2019,November,4,Monday,308,D22,Shooting,159,Etobicoke City Centre,14,Islington-City Centre West (14),-79.55615039,43.61421138
+1079,GO-20192136178,2019.11.05,2019,November,5,Tuesday,309,D54,Shooting,61,Taylor-Massey,61,Taylor-Massey (61),-79.29969309,43.69467533
+1080,GO-20192150110,2019.11.07,2019,November,7,Thursday,311,D12,Shooting,113,Weston,113,Weston (113),-79.50472529,43.70434413
+1081,GO-20192212187,2019.11.16,2019,November,16,Saturday,320,D13,Shooting,107,Oakwood Village,107,Oakwood Village (107),-79.44004592,43.69182728
+1082,GO-20192263515,2019.11.23,2019,November,23,Saturday,327,D43,Shooting,138,Eglinton East,138,Eglinton East (138),-79.24467607,43.74500868
+1083,GO-20192361770,2019.12.07,2019,December,7,Saturday,341,D31,Shooting,21,Humber Summit,21,Humber Summit (21),-79.54270565,43.75333003
+1084,GO-20192378461,2019.12.10,2019,December,10,Tuesday,344,D41,Stabbing,119,Wexford/Maryvale,119,Wexford/Maryvale (119),-79.30176974,43.74710202
+1085,GO-20192390677,2019.12.11,2019,December,11,Wednesday,345,D23,Other,1,West Humber-Clairville,1,West Humber-Clairville (1),-79.60272672,43.72372084
+1086,GO-20192385631,2019.12.11,2019,December,11,Wednesday,345,D43,Other,123,Cliffcrest,123,Cliffcrest (123),-79.23375269,43.71703505
+1087,GO-20192390277,2019.12.11,2019,December,11,Wednesday,345,D33,Shooting,49,Bayview Woods-Steeles,49,Bayview Woods-Steeles (49),-79.36940631,43.79063832
+1088,GO-20192412908,2019.12.15,2019,December,15,Sunday,349,D31,Shooting,155,Downsview,26,Downsview-Roding-CFB (26),-79.48217169,43.72726155
+1089,GO-20192445475,2019.12.19,2019,December,19,Thursday,353,D42,Stabbing,118,Tam O'Shanter-Sullivan,118,Tam O'Shanter-Sullivan (118),-79.29934459,43.78358871
+1090,GO-20192452711,2019.12.20,2019,December,20,Friday,354,D12,Other,113,Weston,113,Weston (113),-79.51092465,43.69893526
+1091,GO-20192464487,2019.12.22,2019,December,22,Sunday,356,D14,Other,79,University,79,University (79),-79.40603396,43.66225458
+1092,GO-20192465270,2019.12.22,2019,December,22,Sunday,356,D51,Stabbing,73,Moss Park,73,Moss Park (73),-79.37135298,43.65906716
+1093,GO-20192470898,2019.12.23,2019,December,23,Monday,357,D14,Stabbing,85,South Parkdale,85,South Parkdale (85),-79.43660917,43.63872666
+1094,GO-20192490349,2019.12.27,2019,December,27,Friday,361,D22,Shooting,13,Etobicoke West Mall,13,Etobicoke West Mall (13),-79.56293289,43.63964743
+1095,GO-20192503671,2019.12.29,2019,December,29,Sunday,363,D43,Shooting,138,Eglinton East,138,Eglinton East (138),-79.24121503,43.74219879
+1096,GO-20192520736,2019.12.31,2019,December,31,Tuesday,365,D42,Shooting,145,Malvern West,132,Malvern (132),-79.22512851,43.81116685
+1097,GO-20205967,2020.01.01,2020,January,1,Wednesday,1,D51,Shooting,72,Regent Park,72,Regent Park (72),-79.35868397,43.66240935
+1098,GO-202069552,2020.01.11,2020,January,11,Saturday,11,D43,Shooting,135,Morningside,135,Morningside (135),-79.20913153,43.78706418
+1099,GO-202082425,2020.01.13,2020,January,13,Monday,13,D42,Stabbing,118,Tam O'Shanter-Sullivan,118,Tam O'Shanter-Sullivan (118),-79.30470808,43.7816358
+1100,GO-2020135493,2020.01.20,2020,January,20,Monday,20,D43,Shooting,141,Golfdale-Cedarbrae-Woburn,137,Woburn (137),-79.23175356,43.77643015
+1101,GO-2020136609,2020.01.20,2020,January,20,Monday,20,D13,Other,107,Oakwood Village,107,Oakwood Village (107),-79.43317302,43.68464095
+1102,GO-2020174603,2020.01.25,2020,January,25,Saturday,25,D43,Shooting,139,Scarborough Village,139,Scarborough Village (139),-79.21948774,43.73659733
+1103,GO-2020219180,2020.01.31,2020,January,31,Friday,31,D14,Shooting,165,Harbourfront-CityPlace,77,Waterfront Communities-The Island (77),-79.39927827,43.63909305
+1104,GO-2020219180,2020.01.31,2020,January,31,Friday,31,D14,Shooting,165,Harbourfront-CityPlace,77,Waterfront Communities-The Island (77),-79.39927827,43.63909305
+1105,GO-2020249293,2020.02.05,2020,February,5,Wednesday,36,D54,Shooting,66,Danforth,66,Danforth (66),-79.33134571,43.68170366
+1106,GO-2020271347,2020.02.07,2020,February,7,Friday,38,D22,Shooting,13,Etobicoke West Mall,13,Etobicoke West Mall (13),-79.57031397,43.65192911
+1107,GO-2020372105,2020.02.21,2020,February,21,Friday,52,D42,Other,128,Agincourt South-Malvern West,128,Agincourt South-Malvern West (128),-79.24848328,43.79184202
+1108,GO-2020390671,2020.02.24,2020,February,24,Monday,55,D32,Stabbing,155,Downsview,26,Downsview-Roding-CFB (26),-79.45863625,43.73091643
+1109,GO-2020530236,2020.03.11,2020,March,11,Wednesday,71,D12,Other,115,Mount Dennis,115,Mount Dennis (115),-79.48952899,43.68698735
+1110,GO-2020524758,2020.03.13,2020,March,13,Friday,73,D42,Shooting,128,Agincourt South-Malvern West,128,Agincourt South-Malvern West (128),-79.27041788,43.7855682
+1111,GO-2020538385,2020.03.15,2020,March,15,Sunday,75,D13,Stabbing,107,Oakwood Village,107,Oakwood Village (107),-79.44740506,43.69554775
+1112,GO-2020562795,2020.03.18,2020,March,18,Wednesday,78,D41,Shooting,120,Clairlea-Birchmount,120,Clairlea-Birchmount (120),-79.28878635,43.72068007
+1113,GO-2020580138,2020.03.21,2020,March,21,Saturday,81,D51,Shooting,168,Downtown Yonge East,75,Church-Yonge Corridor (75),-79.3800831,43.65590281
+1114,GO-2020648505,2020.04.05,2020,April,5,Sunday,96,D43,Other,142,Woburn North,137,Woburn (137),-79.23079765,43.7802622
+1115,GO-2020665733,2020.04.05,2020,April,5,Sunday,96,D42,Other,147,L'Amoreaux West,117,L'Amoreaux (117),-79.31933079,43.79698853
+1116,GO-2020668167,2020.04.05,2020,April,5,Sunday,96,D53,Shooting,55,Thorncliffe Park,55,Thorncliffe Park (55),-79.35044895,43.70264876
+1117,GO-2020686647,2020.04.08,2020,April,8,Wednesday,99,D13,Shooting,94,Wychwood,94,Wychwood (94),-79.43250015,43.68027
+1118,GO-2020717283,2020.04.14,2020,April,14,Tuesday,105,D33,Other,52,Bayview Village,52,Bayview Village (52),-79.3760645,43.77264764
+1119,GO-2020762187,2020.04.21,2020,April,21,Tuesday,112,D22,Other,160,Mimico-Queensway,17,Mimico (includes Humber Bay Shores) (17),-79.49977258,43.61644333
+1120,GO-2020790951,2020.04.26,2020,April,26,Sunday,117,D31,Shooting,25,Glenfield-Jane Heights,25,Glenfield-Jane Heights (25),-79.50688173,43.74031821
+1121,GO-2020828038,2020.05.02,2020,May,2,Saturday,123,D41,Shooting,119,Wexford/Maryvale,119,Wexford/Maryvale (119),-79.29973426,43.74753955
+1122,GO-2020893378,2020.05.14,2020,May,14,Thursday,135,D53,Other,174,South Eglinton-Davisville,104,Mount Pleasant West (104),-79.3904718,43.69859536
+1123,GO-2020898005,2020.05.14,2020,May,14,Thursday,135,D23,Shooting,2,Mount Olive-Silverstone-Jamestown,2,Mount Olive-Silverstone-Jamestown (2),-79.58264006,43.74679595
+1124,GO-2020915335,2020.05.17,2020,May,17,Sunday,138,D42,Shooting,147,L'Amoreaux West,117,L'Amoreaux (117),-79.32480939,43.78010412
+1125,GO-2020909524,2020.05.19,2020,May,19,Tuesday,140,D41,Other,138,Eglinton East,138,Eglinton East (138),-79.25531093,43.73903255
+1126,GO-2020971451,2020.05.26,2020,May,26,Tuesday,147,D52,Shooting,164,Wellington Place,77,Waterfront Communities-The Island (77),-79.39205737,43.64536676
+1127,GO-2020993900,2020.05.30,2020,May,30,Saturday,151,D23,Shooting,2,Mount Olive-Silverstone-Jamestown,2,Mount Olive-Silverstone-Jamestown (2),-79.59281898,43.7390724
+1128,GO-20201063476,2020.06.09,2020,June,9,Tuesday,161,D53,Shooting,55,Thorncliffe Park,55,Thorncliffe Park (55),-79.35098706,43.7135924
+1129,GO-20201127664,2020.06.19,2020,June,19,Friday,171,D13,Shooting,92,Corso Italia-Davenport,92,Corso Italia-Davenport (92),-79.4486321,43.6767276
+1130,GO-20201173382,2020.06.25,2020,June,25,Thursday,177,D51,Stabbing,71,Cabbagetown-South St.James Town,71,Cabbagetown-South St.James Town (71),-79.37220461,43.66762876
+1131,GO-20201233592,2020.07.04,2020,July,4,Saturday,186,D42,Shooting,147,L'Amoreaux West,117,L'Amoreaux (117),-79.33312856,43.7981694
+1132,GO-20201267365,2020.07.09,2020,July,9,Thursday,191,D51,Other,73,Moss Park,73,Moss Park (73),-79.37330548,43.65865354
+1133,GO-20201278229,2020.07.10,2020,July,10,Friday,192,D43,Shooting,156,Bendale-Glen Andrew,127,Bendale (127),-79.25916985,43.77843803
+1134,GO-20201281439,2020.07.10,2020,July,10,Friday,192,D12,Shooting,111,Rockcliffe-Smythe,111,Rockcliffe-Smythe (111),-79.49375172,43.67166625
+1135,GO-20201466110,2020.08.03,2020,August,3,Monday,216,D54,Other,59,Danforth East York,59,Danforth East York (59),-79.33466535,43.68687862
+1136,GO-20201486174,2020.08.09,2020,August,9,Sunday,222,D14,Stabbing,81,Trinity-Bellwoods,81,Trinity-Bellwoods (81),-79.42163186,43.65006942
+1137,GO-20201505493,2020.08.11,2020,August,11,Tuesday,224,D14,Stabbing,162,West Queen West,82,Niagara (82),-79.41612203,43.64258519
+1138,GO-20201506702,2020.08.12,2020,August,12,Wednesday,225,D43,Shooting,138,Eglinton East,138,Eglinton East (138),-79.24479753,43.74416291
+1139,GO-20201568363,2020.08.20,2020,August,20,Thursday,233,D32,Shooting,153,Avondale,51,Willowdale East (51),-79.40823534,43.75688287
+1140,GO-20201583370,2020.08.22,2020,August,22,Saturday,235,D43,Stabbing,136,West Hill,136,West Hill (136),-79.18622222,43.76840289
+1141,GO-20201583370,2020.08.22,2020,August,22,Saturday,235,D43,Stabbing,136,West Hill,136,West Hill (136),-79.18622222,43.76840289
+1142,GO-20201607604,2020.08.26,2020,August,26,Wednesday,239,D51,Stabbing,73,Moss Park,73,Moss Park (73),-79.37102845,43.65828851
+1143,GO-20201655784,2020.09.02,2020,September,2,Wednesday,246,D31,Shooting,27,York University Heights,27,York University Heights (27),-79.49083369,43.75041304
+1144,GO-20201691332,2020.09.07,2020,September,7,Monday,251,D23,Stabbing,1,West Humber-Clairville,1,West Humber-Clairville (1),-79.58758486,43.7279322
+1145,GO-20201713867,2020.09.10,2020,September,10,Thursday,254,D11,Shooting,111,Rockcliffe-Smythe,111,Rockcliffe-Smythe (111),-79.48567466,43.66849524
+1146,GO-20201730504,2020.09.12,2020,September,12,Saturday,256,D23,Stabbing,1,West Humber-Clairville,1,West Humber-Clairville (1),-79.55968601,43.71331182
+1147,GO-20201728164,2020.09.12,2020,September,12,Saturday,256,D12,Stabbing,113,Weston,113,Weston (113),-79.52285599,43.70435991
+1148,GO-20201728164,2020.09.12,2020,September,12,Saturday,256,D12,Stabbing,113,Weston,113,Weston (113),-79.52285599,43.70435991
+1149,GO-20201786596,2020.09.20,2020,September,20,Sunday,264,D42,Shooting,146,Malvern East,132,Malvern (132),-79.20161508,43.80236826
+1150,GO-20201816857,2020.09.24,2020,September,24,Thursday,268,D31,Shooting,24,Black Creek,24,Black Creek (24),-79.52253066,43.7674832
+1151,GO-20201838773,2020.09.27,2020,September,27,Sunday,271,D31,Shooting,24,Black Creek,24,Black Creek (24),-79.51928818,43.77026626
+1152,GO-20201838399,2020.09.27,2020,September,27,Sunday,271,D23,Shooting,2,Mount Olive-Silverstone-Jamestown,2,Mount Olive-Silverstone-Jamestown (2),-79.58816144,43.74630882
+1153,GO-20201989086,2020.09.28,2020,September,28,Monday,272,D33,Other,47,Don Valley Village,47,Don Valley Village (47),-79.3558029,43.79243058
+1154,GO-20201863629,2020.10.01,2020,October,1,Thursday,275,D12,Shooting,113,Weston,113,Weston (113),-79.50694655,43.70455852
+1155,GO-20201876749,2020.10.03,2020,October,3,Saturday,277,D31,Shooting,155,Downsview,26,Downsview-Roding-CFB (26),-79.49256503,43.73698356
+1156,GO-20201908230,2020.10.07,2020,October,7,Wednesday,281,D32,Shooting,32,Englemount-Lawrence,32,Englemount-Lawrence (32),-79.43346011,43.727474
+1157,GO-20202026517,2020.10.25,2020,October,25,Sunday,299,D41,Shooting,121,Oakridge,121,Oakridge (121),-79.28630896,43.69120667
+1158,GO-20202114189,2020.11.07,2020,November,7,Saturday,312,D31,Shooting,24,Black Creek,24,Black Creek (24),-79.51696223,43.76196467
+1159,GO-20202177333,2020.11.16,2020,November,16,Monday,321,D43,Stabbing,143,West Rouge,131,Rouge (131),-79.13744644,43.79212138
+1160,GO-20202188906,2020.11.18,2020,November,18,Wednesday,323,D14,Stabbing,172,Dovercourt Village,93,Dovercourt-Wallace Emerson-Junction (93),-79.42400291,43.66271567
+1161,GO-20202213650,2020.11.22,2020,November,22,Sunday,327,D33,Stabbing,149,Parkwoods-O'Connor Hills,45,Parkwoods-Donalda (45),-79.31302123,43.751492
+1162,GO-20202271563,2020.12.02,2020,December,2,Wednesday,337,D13,Shooting,31,Yorkdale-Glen Park,31,Yorkdale-Glen Park (31),-79.45339357,43.7079013
+1163,GO-20202295266,2020.12.06,2020,December,6,Sunday,341,D14,Other,83,Dufferin Grove,83,Dufferin Grove (83),-79.43536217,43.65987759
+1164,GO-2020982844,2020.12.08,2020,December,8,Tuesday,343,D52,Other,78,Kensington-Chinatown,78,Kensington-Chinatown (78),-79.40479638,43.65267221
+1165,GO-20202279344,2020.12.08,2020,December,8,Tuesday,343,D55,Stabbing,64,Woodbine Corridor,64,Woodbine Corridor (64),-79.3221433,43.67981933
+1166,GO-20202381546,2020.12.18,2020,December,18,Friday,353,D53,Other,173,North Toronto,104,Mount Pleasant West (104),-79.39149727,43.70812828
+1167,GO-20202400901,2020.12.21,2020,December,21,Monday,356,D33,Stabbing,47,Don Valley Village,47,Don Valley Village (47),-79.35649357,43.7815982
+1168,GO-202179788,2021.01.13,2021,January,13,Wednesday,13,D41,Stabbing,124,Kennedy Park,124,Kennedy Park (124),-79.26018438,43.73406087
+1169,GO-2021105728,2021.01.17,2021,January,17,Sunday,17,D31,Shooting,21,Humber Summit,21,Humber Summit (21),-79.5576294,43.7487888
+1170,GO-2021133150,2021.01.21,2021,January,21,Thursday,21,D31,Shooting,27,York University Heights,27,York University Heights (27),-79.50554178,43.76486625
+1171,GO-2021204256,2021.01.21,2021,January,21,Thursday,21,D23,Other,8,Humber Heights-Westmount,8,Humber Heights-Westmount (8),-79.52763484,43.7013626
+1172,GO-2021185744,2021.01.29,2021,January,29,Friday,29,D53,Shooting,98,Rosedale-Moore Park,98,Rosedale-Moore Park (98),-79.38821168,43.68185839
+1173,GO-2021198314,2021.01.31,2021,January,31,Sunday,31,D12,Shooting,28,Rustic,28,Rustic (28),-79.50475341,43.71573472
+1174,GO-2021238843,2021.02.06,2021,February,6,Saturday,37,D42,Shooting,145,Malvern West,132,Malvern (132),-79.23217798,43.79520778
+1175,GO-2021250265,2021.02.08,2021,February,8,Monday,39,D41,Shooting,119,Wexford/Maryvale,119,Wexford/Maryvale (119),-79.30219988,43.74375425
+1176,GO-2021251003,2021.02.08,2021,February,8,Monday,39,D32,Shooting,31,Yorkdale-Glen Park,31,Yorkdale-Glen Park (31),-79.46208146,43.71248473
+1177,GO-2021257693,2021.02.09,2021,February,9,Tuesday,40,D55,Shooting,62,East End-Danforth,62,East End-Danforth (62),-79.30733236,43.68693107
+1178,GO-2021277195,2021.02.12,2021,February,12,Friday,43,D23,Shooting,7,Willowridge-Martingrove-Richview,7,Willowridge-Martingrove-Richview (7),-79.5648619,43.68384106
+1179,GO-2021334695,2021.02.19,2021,February,19,Friday,50,D51,Other,71,Cabbagetown-South St.James Town,71,Cabbagetown-South St.James Town (71),-79.37333593,43.66622758
+1180,GO-2021363118,2021.02.26,2021,February,26,Friday,57,D22,Other,16,Stonegate-Queensway,16,Stonegate-Queensway (16),-79.49404231,43.64395947
+1181,GO-2021368408,2021.02.27,2021,February,27,Saturday,58,D12,Stabbing,110,Keelesdale-Eglinton West,110,Keelesdale-Eglinton West (110),-79.47039769,43.6912192
+1182,GO-2021424868,2021.03.06,2021,March,6,Saturday,65,D41,Other,120,Clairlea-Birchmount,120,Clairlea-Birchmount (120),-79.27084608,43.71366479
+1183,GO-2021437169,2021.03.09,2021,March,9,Tuesday,68,D12,Stabbing,30,Brookhaven-Amesbury,30,Brookhaven-Amesbury (30),-79.49797084,43.69853265
+1184,GO-2021511040,2021.03.19,2021,March,19,Friday,78,D31,Other,25,Glenfield-Jane Heights,25,Glenfield-Jane Heights (25),-79.51044558,43.74922073
+1185,GO-2021611765,2021.04.03,2021,April,3,Saturday,93,D23,Shooting,8,Humber Heights-Westmount,8,Humber Heights-Westmount (8),-79.52560393,43.69958888
+1186,GO-2021614694,2021.04.04,2021,April,4,Sunday,94,D33,Stabbing,48,Hillcrest Village,48,Hillcrest Village (48),-79.35186754,43.79704957
+1187,GO-2021618567,2021.04.04,2021,April,4,Sunday,94,D54,Stabbing,57,Broadview North,57,Broadview North (57),-79.35005957,43.69126018
+1188,GO-2021683552,2021.04.05,2021,April,5,Monday,95,D55,Stabbing,54,O'Connor-Parkview,54,O'Connor-Parkview (54),-79.31721624,43.70154515
+1189,GO-2021646518,2021.04.08,2021,April,8,Thursday,98,D41,Stabbing,126,Dorset Park,126,Dorset Park (126),-79.28594715,43.77156796
+1190,GO-2021700719,2021.04.16,2021,April,16,Friday,106,D12,Shooting,28,Rustic,28,Rustic (28),-79.50534135,43.70840838
+1191,GO-2021904598,2021.05.16,2021,May,16,Sunday,136,D23,Shooting,7,Willowridge-Martingrove-Richview,7,Willowridge-Martingrove-Richview (7),-79.56876144,43.67411322
+1192,GO-2021951127,2021.05.22,2021,May,22,Saturday,142,D42,Other,130,Milliken,130,Milliken (130),-79.28431547,43.81687479
+1193,GO-2021961854,2021.05.24,2021,May,24,Monday,144,D55,Other,70,South Riverdale,70,South Riverdale (70),-79.35098441,43.66034525
+1194,GO-20211028789,2021.06.02,2021,June,2,Wednesday,153,D14,Other,80,Palmerston-Little Italy,80,Palmerston-Little Italy (80),-79.41873095,43.65903123
+1195,GO-20211087369,2021.06.11,2021,June,11,Friday,162,D43,Shooting,141,Golfdale-Cedarbrae-Woburn,137,Woburn (137),-79.21419029,43.76152724
+1196,GO-20211107853,2021.06.13,2021,June,13,Sunday,164,D43,Shooting,138,Eglinton East,138,Eglinton East (138),-79.24381943,43.74395402
+1197,GO-20211112628,2021.06.13,2021,June,13,Sunday,164,D43,Other,138,Eglinton East,138,Eglinton East (138),-79.24505779,43.74322406
+1198,GO-20211107853,2021.06.13,2021,June,13,Sunday,164,D43,Shooting,138,Eglinton East,138,Eglinton East (138),-79.24381943,43.74395402
+1199,GO-20211108068,2021.06.14,2021,June,14,Monday,165,D12,Shooting,112,Beechborough-Greenbrook,112,Beechborough-Greenbrook (112),-79.48146311,43.69249868
+1200,GO-20211158175,2021.06.21,2021,June,21,Monday,172,D12,Shooting,112,Beechborough-Greenbrook,112,Beechborough-Greenbrook (112),-79.48397161,43.68986304
+1201,GO-20211233778,2021.07.01,2021,July,1,Thursday,182,D32,Other,33,Clanton Park,33,Clanton Park (33),-79.4375228,43.75148661
+1202,GO-20211236893,2021.07.02,2021,July,2,Friday,183,D54,Shooting,44,Flemingdon Park,44,Flemingdon Park (44),-79.3280819,43.71560698
+1203,GO-20211236780,2021.07.02,2021,July,2,Friday,183,D52,Other,170,Yonge-Bay Corridor,76,Bay Street Corridor (76),-79.38376255,43.65570978
+1204,GO-20211248165,2021.07.03,2021,July,3,Saturday,184,D41,Shooting,126,Dorset Park,126,Dorset Park (126),-79.28324661,43.7717268
+1205,GO-20211263005,2021.07.05,2021,July,5,Monday,186,D31,Shooting,27,York University Heights,27,York University Heights (27),-79.48875881,43.75450634
+1206,GO-20211292779,2021.07.10,2021,July,10,Saturday,191,D31,Other,27,York University Heights,27,York University Heights (27),-79.48875881,43.75450634
+1207,GO-20211319545,2021.07.14,2021,July,14,Wednesday,195,D31,Other,23,Pelmo Park-Humberlea,23,Pelmo Park-Humberlea (23),-79.53408631,43.71687467
+1208,GO-20211362894,2021.07.18,2021,July,18,Sunday,199,D41,Other,123,Cliffcrest,123,Cliffcrest (123),-79.23525618,43.70618194
+1209,GO-20211359540,2021.07.19,2021,July,19,Monday,200,D51,Other,70,South Riverdale,70,South Riverdale (70),-79.35494779,43.64121572
+1210,GO-20211360309,2021.07.20,2021,July,20,Tuesday,201,D23,Shooting,6,Kingsview Village-The Westway,6,Kingsview Village-The Westway (6),-79.5441617,43.69761594
+1211,GO-20211370623,2021.07.21,2021,July,21,Wednesday,202,D13,Stabbing,108,Briar Hill-Belgravia,108,Briar Hill-Belgravia (108),-79.44825855,43.69859126
+1212,GO-20211382319,2021.07.23,2021,July,23,Friday,204,D12,Stabbing,30,Brookhaven-Amesbury,30,Brookhaven-Amesbury (30),-79.48852544,43.70545312
+1213,GO-20211417029,2021.07.28,2021,July,28,Wednesday,209,D55,Stabbing,68,North Riverdale,68,North Riverdale (68),-79.34945465,43.66614488
+1214,GO-20211484398,2021.08.06,2021,August,6,Friday,218,D55,Other,62,East End-Danforth,62,East End-Danforth (62),-79.31167633,43.68594351
+1215,GO-20211494943,2021.08.08,2021,August,8,Sunday,220,D14,Shooting,78,Kensington-Chinatown,78,Kensington-Chinatown (78),-79.4000122,43.65615319
+1216,GO-20211494943,2021.08.08,2021,August,8,Sunday,220,D14,Shooting,78,Kensington-Chinatown,78,Kensington-Chinatown (78),-79.4000122,43.65615319
+1217,GO-20211543961,2021.08.14,2021,August,14,Saturday,226,D12,Shooting,30,Brookhaven-Amesbury,30,Brookhaven-Amesbury (30),-79.48897714,43.69770662
+1218,GO-20211538967,2021.08.14,2021,August,14,Saturday,226,D42,Other,144,Morningside Heights,NSA,NSA,-79.18973651,43.85078973
+1219,GO-20211617066,2021.08.25,2021,August,25,Wednesday,237,D12,Other,110,Keelesdale-Eglinton West,110,Keelesdale-Eglinton West (110),-79.47089581,43.68046482
+1220,GO-20211630428,2021.08.27,2021,August,27,Friday,239,D22,Shooting,19,Long Branch,19,Long Branch (19),-79.53939847,43.59309343
+1221,GO-20211638087,2021.08.28,2021,August,28,Saturday,240,D52,Shooting,164,Wellington Place,77,Waterfront Communities-The Island (77),-79.38924103,43.64841255
+1222,GO-20211677261,2021.09.02,2021,September,2,Thursday,245,D51,Stabbing,73,Moss Park,73,Moss Park (73),-79.36780279,43.65181198
+1223,GO-20211684171,2021.09.03,2021,September,3,Friday,246,D32,Shooting,27,York University Heights,27,York University Heights (27),-79.48446015,43.78389925
+1224,GO-20211692780,2021.09.04,2021,September,4,Saturday,247,D22,Other,159,Etobicoke City Centre,14,Islington-City Centre West (14),-79.51720854,43.62420203
+1225,GO-20211699665,2021.09.05,2021,September,5,Sunday,248,D43,Other,140,Guildwood,140,Guildwood (140),-79.21127701,43.75112576
+1226,GO-20211699665,2021.09.05,2021,September,5,Sunday,248,D43,Other,140,Guildwood,140,Guildwood (140),-79.21127701,43.75112576
+1227,GO-20211713828,2021.09.07,2021,September,7,Tuesday,250,D31,Shooting,25,Glenfield-Jane Heights,25,Glenfield-Jane Heights (25),-79.51280742,43.75146674
+1228,GO-20211788435,2021.09.17,2021,September,17,Friday,260,D41,Shooting,124,Kennedy Park,124,Kennedy Park (124),-79.25395763,43.7248214
+1229,GO-20211794405,2021.09.18,2021,September,18,Saturday,261,D51,Shooting,72,Regent Park,72,Regent Park (72),-79.36097505,43.6619143
+1230,GO-20211851845,2021.09.26,2021,September,26,Sunday,269,D42,Shooting,144,Morningside Heights,131,Rouge (131),-79.18875726,43.82514301
+1231,GO-20211874352,2021.09.29,2021,September,29,Wednesday,272,D23,Stabbing,1,West Humber-Clairville,1,West Humber-Clairville (1),-79.59036741,43.73400519
+1232,GO-20211896862,2021.10.03,2021,October,3,Sunday,276,D55,Stabbing,64,Woodbine Corridor,64,Woodbine Corridor (64),-79.32041923,43.67711566
+1233,GO-20211971401,2021.10.13,2021,October,13,Wednesday,286,D42,Shooting,146,Malvern East,132,Malvern (132),-79.20482773,43.79744119
+1234,GO-20211987049,2021.10.16,2021,October,16,Saturday,289,D31,Shooting,27,York University Heights,27,York University Heights (27),-79.48758849,43.74960108
+1235,GO-20212022276,2021.10.21,2021,October,21,Thursday,294,D31,Shooting,27,York University Heights,27,York University Heights (27),-79.48085669,43.75714818
+1236,GO-20212037136,2021.10.23,2021,October,23,Saturday,296,D12,Shooting,110,Keelesdale-Eglinton West,110,Keelesdale-Eglinton West (110),-79.47390812,43.69041488
+1237,GO-20212036766,2021.10.23,2021,October,23,Saturday,296,D31,Shooting,25,Glenfield-Jane Heights,25,Glenfield-Jane Heights (25),-79.51371066,43.75418203
+1238,GO-20212040619,2021.10.23,2021,October,23,Saturday,296,D12,Shooting,23,Pelmo Park-Humberlea,23,Pelmo Park-Humberlea (23),-79.53368757,43.71359821
+1239,GO-20212048858,2021.10.24,2021,October,24,Sunday,297,D41,Shooting,120,Clairlea-Birchmount,119,Wexford/Maryvale (119),-79.29751157,43.72564496
+1240,GO-20212071533,2021.10.28,2021,October,28,Thursday,301,D42,Shooting,145,Malvern West,132,Malvern (132),-79.22417321,43.80395316
+1241,GO-20212079091,2021.10.29,2021,October,29,Friday,302,D41,Shooting,126,Dorset Park,126,Dorset Park (126),-79.28107479,43.76579585
+1242,GO-20212091136,2021.10.30,2021,October,30,Saturday,303,D31,Other,25,Glenfield-Jane Heights,25,Glenfield-Jane Heights (25),-79.50028637,43.73862391
+1243,GO-20212177949,2021.11.12,2021,November,12,Friday,316,D43,Other,134,Highland Creek,134,Highland Creek (134),-79.16298362,43.7939733
+1244,GO-20212209204,2021.11.16,2021,November,16,Tuesday,320,D33,Stabbing,150,Fenside-Parkwoods,45,Parkwoods-Donalda (45),-79.32041798,43.75634715
+1245,GO-20212211875,2021.11.16,2021,November,16,Tuesday,320,D43,Shooting,141,Golfdale-Cedarbrae-Woburn,137,Woburn (137),-79.20477951,43.76396047
+1246,GO-20212277790,2021.11.26,2021,November,26,Friday,330,D42,Shooting,143,West Rouge,131,Rouge (131),-79.17501661,43.80457197
+1247,GO-20212373251,2021.12.09,2021,December,9,Thursday,343,D53,Stabbing,174,South Eglinton-Davisville,104,Mount Pleasant West (104),-79.39189891,43.70555886
+1248,GO-20212397941,2021.12.13,2021,December,13,Monday,347,D42,Shooting,128,Agincourt South-Malvern West,128,Agincourt South-Malvern West (128),-79.25953568,43.79211352
+1249,GO-20212471927,2021.12.23,2021,December,23,Thursday,357,D31,Shooting,25,Glenfield-Jane Heights,25,Glenfield-Jane Heights (25),-79.51044558,43.74922073
+1250,GO-20212477849,2021.12.24,2021,December,24,Friday,358,D32,Shooting,32,Englemount-Lawrence,32,Englemount-Lawrence (32),-79.44354801,43.71877318
+1251,GO-20212487697,2021.12.26,2021,December,26,Sunday,360,D12,Shooting,111,Rockcliffe-Smythe,111,Rockcliffe-Smythe (111),-79.48290274,43.67879646
+1252,GO-20212516090,2021.12.31,2021,December,31,Friday,365,D12,Stabbing,115,Mount Dennis,115,Mount Dennis (115),-79.48566769,43.68507604
+1253,GO-20229964,2022.01.02,2022,January,2,Sunday,2,D12,Shooting,23,Pelmo Park-Humberlea,23,Pelmo Park-Humberlea (23),-79.53535957,43.71031843
+1254,GO-202216903,2022.01.03,2022,January,3,Monday,3,D22,Shooting,20,Alderwood,20,Alderwood (20),-79.53187035,43.60011655
+1255,GO-202216903,2022.01.03,2022,January,3,Monday,3,D22,Shooting,20,Alderwood,20,Alderwood (20),-79.53187035,43.60011655
+1256,GO-202216630,2022.01.03,2022,January,3,Monday,3,D14,Stabbing,80,Palmerston-Little Italy,80,Palmerston-Little Italy (80),-79.41659813,43.65570094
+1257,GO-202217098,2022.01.03,2022,January,3,Monday,3,D22,Shooting,161,Humber Bay Shores,17,Mimico (includes Humber Bay Shores) (17),-79.47403498,43.63056408
+1258,GO-202250758,2022.01.08,2022,January,8,Saturday,8,D53,Shooting,167,Church-Wellesley,98,Rosedale-Moore Park (98),-79.38315682,43.67104023
+1259,GO-2022110972,2022.01.18,2022,January,18,Tuesday,18,D23,Shooting,5,Elms-Old Rexdale,5,Elms-Old Rexdale (5),-79.55597987,43.71694142
+1260,GO-2022124347,2022.01.19,2022,January,19,Wednesday,19,D54,Shooting,57,Broadview North,57,Broadview North (57),-79.35086866,43.68796376
+1261,GO-2022139163,2022.01.22,2022,January,22,Saturday,22,D12,Shooting,30,Brookhaven-Amesbury,30,Brookhaven-Amesbury (30),-79.47040205,43.69856191
+1262,GO-2022151149,2022.01.23,2022,January,23,Sunday,23,D53,Shooting,100,Yonge-Eglinton,100,Yonge-Eglinton (100),-79.40744139,43.70183321
+1263,GO-2022267789,2022.02.09,2022,February,9,Wednesday,40,D31,Other,25,Glenfield-Jane Heights,25,Glenfield-Jane Heights (25),-79.50483225,43.74803828
+1264,GO-2022294326,2022.02.14,2022,February,14,Monday,45,D41,Shooting,156,Bendale-Glen Andrew,127,Bendale (127),-79.26351366,43.75477992
+1265,GO-2022314804,2022.02.17,2022,February,17,Thursday,48,D32,Shooting,36,Newtonbrook West,36,Newtonbrook West (36),-79.43746381,43.78502057
+1266,GO-2022324234,2022.02.19,2022,February,19,Saturday,50,D12,Shooting,30,Brookhaven-Amesbury,30,Brookhaven-Amesbury (30),-79.47680739,43.7030208
+1267,GO-2022385565,2022.02.28,2022,February,28,Monday,59,D43,Shooting,136,West Hill,136,West Hill (136),-79.1868624,43.77060655
+1268,GO-2022458878,2022.03.11,2022,March,11,Friday,70,D11,Other,89,Runnymede-Bloor West Village,89,Runnymede-Bloor West Village (89),-79.48849365,43.65913209
+1269,GO-2022499009,2022.03.17,2022,March,17,Thursday,76,D43,Other,142,Woburn North,137,Woburn (137),-79.25123515,43.77967932
+1270,GO-2022576248,2022.03.28,2022,March,28,Monday,87,D55,Stabbing,70,South Riverdale,70,South Riverdale (70),-79.33215992,43.65987261
+1271,GO-2022613599,2022.04.02,2022,April,2,Saturday,92,D51,Stabbing,73,Moss Park,73,Moss Park (73),-79.36790417,43.65721718
+1272,GO-2022646404,2022.04.07,2022,April,7,Thursday,97,D51,Shooting,74,North St.James Town,74,North St.James Town (74),-79.37685066,43.67235238
+1273,GO-2022661027,2022.04.09,2022,April,9,Saturday,99,D51,Shooting,73,Moss Park,73,Moss Park (73),-79.37345495,43.65729769
+1274,GO-2022689316,2022.04.15,2022,April,15,Friday,105,D52,Stabbing,166,St Lawrence-East Bayfront-The Islands,77,Waterfront Communities-The Island (77),-79.37960001,43.64209686
+1275,GO-2022792257,2022.04.28,2022,April,28,Thursday,118,D11,Shooting,87,High Park-Swansea,87,High Park-Swansea (87),-79.46991096,43.63720442
+1276,GO-2022804180,2022.04.30,2022,April,30,Saturday,120,D23,Shooting,2,Mount Olive-Silverstone-Jamestown,2,Mount Olive-Silverstone-Jamestown (2),-79.58380349,43.7468081
+1277,GO-2022849364,2022.05.07,2022,May,7,Saturday,127,D42,Shooting,146,Malvern East,132,Malvern (132),-79.19907695,43.80027433
+1278,GO-2022868493,2022.05.09,2022,May,9,Monday,129,D31,Shooting,154,Oakdale-Beverley Heights,26,Downsview-Roding-CFB (26),-79.50924445,43.72344008
+1279,GO-2022964428,2022.05.22,2022,May,22,Sunday,142,D52,Other,78,Kensington-Chinatown,78,Kensington-Chinatown (78),-79.3893803,43.65214538
+1280,GO-20221060544,2022.06.05,2022,June,5,Sunday,156,D13,Shooting,108,Briar Hill-Belgravia,108,Briar Hill-Belgravia (108),-79.44278975,43.69729598
+1281,GO-20221087191,2022.06.08,2022,June,8,Wednesday,159,D43,Shooting,141,Golfdale-Cedarbrae-Woburn,137,Woburn (137),-79.21104685,43.76286021
+1282,GO-20221138477,2022.06.15,2022,June,15,Wednesday,166,D32,Shooting,38,Lansing-Westgate,38,Lansing-Westgate (38),-79.41074512,43.76070773
+1283,GO-20221150299,2022.06.17,2022,June,17,Friday,168,D42,Other,147,L'Amoreaux West,117,L'Amoreaux (117),-79.33151614,43.80147137
+1284,GO-20221149694,2022.06.17,2022,June,17,Friday,168,D22,Other,159,Etobicoke City Centre,14,Islington-City Centre West (14),-79.53403138,43.63844241
+1285,GO-20221153656,2022.06.18,2022,June,18,Saturday,169,D23,Shooting,8,Humber Heights-Westmount,8,Humber Heights-Westmount (8),-79.51658143,43.69382045
+1286,GO-20221164624,2022.06.19,2022,June,19,Sunday,170,D13,Shooting,31,Yorkdale-Glen Park,31,Yorkdale-Glen Park (31),-79.46515795,43.70593998
+1287,GO-20221294476,2022.07.07,2022,July,7,Thursday,188,D55,Shooting,64,Woodbine Corridor,64,Woodbine Corridor (64),-79.31190314,43.68036996
+1288,GO-20221295738,2022.07.08,2022,July,8,Friday,189,D32,Stabbing,27,York University Heights,27,York University Heights (27),-79.47147699,43.76782031
+1289,GO-20221324110,2022.07.11,2022,July,11,Monday,192,D43,Other,156,Bendale-Glen Andrew,127,Bendale (127),-79.25355602,43.77792331
+1290,GO-20221360743,2022.07.16,2022,July,16,Saturday,197,D52,Shooting,166,St Lawrence-East Bayfront-The Islands,77,Waterfront Communities-The Island (77),-79.38147201,43.64290662
+1291,GO-20221362949,2022.07.17,2022,July,17,Sunday,198,D14,Shooting,164,Wellington Place,77,Waterfront Communities-The Island (77),-79.40270188,43.64392011
+1292,GO-20221443372,2022.07.28,2022,July,28,Thursday,209,D41,Other,120,Clairlea-Birchmount,120,Clairlea-Birchmount (120),-79.28930849,43.7010039
+1293,GO-20221527751,2022.08.09,2022,August,9,Tuesday,221,D12,Shooting,113,Weston,113,Weston (113),-79.51212106,43.701085
+1294,GO-20221594291,2022.08.18,2022,August,18,Thursday,230,D31,Shooting,154,Oakdale-Beverley Heights,26,Downsview-Roding-CFB (26),-79.50812167,43.72798918
+1295,GO-20221608092,2022.08.20,2022,August,20,Saturday,232,D41,Stabbing,122,Birchcliffe-Cliffside,122,Birchcliffe-Cliffside (122),-79.25433156,43.69912455
+1296,GO-20221652609,2022.08.26,2022,August,26,Friday,238,D32,Stabbing,38,Lansing-Westgate,38,Lansing-Westgate (38),-79.44003299,43.76176567
+1297,GO-20221652609,2022.08.26,2022,August,26,Friday,238,D32,Stabbing,38,Lansing-Westgate,38,Lansing-Westgate (38),-79.44003299,43.76176567
+1298,GO-20221757893,2022.09.10,2022,September,10,Saturday,253,D31,Shooting,27,York University Heights,27,York University Heights (27),-79.48954494,43.74680734
+1299,GO-20221760173,2022.09.10,2022,September,10,Saturday,253,D32,Stabbing,153,Avondale,51,Willowdale East (51),-79.4038931,43.76043663
+1300,GO-20221800162,2022.09.15,2022,September,15,Thursday,258,D22,Shooting,161,Humber Bay Shores,17,Mimico (includes Humber Bay Shores) (17),-79.48931103,43.61377308
+1301,GO-20221835644,2022.09.20,2022,September,20,Tuesday,263,D31,Stabbing,24,Black Creek,24,Black Creek (24),-79.51377459,43.7586795
+1302,GO-20221836380,2022.09.21,2022,September,21,Wednesday,264,D23,Stabbing,4,Rexdale-Kipling,4,Rexdale-Kipling (4),-79.55511244,43.71509621
+1303,GO-20221839939,2022.09.21,2022,September,21,Wednesday,264,D41,Shooting,138,Eglinton East,138,Eglinton East (138),-79.25578146,43.73669759
+1304,GO-20221836380,2022.09.21,2022,September,21,Wednesday,264,D23,Stabbing,4,Rexdale-Kipling,4,Rexdale-Kipling (4),-79.55511244,43.71509621
+1305,GO-20221864755,2022.09.25,2022,September,25,Sunday,268,D22,Other,20,Alderwood,20,Alderwood (20),-79.53918518,43.60783563
+1306,GO-20221934921,2022.10.04,2022,October,4,Tuesday,277,D51,Stabbing,73,Moss Park,73,Moss Park (73),-79.37478802,43.66081101
+1307,GO-20221946068,2022.10.06,2022,October,6,Thursday,279,D31,Shooting,25,Glenfield-Jane Heights,25,Glenfield-Jane Heights (25),-79.51923547,43.75286554
+1308,GO-20221963156,2022.10.08,2022,October,8,Saturday,281,D12,Shooting,113,Weston,113,Weston (113),-79.51131176,43.69833654
+1309,GO-20221968025,2022.10.09,2022,October,9,Sunday,282,D32,Shooting,27,York University Heights,27,York University Heights (27),-79.47147699,43.76782031
+1310,GO-20222052791,2022.10.22,2022,October,22,Saturday,295,D14,Shooting,164,Wellington Place,77,Waterfront Communities-The Island (77),-79.4007817,43.64743821
+1311,GO-20222099784,2022.10.28,2022,October,28,Friday,301,D55,Shooting,69,Blake-Jones,69,Blake-Jones (69),-79.33536336,43.68083868
+1312,GO-20222120467,2022.10.31,2022,October,31,Monday,304,D43,Shooting,142,Woburn North,137,Woburn (137),-79.22657265,43.77758344
+1313,GO-20222165958,2022.11.06,2022,November,6,Sunday,310,D31,Stabbing,25,Glenfield-Jane Heights,25,Glenfield-Jane Heights (25),-79.51707116,43.75484813
+1314,GO-20222209711,2022.11.12,2022,November,12,Saturday,316,D42,Shooting,130,Milliken,130,Milliken (130),-79.29493081,43.82070161
+1315,GO-20222229664,2022.11.15,2022,November,15,Tuesday,319,D14,Shooting,85,South Parkdale,85,South Parkdale (85),-79.43273523,43.64047145
+1316,GO-20222265498,2022.11.20,2022,November,20,Sunday,324,D23,Shooting,1,West Humber-Clairville,1,West Humber-Clairville (1),-79.6152032,43.73197481
+1317,GO-20222377717,2022.12.06,2022,December,6,Tuesday,340,D55,Stabbing,65,Greenwood-Coxwell,65,Greenwood-Coxwell (65),-79.32976981,43.68160175
+1318,GO-20222396611,2022.12.08,2022,December,8,Thursday,342,D11,Stabbing,88,High Park North,88,High Park North (88),-79.46821933,43.65632622
+1319,GO-20222413771,2022.12.10,2022,December,10,Saturday,344,D54,Shooting,61,Taylor-Massey,61,Taylor-Massey (61),-79.29217555,43.69607151
+1320,GO-20222452652,2022.12.16,2022,December,16,Friday,350,D43,Shooting,135,Morningside,135,Morningside (135),-79.20511142,43.76503825
+1321,GO-20222467066,2022.12.18,2022,December,18,Sunday,352,D52,Stabbing,170,Yonge-Bay Corridor,76,Bay Street Corridor (76),-79.38246743,43.64528606
+1322,GO-20222554708,2022.12.30,2022,December,30,Friday,364,D42,Shooting,118,Tam O'Shanter-Sullivan,118,Tam O'Shanter-Sullivan (118),-79.30039226,43.7805032
