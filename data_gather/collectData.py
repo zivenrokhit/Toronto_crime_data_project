@@ -93,9 +93,12 @@ Shootings = Crime(
 TheftFromMotor = Crime(
     'theft_from_motor', crime_api_data['theft_from_motor'][0], crime_api_data['theft_from_motor'][1])
 
-crime_list = [AutoTheft, BreakAndEnter, Homicide, Robbery,
-              TheftOver, BicycleTheft, Shootings, TheftFromMotor, Assualt]
+crime_list = [Assualt, AutoTheft, BreakAndEnter, Homicide, Robbery,
+              TheftOver, BicycleTheft, Shootings, TheftFromMotor]
 
 # for crime in crime_list:
 #     crime.createDataframe()
 #     crime.dataFrame.to_csv(crime.type + '.csv', index=False)
+
+Assualt.dataFrame = pd.read_csv('../data/Assualt.csv')
+print(Assualt.dataFrame)
