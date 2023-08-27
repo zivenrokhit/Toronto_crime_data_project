@@ -44,7 +44,7 @@ def collectData(url, data_length):
         iterativeResponse = fetchCrimeDataFromApi(url.format(resultOffset))
         df = pd.concat([df, iterativeResponse], ignore_index=True)
         resultOffset += 2000
-        print(len(df))
+        # print(len(df))
     return df
 
 
@@ -99,6 +99,3 @@ crime_list = [Assualt, AutoTheft, BreakAndEnter, Homicide, Robbery,
 # for crime in crime_list:
 #     crime.createDataframe()
 #     crime.dataFrame.to_csv(crime.type + '.csv', index=False)
-
-Assualt.dataFrame = pd.read_csv('../data/Assualt.csv')
-print(Assualt.dataFrame)
