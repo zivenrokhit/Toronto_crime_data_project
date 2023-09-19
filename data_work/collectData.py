@@ -49,16 +49,15 @@ def collectData(url, data_length):
 
 
 class Crime:
-    def __init__(self, type, apiURL, dataLength, headers=None, dataFrame=None):
+    def __init__(self, type, apiURL, dataLength):
         self.type = type
         self.apiURL = apiURL
         self.dataLength = dataLength
-        self.headers = headers
-        self.dataFrame = dataFrame
-
-    def createDataframe(self):
         self.dataFrame = collectData(self.apiURL, self.dataLength)
-        self.headers = self.dataFrame.columns
+
+    # def createDataframe(self):
+    #     self.dataFrame = collectData(self.apiURL, self.dataLength)
+    #     self.headers = self.dataFrame.columns
 
     def compareHeaders(self, crime):
         return 'not made yet'
@@ -96,6 +95,6 @@ TheftFromMotor = Crime(
 crime_list = [Assualt, AutoTheft, BreakAndEnter, Homicide, Robbery,
               TheftOver, BicycleTheft, Shootings, TheftFromMotor]
 
-# for crime in crime_list:
-#     crime.createDataframe()
-#     crime.dataFrame.to_csv(crime.type + '.csv', index=False)
+for crime in crime_list:
+    crime.createDataframe()
+    crime.dataFrame.to_csv(crime.type + '.csv', index=False)
