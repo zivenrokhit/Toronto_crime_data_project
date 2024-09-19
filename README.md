@@ -16,5 +16,5 @@ The project retrieves crime data from the [Toronto Police API](https://www.toron
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/toronto-police-ml-project.git
-   cd toronto-police-ml-project
+   git clone https://github.com/yourusername/Toronto_crime_data_project.git
+   cd Toronto_crime_data_project
