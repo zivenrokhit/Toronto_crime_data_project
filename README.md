@@ -1,6 +1,7 @@
 # Toronto Police Data Spatial Analysis and Machine Learning
 
 This project involves analyzing data from the Toronto Police API to generate a spatial map and evaluate various machine learning models.
+<img width="347" alt="Screenshot 2025-01-07 at 9 39 59 PM" src="https://github.com/user-attachments/assets/a5941a08-af9c-4fa4-a697-1c01fbe0dd29" />
 
 ## Overview
 
